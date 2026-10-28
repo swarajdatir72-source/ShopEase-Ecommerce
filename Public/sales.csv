@@ -1,0 +1,1011 @@
+Order_ID,Order_Date,Customer_Name,City,State,Customer_Segment,Category,Product,Quantity,Unit_Price,Discount,Sales,Cost,Profit,Payment_Method,Order_Status
+ORD-10630,2025-09-14,Pooja Deshmukh,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Mouse,4,2460,0.0,9840.0,8622.69,1217.31,Net Banking,Delivered
+ORD-10789,2025-09-06,Aarav Singh,Ahmedabad,Gujarat,Small Business,Home Office,Office Chair,50,7900,0.05,375250.0,30783.5,344466.5,UPI,Cancelled
+ORD-10685,2025-11-18,Aarav Jadhav,Ahmedabad,Gujarat,Corporate,Home Office,Office Chair,4,8760,0.0,35040.0,26808.1,8231.9,UPI,Shipped
+ORD-10517,2026-07-29,Neha Singh,Aurangabad,Maharashtra,Small Business,Electronics,Tablet,1,18110,0.15,15393.5,13086.41,2307.09,Credit Card,Delivered
+ORD-10530,2026-02-09,Arjun Deshmukh,Surat,Gujarat,Corporate,Electronics,Headphones,2,2380,0.0,4760.0,3827.57,932.43,UPI,Delivered
+ORD-10658,2026-03-16,Kavya Patil,Aurangabad,Maharashtra,Consumer,Home Office,Office Chair,5,8280,0.0,41400.0,28317.98,13082.02,Credit Card,Delivered
+ORD-10553,2026-01-30,Swaraj Singh,Surat,Gujarat,Consumer,Home Office,Printer,1,13160,0.1,11844.0,9839.38,2004.62,Debit Card,Delivered
+ORD-10532,2025-11-29,Amit Singh,Surat,Gujarat,Corporate,Accessories,USB Hub,3,1110,0.0,3330.0,2389.17,940.83,Debit Card,Delivered
+ORD-10322,2026-05-17,Amit Deshmukh,Nashik,Maharashtra,Consumer,Accessories,Power Bank,4,1740,0.0,6960.0,5194.94,1765.06,UPI,Delivered
+ORD-10071,2025-09-16,Arjun Sharma,Amravati,Maharashtra,Consumer,Electronics,Laptop,4,44320,0.05,168416.0,141094.13,27321.87,Credit Card,Delivered
+ORD-10838,2026-01-06,Rahul Jadhav,Nagpur,Maharashtra,Corporate,Accessories,Power Bank,4,1680,0.1,6048.0,5656.94,391.06,Debit Card,Delivered
+ORD-10454,2026-04-12,Arjun Gupta,Delhi,Delhi,Consumer,Accessories,USB Hub,5,1110,0.0,5550.0,3838.09,1711.91,UPI,Delivered
+ORD-10997,2025-05-02,Arjun Kulkarni,Ahmedabad,Gujarat,Corporate,Home Office,Desk Lamp,5,1930,0.05,9167.5,7053.43,2114.07,Debit Card,Shipped
+ORD-10669,2025-03-05,Ananya Patil,Hyderabad,Telangana,Consumer,Electronics,Laptop,4,46260,0.0,185040.0,152868.17,32171.83,UPI,Delivered
+ORD-10248,2025-08-13,Rahul Jadhav,Mumbai,Maharashtra,Small Business,Electronics,Laptop,3,47370,0.0,142110.0,111459.7,30650.3,UPI,Delivered
+ORD-10614,2025-09-19,Amit Deshmukh,Mumbai,Maharashtra,Consumer,Electronics,Tablet,1,17680,0.0,17680.0,14978.1,2701.9,UPI,Delivered
+ORD-10845,2025-09-08,Kavya Kulkarni,Surat,Gujarat,Consumer,Gaming,Controller,5,2890,0.0,14450.0,10255.66,4194.34,UPI,Delivered
+ORD-10705,2026-02-10,Aditya Joshi,,Madhya Pradesh,Consumer,Electronics,Headphones,5,2470,0.15,10497.5,10825.15,-327.65,Cash,Delivered
+ORD-10299,2025-05-25,Neha Sharma,Kolkata,West Bengal,Consumer,Electronics,Monitor,4,13580,0.1,48888.0,39888.62,8999.38,UPI,Delivered
+ORD-10102,2025-10-02,Rahul Sharma,Kolkata,West Bengal,Consumer,Accessories,Power Bank,4,1800,0.0,7200.0,5106.78,2093.22,UPI,Delivered
+ORD-10903,2026-05-13,Pooja Verma,Mumbai,Maharashtra,Consumer,Electronics,Tablet,2,18350,0.05,34865.0,25811.87,9053.13,,Shipped
+ORD-10920,2025-01-28,Neha Patil,Ahmedabad,Gujarat,Corporate,Home Office,Printer,5,12020,0.0,60100.0,47426.21,12673.79,UPI,Delivered
+ORD-10214,2026-01-06,Arjun Deshmukh,Nashik,Maharashtra,Consumer,Accessories,Mouse,4,950,,3800.0,3250.79,549.21,Debit Card,Delivered
+ORD-10238,2026-05-26,Ananya Joshi,Indore,Madhya Pradesh,Small Business,Accessories,Keyboard,2,1660,0.0,3320.0,2319.1,1000.9,UPI,Delivered
+ORD-10596,2025-11-01,Arjun Deshmukh,Surat,Gujarat,Small Business,Electronics,Laptop,3,47130,0.05,134320.5,99846.26,34474.24,Cash,Delivered
+ORD-10282,2025-07-05,Amit Patil,Pune,Maharashtra,Corporate,Home Office,Printer,1,13220,0.0,13220.0,10412.13,2807.87,Net Banking,Delivered
+ORD-10871,2025-10-22,Kavya Jadhav,Nashik,Maharashtra,Consumer,Home Office,Study Table,5,6500,,32500.0,28220.63,4279.37,UPI,Delivered
+ORD-10287,2026-06-23,Arjun Deshmukh,Bhopal,Madhya Pradesh,Corporate,Accessories,USB Hub,4,1100,0.15,3740.0,3689.48,50.52,UPI,Delivered
+ORD-10923,2026-07-14,Swaraj Kulkarni,Pune,Maharashtra,Consumer,Electronics,Headphones,4,2460,0.15,8364.0,6714.35,1649.65,UPI,Delivered
+ORD-10888,2025-02-01,Isha Deshmukh,Pune,Maharashtra,Consumer,Accessories,Mouse,5,860,0.1,3870.0,3242.15,627.85,Credit Card,Delivered
+ORD-10465,2026-08-02,Aditya Patil,Hyderabad,Telangana,Corporate,Accessories ,Printer,5,12220,0.1,54990.0,45370.83,9619.17,UPI,Delivered
+ORD-10797,2025-10-20,Arjun Singh,Pune,Maharashtra,Small Business,Home Office,Printer,5,12870,0.0,64350.0,53485.03,10864.97,Net Banking,Delivered
+ORD-10097,2025-05-05,Swaraj Pawar,Bengaluru,Karnataka,Small Business,Home Office,Office Chair,1,8730,0.0,8730.0,6385.2,2344.8,Credit Card,Delivered
+ORD-10245,2025-12-30,Rahul Patil,Nagpur,Maharashtra,Consumer,Accessories,Mouse,1,870,0.0,870.0,619.52,250.48,Credit Card,Shipped
+ORD-10890,2026-02-22,Priya Singh,Hyderabad,Telangana,Consumer,Electronics,Tablet,4,18170,0.15,61778.0,55112.95,6665.05,UPI,Delivered
+ORD-10077,2025-07-28,Swaraj Sharma,Delhi,Delhi,Consumer,Home Office,Printer,5,11790,0.15,50107.5,48726.88,1380.62,Debit Card,Delivered
+ORD-10902,2026-02-12,Rahul Patil,Indore,Madhya Pradesh,Corporate,Gaming,Gaming Mouse,5,2670,0.2,10680.0,9633.65,1046.35,Cash,Delivered
+ORD-10210,2025-03-30,Vivaan Kulkarni,Bhopal,Madhya Pradesh,Small Business,electronics,Study Table,1,6460,0.1,5814.0,5633.34,180.66,Credit Card,Delivered
+ORD-10260,2026-02-03,Pooja Jadhav,Nagpur,Maharashtra,Small Business,Accessories,Power Bank,3,1700,0.0,5100.0,4376.22,723.78,Debit Card,Delivered
+ORD-10159,2026-02-27,Sneha Jadhav,Aurangabad,Maharashtra,Small Business,Electronics,Laptop,5,44800,0.0,224000.0,158593.08,65406.92,UPI,Delivered
+ORD-10740,2025-05-08,Swaraj Gupta,Jaipur,Rajasthan,Consumer,Accessories,Power Bank,5,1780,0.1,8010.0,6875.17,1134.83,Credit Card,Delivered
+ORD-10433,2026-07-21,Amit Jadhav,Surat,Gujarat,Small Business,Home Office,Desk Lamp,5,1900,0.1,8550.0,6480.05,2069.95,UPI,Delivered
+ORD-10332,2026-05-02,Priya Singh,Surat,Gujarat,Corporate,Electronics,Smartphone,2,22330,0.0,44660.0,31497.68,13162.32,Debit Card,Delivered
+ORD-10957,2026-04-20,Sneha Deshmukh,Kolkata,West Bengal,Small Business,Electronics,Laptop,5,45680,0.1,205560.0,173456.43,32103.57,Net Banking,Delivered
+ORD-10315,2025-08-15,Rohan Gupta,Ahmedabad,Gujarat,Small Business,Electronics,Laptop,4,43740,0.0,174960.0,126352.13,48607.87,Net Banking,Delivered
+ORD-10295,2025-03-02,Neha Deshmukh,Aurangabad,Maharashtra,Corporate,Electronics,Tablet,4,19330,0.0,77320.0,63650.6,13669.4,Net Banking,Delivered
+ORD-10383,2025-05-22,Neha Kulkarni,Nashik,Maharashtra,Corporate,Accessories,Keyboard,5,1900,0.15,8075.0,7912.84,162.16,Net Banking,Delivered
+ORD-10389,2026-03-01,Kavya Deshmukh,Nashik,Maharashtra,Consumer,Electronics,Tablet,5,17420,0.1,78390.0,66076.18,12313.82,Net Banking,Delivered
+ORD-10576,2026-06-16,Rahul Kulkarni,Aurangabad,Maharashtra,Corporate,Gaming,Gaming Headset,3,3330,0.0,9990.0,8002.88,1987.12,Credit Card,Delivered
+ORD-10880,2025-06-13,Vivaan Singh,Hyderabad,Telangana,Corporate,Electronics,Tablet,4,17240,0.1,62064.0,60291.51,1772.49,Debit Card,Delivered
+ORD-10443,2025-10-17,Priya Singh,Bengaluru,Karnataka,Corporate,Home Office,Study Table,3,6520,0.15,16626.0,15127.23,1498.77,Cash,Delivered
+ORD-10722,2026-03-31,Isha Gupta,Indore,Madhya Pradesh,Corporate,Home Office,Study Table,2,6370,0.2,10192.0,8719.77,1472.23,UPI,Delivered
+ORD-10060,2025-06-06,Aarav Gupta,Hyderabad,Telangana,Consumer,Electronics,Headphones,5,2540,0.0,12700.0,11136.25,1563.75,Debit Card,Delivered
+ORD-10679,2025-01-15,Neha Verma,Pune,Maharashtra,Small Business,Home Office,Office Chair,4,8240,0.1,29664.0,22889.78,6774.22,Credit Card,Delivered
+ORD-10371,2025-11-17,Rahul Patil,Amravati,Maharashtra,Corporate,Home Office,Printer,5,12480,0.0,62400.0,45693.44,16706.56,UPI,Delivered
+ORD-10483,2025-01-13,Kavya Sharma,Bengaluru,Karnataka,Corporate,Home Office,Office Chair,2,8100,0.0,16200.0,11424.6,4775.4,Cash,Cancelled
+ORD-10382,2026-01-03,Neha Kulkarni,Nagpur,Maharashtra,Consumer,Gaming,Gaming Laptop,3,77260,0.0,231780.0,173336.24,58443.76,UPI,Delivered
+ORD-10055,2025-05-12,Isha Pawar,Delhi,Delhi,Small Business,Accessories,Mouse,5,960,0.0,4800.0,4084.04,715.96,UPI,Delivered
+ORD-10024,2026-07-28,Vivaan Pawar,Surat,Gujarat,Corporate,Gaming,Gaming Headset,5,3300,0.0,16500.0,12289.17,4210.83,Debit Card,Delivered
+ORD-10031,2026-01-05,Aditya Kulkarni,Ahmedabad,Gujarat,Consumer,Electronics,Tablet,3,17580,0.1,47466.0,38997.24,8468.76,Credit Card,Shipped
+ORD-10881,2026-02-14,Ananya Jadhav,Ahmedabad,Gujarat,Small Business,Accessories,Mouse,3,870,0.1,2349.0,1791.54,557.46,Debit Card,Delivered
+ORD-10431,2025-08-22,Rohan Patil,Hyderabad,Telangana,Consumer,Electronics,Tablet,2,17870,0.05,33953.0,29719.79,4233.21,UPI,Delivered
+ORD-10011,2025-04-22,Kavya Deshmukh,Delhi,Delhi,Corporate,Accessories,Power Bank,1,1750,0.0,1750.0,1450.38,299.62,Debit Card,Shipped
+ORD-10657,2026-07-27,Sneha Patil,Nashik,Maharashtra,Consumer,Electronics,Tablet,1,19000,0.05,18050.0,13072.47,4977.53,Debit Card,Delivered
+ORD-10814,2026-03-02,Pooja Patil,Mumbai,Maharashtra,Small Business,Accessories,USB Hub,3,1230,0.05,3505.5,2694.13,811.37,Net Banking,Shipped
+ORD-10484,2025-09-27,Vivaan Jadhav,Ahmedabad,Gujarat,Corporate,Accessories,Keyboard,5,1890,0.05,8977.5,7594.56,1382.94,Debit Card,Delivered
+ORD-10544,2025-09-21,Pooja Verma,Pune,Maharashtra,Consumer,Gaming,Controller,4,2850,0.1,10260.0,8985.94,1274.06,UPI,Delivered
+ORD-10200,2025-09-26,Aarav Pawar,Kolkata,West Bengal,Consumer,Home Office,Desk Lamp,5,1730,0.0,8650.0,6389.42,2260.58,UPI,Delivered
+ORD-10502,2025-11-29,Sneha Gupta,Nashik,Maharashtra,Small Business,Electronics,Monitor,5,13410,0.0,67050.0,55464.23,11585.77,Net Banking,Delivered
+ORD-10941,2025-04-24,Isha Singh,Aurangabad,Maharashtra,Consumer,Accessories,Mouse,3,860,0.05,2451.0,2242.04,208.96,Credit Card,Delivered
+ORD-10108,2026-03-20,Rahul Sharma,Ahmedabad,Gujarat,Consumer,Electronics,Headphones,1,2430,0.1,2187.0,1958.24,228.76,UPI,Delivered
+ORD-10219,2026-01-26,Priya Gupta,Amravati,Maharashtra,Consumer,Home Office,Office Chair,5,8390,0.05,39852.5,28984.38,10868.12,UPI,Delivered
+ORD-10926,2025-06-09,Rahul Kulkarni,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Laptop,2,75790,0.0,151580.0,106352.27,45227.73,Credit Card,Delivered
+ORD-10175,2025-09-29,Priya Patil,Indore,Madhya Pradesh,Consumer,Home Office,Study Table,3,6350,0.1,17145.0,15655.34,1489.66,Debit Card,Delivered
+ORD-10724,2026-03-30,Amit Verma,Amravati,Maharashtra,Consumer,Accessories,Keyboard,1,1790,0.0,1790.0,1347.22,442.78,Net Banking,Delivered
+ORD-10882,2025-07-05,Aditya Deshmukh,Ahmedabad,Gujarat,Small Business,Electronics,Monitor,5,14560,0.1,65520.0,52392.85,13127.15,Credit Card,Delivered
+ORD-10934,2026-02-05,Aditya Sharma,Jaipur,Rajasthan,Consumer,Electronics,Laptop,1,42720,0.0,42720.0,34103.46,8616.54,Debit Card,Delivered
+ORD-10395,2025-10-07,Vivaan Kulkarni,Aurangabad,Maharashtra,Consumer,Electronics,Smartphone,2,20910,0.0,41820.0,31714.71,10105.29,UPI,Delivered
+ORD-10040,2025-07-15,Aarav Joshi,Delhi,Delhi,Consumer,Electronics,Smartphone,3,20490,0.0,61470.0,42447.3,19022.7,Credit Card,Delivered
+ORD-10834,2025-06-01,Vivaan Joshi,Kolkata,West Bengal,Consumer,Electronics,Tablet,5,18650,0.0,93250.0,79909.19,13340.81,UPI,Shipped
+ORD-10774,2026-02-11,Ananya Jadhav,Aurangabad,Maharashtra,Consumer,Electronics,Smartphone,1,21750,0.1,19575.0,15937.56,3637.44,UPI,Delivered
+ORD-10352,2025-05-12,Arjun Joshi,Hyderabad,Telangana,Consumer,Accessories,USB Hub,5,1130,0.0,5650.0,4331.03,1318.97,Net Banking,Delivered
+ORD-10067,2025-09-24,Isha Patil,Bengaluru,Karnataka,Small Business,Gaming,Gaming Keyboard,4,4000,0.1,14400.0,11111.03,3288.97,UPI,Cancelled
+ORD-10278,2025-04-27,Neha Gupta,Nashik,Maharashtra,Consumer,Electronics,Smartphone,4,21780,0.05,82764.0,76409.53,6354.47,UPI,Delivered
+ORD-10068,2025-06-13,Swaraj Sharma,Ahmedabad,Gujarat,Small Business,Home Office,Printer,5,12190,0.0,60950.0,53485.45,7464.55,Credit Card,Delivered
+ORD-10911,2025-01-23,Amit Deshmukh,Bhopal,Madhya Pradesh,Consumer,Accessories,Keyboard,4,1780,0.0,7120.0,4994.77,2125.23,Credit Card,Delivered
+ORD-10440,2026-05-18,Isha Singh,Pune,Maharashtra,Consumer,Home Office,Study Table,1,6880,0.0,6880.0,5982.42,897.58,Debit Card,Delivered
+ORD-10737,2026-02-15,Rohan Joshi,Nagpur,Maharashtra,Consumer,Gaming,Gaming Mouse,2,2630,0.1,4734.0,3849.3,884.7,UPI,Delivered
+ORD-10297,2025-09-29,Kavya Kulkarni,Surat,Gujarat,Corporate,Electronics,Monitor,5,13880,0.05,65930.0,50615.62,15314.38,Debit Card,Delivered
+ORD-10621,2025-09-27,Arjun Sharma,Nagpur ,Maharashtra,Corporate,Electronics,Laptop,1,45510,0.0,45510.0,33293.39,12216.61,UPI,Delivered
+ORD-10491,2025-02-23,Amit Kulkarni,Pune,Maharashtra,Consumer,Electronics,Smartphone,2,22620,0.1,40716.0,36451.99,4264.01,UPI,Delivered
+ORD-10820,2025-10-21,Neha Singh,Nashik,Maharashtra,Consumer,Electronics,Smartphone,3,23530,0.0,70590.0,48676.04,21913.96,Debit Card,Delivered
+ORD-10559,2025-12-08,Pooja Kulkarni,Hyderabad,Telangana,Consumer,Accessories,USB Hub,3,1230,0.0,3690.0,3213.56,476.44,UPI,Delivered
+ORD-10425,2025-01-29,Rohan Sharma,Amravati,Maharashtra,Consumer,Home Office,Printer,4,11670,0.0,46680.0,37888.36,8791.64,Credit Card,Delivered
+ORD-10925,2026-01-16,Ananya Deshmukh,Jaipur,Rajasthan,Consumer,Accessories,Webcam,5,3310,0.05,15722.5,11390.43,4332.07,Credit Card,Delivered
+ORD-10313,2025-09-09,Kavya Kulkarni,Pune,Maharashtra,Small Business,Home Office,Office Chair,4,8420,0.15,28628.0,27335.06,1292.94,UPI,Delivered
+ORD-10185,2026-03-15,Vivaan Verma,Nashik,Maharashtra,Consumer,Accessories,Webcam,3,3230,0.05,9205.5,7707.5,1498.0,UPI,Delivered
+ORD-10333,2025-09-30,Isha Singh,,Delhi,Small Business,Home Office,Office Chair,3,8570,0.0,25710.0,19004.48,6705.52,UPI,Shipped
+ORD-10089,2025-01-31,Rahul Deshmukh,Bengaluru,Karnataka,Consumer,Accessories,Power Bank,2,1920,0.0,3840.0,2793.12,1046.88,Debit Card,Delivered
+ORD-10064,2026-03-13,Arjun Pawar,Hyderabad,Telangana,Corporate,Gaming,Gaming Laptop,2,77010,0.15,130917.0,123995.48,6921.52,Credit Card,Delivered
+ORD-10835,2025-07-27,Rahul Joshi,Aurangabad,Maharashtra,Corporate,Gaming,Gaming Mouse,1,2480,0.1,2232.0,1878.1,353.9,Debit Card,Delivered
+ORD-10577,2025-01-31,Aditya Jadhav,Hyderabad,Telangana,Corporate,Electronics,Smartphone,3,21320,0.05,60762.0,51831.5,8930.5,Net Banking,Delivered
+ORD-10216,2025-10-08,Isha Sharma,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,5,21720,0.1,97740.0,84194.01,13545.99,Credit Card,Delivered
+ORD-10616,2025-02-07,Swaraj Deshmukh,Hyderabad,Telangana,Consumer,Home Office,Study Table,5,6060,0.1,27270.0,24342.32,2927.68,Debit Card,Delivered
+ORD-10514,2025-08-23,Rahul Singh,mumbai,Gujarat,Small Business,Gaming,Gaming Headset,4,3340,0.05,12692.0,11671.85,1020.15,UPI,Delivered
+ORD-10291,2026-07-22,Isha Patil,Nashik,Maharashtra,Corporate,Gaming,Gaming Laptop,4,66530,0.0,266120.0,193601.16,72518.84,Cash,Delivered
+ORD-10378,2026-04-06,Arjun Gupta,Kolkata,West Bengal,Consumer,Electronics,Laptop,5,41410,0.15,175992.5,141813.43,34179.07,UPI,Shipped
+ORD-10892,2025-10-14,Neha Deshmukh,Mumbai,Maharashtra,Small Business,Accessories,Mouse,3,840,0.0,2520.0,2217.35,302.65,UPI,Delivered
+ORD-10970,2026-01-25,Rahul Joshi,Nashik,Maharashtra,Corporate,Home Office,Office Chair,1,8700,0.0,8700.0,7221.91,1478.09,UPI,Delivered
+ORD-10947,2025-06-25,Priya Patil,Hyderabad,Telangana,Consumer,Accessories ,Keyboard,5,1860,0.0,9300.0,6550.15,2749.85,UPI,Delivered
+ORD-10787,2026-03-03,Kavya Sharma,Indore,Madhya Pradesh,Small Business,Accessories,Keyboard,5,1750,0.0,8750.0,7210.73,1539.27,UPI,Delivered
+ORD-10426,2025-02-06,Rohan Jadhav,Delhi,Delhi,Small Business,Gaming,Gaming Laptop,1,74590,0.1,67131.0,63587.82,3543.18,UPI,Delivered
+ORD-10697,2026-02-15,Priya Patil,Bhopal,Madhya Pradesh,Consumer,Electronics,Monitor,4,13750,0.0,55000.0,45613.38,9386.62,Credit Card,Delivered
+ORD-10996,2025-10-19,Amit Verma,Jaipur,Rajasthan,Consumer,Home Office,Office Chair,2,8970,0.05,17043.0,12534.51,4508.49,UPI,Delivered
+ORD-10310,2025-05-11,Rohan Jadhav,Bengaluru,Karnataka,Consumer,Accessories,Keyboard,3,1930,0.0,5790.0,4805.73,984.27,UPI,Delivered
+ORD-10087,2025-10-12,Pooja Jadhav,Delhi,Delhi,Small Business,Home Office,Desk Lamp,5,1710,0.0,8550.0,7170.73,1379.27,UPI,Delivered
+ORD-10732,2026-01-29,Arjun Pawar,PUNE,Madhya Pradesh,Small Business,Accessories,Power Bank,3,1720,0.05,4902.0,4451.23,450.77,Net Banking,Delivered
+ORD-10756,2026-06-10,Aarav Joshi,Hyderabad,Telangana,Consumer,Gaming,Gaming Keyboard,2,4310,0.1,7758.0,7218.33,539.67,Net Banking,Shipped
+ORD-10311,2025-12-27,Pooja Sharma,Bhopal,Madhya Pradesh,Corporate,Electronics,Tablet,4,19170,0.0,76680.0,55517.68,21162.32,UPI,Delivered
+ORD-10539,2026-01-24,Priya Sharma,Jaipur,Rajasthan,Consumer,Home Office,Study Table,4,6030,0.0,24120.0,21012.88,3107.12,Credit Card,Delivered
+ORD-10137,2025-12-20,Rohan Gupta,Aurangabad,Maharashtra,Corporate,Gaming,Gaming Mouse,2,2480,0.0,4960.0,4018.57,941.43,UPI,Delivered
+ORD-10959,2026-04-13,Arjun Patil,Amravati,Maharashtra,Consumer,Home Office,Printer,4,12890,0.15,43826.0,42457.22,1368.78,Credit Card,Delivered
+ORD-11000,2026-07-05,Vivaan Patil,Indore,Madhya Pradesh,Consumer,Home Office,Office Chair,2,8120,0.0,16240.0,12020.22,4219.78,Cash,Delivered
+ORD-10729,2026-07-16,Aditya Jadhav,Nashik,Maharashtra,Small Business,Gaming,Controller,5,2830,0.0,14150.0,11055.54,3094.46,Debit Card,Shipped
+ORD-10262,2025-09-02,Vivaan Sharma,Indore,Madhya Pradesh,Consumer,Electronics,Monitor,2,14020,0.0,28040.0,19498.86,8541.14,Debit Card,Delivered
+ORD-10548,2025-09-12,Rohan Gupta,Hyderabad,Telangana,Corporate,Electronics,Laptop,5,45450,0.0,227250.0,158364.66,68885.34,UPI,Delivered
+ORD-10169,2026-05-26,Swaraj Jadhav,Jaipur,Rajasthan,Consumer,Home Office,Study Table,3,6870,0.15,17518.5,15791.32,1727.18,UPI,Delivered
+ORD-10791,2026-08-01,Isha Sharma,Bengaluru,Karnataka,Consumer,Accessories,Power Bank,5,1760,0.15,7480.0,6219.8,1260.2,Net Banking,Delivered
+ORD-10449,2025-12-26,Sneha Jadhav,Nashik,Maharashtra,Consumer,Accessories,Power Bank,1,1820,0.1,1638.0,1596.75,41.25,Cash,Delivered
+ORD-10140,2025-03-17,Swaraj Jadhav,Aurangabad,Maharashtra,Consumer,Electronics,Laptop,3,44140,0.1,119178.0,115588.8,3589.2,UPI,Delivered
+ORD-10686,2025-03-04,Rohan Pawar,Aurangabad,Maharashtra,Small Business,Accessories,Power Bank,3,1860,0.1,5022.0,4491.57,530.43,Credit Card,Delivered
+ORD-10667,2025-10-27,Pooja Gupta,Ahmedabad,Gujarat,Small Business,Home Office,Desk Lamp,3,1840,0.0,5520.0,4076.71,1443.29,UPI,Delivered
+ORD-10858,2026-07-20,Rohan Kulkarni,Surat,Gujarat,Corporate,Electronics,Laptop,3,42520,0.0,127560.0,104277.04,23282.96,UPI,Delivered
+ORD-10519,2026-01-27,Kavya Gupta,Pune,Maharashtra,Consumer,Electronics,Headphones,5,2300,0.2,9200.0,9930.35,-730.35,UPI,Delivered
+ORD-10409,2026-01-18,Rahul Kulkarni,Jaipur,Rajasthan,Consumer,Electronics,Smartphone,1,23240,0.1,20916.0,17478.31,3437.69,Credit Card,Delivered
+ORD-10534,2026-02-06,Rohan Verma,Ahmedabad,Gujarat,Small Business,Electronics,Tablet,1,16720,0.1,15048.0,13081.52,1966.48,Credit Card,Delivered
+ORD-10056,2026-07-21,Sneha Joshi,Kolkata,West Bengal,Small Business,Home Office,Desk Lamp,3,1730,0.2,4152.0,3686.0,466.0,Cash,Cancelled
+ORD-10121,2026-04-26,Priya Sharma,Bengaluru,Karnataka,Consumer,Accessories,Keyboard,4,1870,0.2,5984.0,5234.77,749.23,Credit Card,Delivered
+ORD-10531,2025-05-02,Kavya Sharma,Nagpur,Maharashtra,Consumer,Accessories,Mouse,3,930,0.0,2790.0,2319.35,470.65,UPI,Cancelled
+ORD-10026,2026-01-02,Sneha Gupta,Nashik,Maharashtra,Consumer,Accessories,Keyboard,2,1900,0.0,3800.0,3324.66,475.34,Credit Card,Cancelled
+ORD-10073,2025-02-11,Swaraj Patil,Bhopal,Madhya Pradesh,Consumer,Electronics,Headphones,2,2570,0.0,5140.0,3957.22,1182.78,UPI,Delivered
+ORD-10045,2025-05-07,Aarav Gupta,Nagpur,Maharashtra,Small Business,Accessories,Keyboard,5,1730,0.05,8217.5,6731.75,1485.75,Credit Card,Delivered
+ORD-10250,2025-03-15,Aditya Jadhav,Amravati,Maharashtra,Consumer,Home Office,Desk Lamp,1,1760,0.0,1760.0,1454.61,305.39,UPI,Delivered
+ORD-10405,2025-10-15,Pooja Jadhav,Indore,Madhya Pradesh,Corporate,Accessories,Mouse,1,900,0.05,855.0,697.99,157.01,Credit Card,Delivered
+ORD-10848,2026-06-10,Pooja Pawar,Nashik,Maharashtra,Consumer,Accessories,Keyboard,1,1860,0.1,1674.0,1369.85,304.15,Debit Card,Delivered
+ORD-10704,2025-03-20,Kavya Pawar,Delhi,Delhi,Corporate,Electronics,Tablet,2,19090,0.2,30544.0,27826.07,2717.93,UPI,Cancelled
+ORD-10919,2025-09-13,Pooja Joshi,Indore,Madhya Pradesh,Consumer,Accessories,Keyboard,2,1910,0.2,3056.0,3132.56,-76.56,Debit Card,Delivered
+ORD-10199,2026-04-30,Sneha Jadhav,Ahmedabad,Gujarat,Small Business,Accessories,Keyboard,4,1790,0.0,7160.0,5183.56,1976.44,Credit Card,Delivered
+ORD-10543,2025-07-22,Sneha Sharma,Amravati,Maharashtra,Small Business,Gaming,Gaming Keyboard,2,3900,0.15,6630.0,5835.88,794.12,UPI,Delivered
+ORD-10356,2026-01-20,Isha Jadhav,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,4,22890,0.15,77826.0,77558.14,267.86,UPI,Delivered
+ORD-10324,2025-07-21,Vivaan Kulkarni,Pune,Maharashtra,Consumer,Accessories,Mouse,5,950,0.05,4512.5,3550.66,961.84,Cash,Shipped
+ORD-10650,2025-07-20,Pooja Joshi,Pune,Maharashtra,Consumer,Electronics,Laptop,3,43460,0.0,130380.0,105604.25,24775.75,UPI,Shipped
+ORD-10917,2025-03-08,Ananya Deshmukh,Hyderabad,Telangana,Corporate,Electronics,Headphones,1,2310,0.15,1963.5,1675.63,287.87,Debit Card,Delivered
+ORD-10236,2025-05-16,Rahul Kulkarni,Nashik,Maharashtra,Small Business,Electronics,Smartphone,5,20850,0.0,104250.0,80253.42,23996.58,UPI,Delivered
+ORD-10581,2026-04-05,Vivaan Joshi,Ahmedabad,Gujarat,Corporate,Electronics,Smartphone,5,21280,0.05,101080.0,81754.65,19325.35,Cash,Delivered
+ORD-10950,2025-09-23,Rohan Deshmukh,Aurangabad,Maharashtra,Consumer,Accessories,Keyboard,1,1680,0.05,1596.0,1303.36,292.64,UPI,Delivered
+ORD-10944,2026-03-20,Aditya Pawar,Ahmedabad,Gujarat,Corporate,Electronics,Monitor,3,13970,0.0,41910.0,30606.98,11303.02,UPI,Delivered
+ORD-10908,2025-09-17,Amit Sharma,Nashik,Maharashtra,Consumer,Accessories,Mouse,1,870,0.0,870.0,684.21,185.79,UPI,Delivered
+ORD-10300,2025-11-19,Priya Deshmukh,Mumbai,Maharashtra,Corporate,Home Office,Office Chair,5,8540,0.0,42700.0,33244.68,9455.32,Credit Card,Delivered
+ORD-10061,2025-03-16,Ananya Kulkarni,Kolkata,West Bengal,Corporate,Accessories,Webcam,5,3330,0.2,13320.0,14345.04,-1025.04,UPI,Delivered
+ORD-10328,2026-04-19,Isha Sharma,Bhopal,Madhya Pradesh,Consumer,Electronics,Tablet,1,16930,0.0,16930.0,13554.81,3375.19,Credit Card,Delivered
+ORD-10932,2025-05-24,Kavya Gupta,Pune,Maharashtra,Consumer,Gaming,Gaming Mouse,2,2510,0.0,5020.0,3699.41,1320.59,UPI,Delivered
+ORD-10602,2026-01-20,Rohan Gupta,Indore,Madhya Pradesh,Corporate,Home Office,Printer,2,13210,0.0,26420.0,18984.56,7435.44,UPI,Delivered
+ORD-10448,2025-07-25,Isha Deshmukh,Bhopal,Madhya Pradesh,Corporate,Electronics,Headphones,1,2310,0.1,2079.0,1632.91,446.09,UPI,Delivered
+ORD-10830,2025-06-10,Kavya Singh,Hyderabad,Telangana,Small Business,Gaming,Gaming Laptop,4,67160,0.0,268640.0,233336.01,35303.99,Debit Card,Delivered
+ORD-10651,2025-05-13,Kavya Joshi,Aurangabad,Maharashtra,Corporate,Home Office,Office Chair,2,8670,0.0,17340.0,13417.83,3922.17,Credit Card,Delivered
+ORD-10599,2025-01-01,Isha Jadhav,Amravati,Maharashtra,Consumer,Accessories,Mouse,2,940,0.05,1786.0,1402.85,383.15,Credit Card,Delivered
+ORD-10545,2026-06-25,Swaraj Pawar,Bhopal,Madhya Pradesh,Consumer,Accessories,Power Bank,1,1780,0.2,1424.0,1371.39,52.61,Net Banking,Delivered
+ORD-10785,2025-11-29,Amit Patil,Bengaluru,Karnataka,Consumer,Gaming,Controller,1,2590,0.0,2590.0,1866.39,723.61,UPI,Delivered
+ORD-10306,2026-01-30,Pooja Kulkarni,Bhopal,Madhya Pradesh,Corporate,Home Office,Office Chair,2,8030,0.1,14454.0,12071.77,2382.23,UPI,Delivered
+ORD-10319,2025-08-07,Aarav Verma,Delhi,Delhi,Consumer,Electronics,Smartphone,4,20370,0.15,69258.0,58888.82,10369.18,UPI,Delivered
+ORD-10761,2025-02-18,Priya Deshmukh,Indore,Madhya Pradesh,Corporate,Electronics,Laptop,5,42600,0.2,170400.0,168824.35,1575.65,Debit Card,Delivered
+ORD-10495,2025-04-27,Aarav Pawar,Hyderabad,Telangana,Consumer,Electronics,Smartphone,5,22640,0.0,113200.0,87339.32,25860.68,Credit Card,Delivered
+ORD-10266,2025-05-31,Rohan Kulkarni,Bengaluru,Karnataka,Consumer,Electronics,Headphones,5,2630,0.1,11835.0,9596.89,2238.11,Net Banking,Delivered
+ORD-10111,2025-08-09,Swaraj Kulkarni,Mumbai,Maharashtra,Corporate,Gaming,Gaming Mouse,4,2610,0.1,9396.0,8133.7,1262.3,Credit Card,Delivered
+ORD-10694,2025-01-06,Neha Jadhav,Pune,Maharashtra,Corporate,Home Office,Office Chair,3,9000,0.0,27000.0,23289.05,3710.95,Debit Card,Delivered
+ORD-10945,2026-04-09,Arjun Patil,Surat,Gujarat,Consumer,Electronics,Smartphone,4,22450,0.0,89800.0,65490.74,24309.26,UPI,Delivered
+ORD-10528,2025-06-05,Sneha Verma,Aurangabad,Maharashtra,Small Business,Home Office,Study Table,4,6550,0.0,26200.0,21496.57,4703.43,UPI,Delivered
+ORD-10257,2025-10-10,Arjun Jadhav,Jaipur,Rajasthan,Consumer,Accessories,Keyboard,5,1790,0.05,8502.5,7856.7,645.8,UPI,Delivered
+ORD-10261,2026-01-21,Pooja Kulkarni,Ahmedabad,Gujarat,Consumer,Gaming,Controller,5,2860,0.0,14300.0,11079.41,3220.59,Credit Card,Delivered
+ORD-10635,2025-02-01,Neha Verma,Surat,Gujarat,Corporate,Electronics,Headphones,4,2410,0.15,8194.0,7264.42,929.58,UPI,Delivered
+ORD-10824,2025-07-26,Priya Verma,Surat,Gujarat,Consumer,Electronics,Tablet,3,17270,0.1,46629.0,41805.85,4823.15,UPI,Delivered
+ORD-10430,2025-01-08,Vivaan Jadhav,Bhopal,Madhya Pradesh,Corporate,Electronics,Headphones,4,2390,0.0,9560.0,8399.92,1160.08,Credit Card,Delivered
+ORD-10631,2026-06-29,Amit Verma,Hyderabad,Telangana,Consumer,Electronics,Smartphone,3,20640,0.1,55728.0,51487.08,4240.92,UPI,Delivered
+ORD-10381,2025-06-19,Kavya Gupta,Aurangabad,Maharashtra,Small Business,Electronics,Headphones,3,2460,0.0,7380.0,5790.95,1589.05,Debit Card,Delivered
+ORD-10434,2025-09-21,Neha Joshi,Bhopal,Madhya Pradesh,Consumer,Home Office,Printer,5,12570,0.0,62850.0,51778.78,11071.22,Debit Card,Delivered
+ORD-10735,2026-05-11,Amit Verma,Ahmedabad,Gujarat,Consumer,Accessories,Keyboard,1,1830,0.0,1830.0,1327.03,502.97,Credit Card,Delivered
+ORD-10138,2026-01-10,Rohan Gupta,Nagpur,Maharashtra,Consumer,Electronics,Laptop,5,42590,0.0,212950.0,177036.05,35913.95,Credit Card,Delivered
+ORD-10358,2025-07-04,Amit Joshi,Jaipur,Rajasthan,Corporate,Accessories,Webcam,1,3240,0.0,3240.0,2241.81,998.19,Credit Card,Delivered
+ORD-10529,2025-02-21,Amit Deshmukh,Nagpur,Maharashtra,Corporate,Electronics,Monitor,3,13740,0.1,37098.0,35163.09,1934.91,UPI,Delivered
+ORD-10222,2025-08-17,Neha Patil,Amravati,Maharashtra,Small Business,Electronics,Tablet,2,18600,0.0,37200.0,31103.9,6096.1,UPI,Delivered
+ORD-10757,2026-04-23,Rahul Sharma,Nagpur,Maharashtra,Consumer,Home Office,Printer,2,11600,0.0,23200.0,17696.81,5503.19,UPI,Delivered
+ORD-10597,2025-11-13,Kavya Sharma,Delhi,Delhi,Consumer,Home Office,Desk Lamp,3,1880,0.1,5076.0,4099.27,976.73,UPI,Cancelled
+ORD-10560,2026-07-24,Ananya Kulkarni,Nagpur,Maharashtra,Corporate,Electronics,Headphones,2,2700,0.05,5130.0,4137.47,992.53,UPI,Delivered
+ORD-10364,2026-05-21,Swaraj Pawar,Nashik,Maharashtra,Consumer,Accessories,USB Hub,1,1120,0.2,896.0,895.86,0.14,UPI,Delivered
+ORD-10526,2025-02-12,Rahul Kulkarni,Jaipur,Rajasthan,Small Business,Home Office,Desk Lamp,3,1800,0.0,5400.0,4452.59,947.41,Credit Card,Delivered
+ORD-10209,2026-04-09,Rahul Sharma,Aurangabad,Maharashtra,Small Business,Electronics,Tablet,5,19170,0.15,81472.5,83583.8,-2111.3,UPI,Delivered
+ORD-10412,2025-06-22,Swaraj Singh,Mumbai,Maharashtra,Consumer,Electronics,Laptop,5,43840,0.2,175360.0,181406.75,-6046.75,Credit Card,Delivered
+ORD-10335,2025-03-09,Arjun Deshmukh,Nashik,Maharashtra,Small Business,Home Office,Study Table,5,6920,0.1,31140.0,28208.42,2931.58,UPI,Delivered
+ORD-10211,2026-03-14,Swaraj Sharma,Nashik,Maharashtra,Consumer,Electronics,Monitor,2,14680,0.0,29360.0,24709.84,4650.16,Debit Card,Delivered
+ORD-10351,2025-11-11,Arjun Sharma,Mumbai,Maharashtra,Consumer,Electronics,Smartphone,1,20590,0.0,20590.0,15048.25,5541.75,Debit Card,Delivered
+ORD-10079,2025-07-26,Rahul Joshi,Jaipur,Rajasthan,Corporate,Electronics,Laptop,4,46270,0.0,185080.0,150243.7,34836.3,UPI,Delivered
+ORD-10030,2026-05-16,Sneha Kulkarni,Ahmedabad,Gujarat,Corporate,Gaming,Gaming Mouse,5,2450,0.05,11637.5,8445.07,3192.43,UPI,Delivered
+ORD-10281,2026-05-03,Priya Joshi,Jaipur,Rajasthan,Consumer,Accessories,Keyboard,1,1790,0.0,1790.0,1511.61,278.39,Credit Card,Delivered
+ORD-10586,2025-02-04,Neha Kulkarni,Mumbai,Maharashtra,Consumer,Gaming,Controller,3,2870,0.15,7318.5,6024.5,1294.0,UPI,Delivered
+ORD-10753,2026-08-08,Swaraj Jadhav,Nagpur,Maharashtra,Consumer,Electronics,Laptop,4,43430,0.0,173720.0,124074.38,49645.62,Debit Card,Delivered
+ORD-10781,2025-07-20,Pooja Joshi,Bhopal,Madhya Pradesh,Consumer,Accessories,Keyboard,4,1700,0.1,6120.0,5701.07,418.93,UPI,Delivered
+ORD-10290,2025-11-24,Priya Joshi,Amravati,Maharashtra,Consumer,Home Office,Printer,1,12520,0.05,11894.0,10793.76,1100.24,UPI,Delivered
+ORD-10166,2026-08-07,Ananya Joshi,Bhopal,Madhya Pradesh,Small Business,Home Office,Desk Lamp,1,1830,0.15,1555.5,1509.37,46.13,UPI,Delivered
+ORD-10606,2026-02-01,Isha Joshi,Amravati,Maharashtra,Small Business,Electronics,Tablet,4,17650,0.15,60010.0,56696.71,3313.29,Cash,Delivered
+ORD-10875,2026-05-20,Vivaan Verma,Amravati,Maharashtra,Corporate,Electronics,Smartphone,5,23520,0.1,105840.0,95195.95,10644.05,Credit Card,Cancelled
+ORD-10721,2025-09-18,Pooja Singh,Jaipur,Rajasthan,Corporate,Accessories,Power Bank,5,1880,0.0,9400.0,6975.88,2424.12,UPI,Shipped
+ORD-10066,2025-11-08,Aditya Sharma,Nagpur,Maharashtra,Consumer,Gaming,Gaming Headset,5,3320,0.1,14940.0,13474.91,1465.09,Credit Card,Delivered
+ORD-10142,2025-04-02,Swaraj Joshi,Indore,Madhya Pradesh,Corporate,Gaming,Gaming Mouse,3,2690,0.0,8070.0,5813.65,2256.35,Debit Card,Delivered
+ORD-10276,2025-05-21,Isha Pawar,Surat,Gujarat,Corporate,Home Office,Printer,1,13490,0.0,13490.0,11594.29,1895.71,Net Banking,Delivered
+ORD-10836,2025-11-23,Arjun Patil,Bengaluru,Karnataka,Consumer,Accessories,Keyboard,1,1880,0.0,1880.0,1653.81,226.19,UPI,Delivered
+ORD-10656,2025-01-27,Ananya Singh,Nashik,Maharashtra,Consumer,Home Office,Study Table,5,6910,0.05,32822.5,28171.91,4650.59,UPI,Cancelled
+ORD-10466,2025-03-15,Sneha Jadhav,Nashik,Maharashtra,Small Business,Electronics,Tablet,2,17840,0.0,35680.0,30415.14,5264.86,Cash,Delivered
+ORD-10671,2025-10-25,Isha Kulkarni,Pune,Maharashtra,Small Business,Accessories,Keyboard,30,1900,0.1,51300.0,3170.39,48129.61,Credit Card,Delivered
+ORD-10320,2026-06-28,Vivaan Jadhav,Aurangabad,Maharashtra,Consumer,Home Office,Study Table,2,6590,0.0,13180.0,11529.34,1650.66,,Delivered
+ORD-10399,2025-04-28,Vivaan Pawar,Aurangabad,Maharashtra,Small Business,Gaming,Controller,3,2720,0.0,8160.0,7104.75,1055.25,UPI,Delivered
+ORD-10307,2025-05-08,Rohan Joshi,Kolkata,West Bengal,Small Business,Home Office,Study Table,5,6460,0.0,32300.0,27988.3,4311.7,Debit Card,Delivered
+ORD-10308,2026-04-03,Arjun Patil,Ahmedabad,Gujarat,Small Business,Gaming,Gaming Mouse,4,2400,0.1,8640.0,7716.94,923.06,Debit Card,Delivered
+ORD-10829,2026-05-07,Rahul Pawar,Nagpur,Maharashtra,Corporate,Electronics,Headphones,5,2360,0.0,11800.0,8755.05,3044.95,UPI,Delivered
+ORD-10334,2025-04-19,Vivaan Jadhav,Jaipur,Rajasthan,Consumer,Electronics,Headphones,2,2520,0.1,4536.0,3555.71,980.29,UPI,Delivered
+ORD-10050,2026-06-02,Priya Joshi,Jaipur,Rajasthan,Corporate,Electronics,Tablet,5,19070,0.0,95350.0,80586.33,14763.67,UPI,Delivered
+ORD-10826,2025-02-16,Vivaan Kulkarni,Ahmedabad,Gujarat,Corporate,Home Office,Printer,4,11700,0.05,44460.0,38282.07,6177.93,Debit Card,Delivered
+ORD-10003,2025-06-04,Aarav Gupta,Bengaluru,Karnataka,Corporate,Electronics,Smartphone,4,23650,0.15,80410.0,79787.0,623.0,Debit Card,Delivered
+ORD-10549,2026-02-09,Neha Patil,Kolkata,West Bengal,Consumer,Electronics,Smartphone,1,23590,0.0,23590.0,18243.01,5346.99,Debit Card,Delivered
+ORD-10353,2025-08-11,Rahul Pawar,Delhi,Delhi,Corporate,Accessories,Webcam,2,3270,0.1,5886.0,5471.98,414.02,UPI,Cancelled
+ORD-10913,2025-08-27,Swaraj Gupta,Hyderabad,Telangana,Consumer,Gaming,Controller,2,2660,0.05,5054.0,4143.85,910.15,UPI,Delivered
+ORD-10952,2025-04-18,Isha Jadhav,Surat,Gujarat,Small Business,Home Office,Office Chair,4,8600,0.0,34400.0,23452.76,10947.24,Credit Card,Cancelled
+ORD-10347,2025-05-03,Vivaan Singh,Mumbai,Maharashtra,Consumer,Home Office,Desk Lamp,3,1760,0.05,5016.0,4424.66,591.34,UPI,Delivered
+ORD-10217,2025-02-27,Aarav Verma,Nagpur,Maharashtra,Consumer,Accessories,USB Hub,1,1170,0.0,1170.0,1001.4,168.6,Debit Card,Delivered
+ORD-10825,2025-03-13,Priya Verma,Surat,Gujarat,Consumer,Gaming,Gaming Headset,3,3720,0.0,11160.0,9233.38,1926.62,Net Banking,Delivered
+ORD-10582,2025-08-17,Arjun Joshi,Kolkata,West Bengal,Consumer,Gaming,Gaming Headset,2,3660,0.0,7320.0,5923.88,1396.12,Debit Card,Delivered
+ORD-10034,2025-05-04,Neha Pawar,Pune,Maharashtra,Consumer,Electronics,Headphones,4,2620,0.2,8384.0,8782.27,-398.27,UPI,Shipped
+ORD-10032,2026-05-12,Aarav Sharma,Amravati,Maharashtra,Corporate,Accessories,Mouse,4,910,0.0,3640.0,3087.83,552.17,Credit Card,Delivered
+ORD-10232,2025-03-05,Aarav Sharma,Indore,Madhya Pradesh,Small Business,Electronics,Smartphone,1,23690,0.0,23690.0,18566.81,5123.19,UPI,Delivered
+ORD-10755,2025-11-06,Arjun Sharma,Jaipur,Rajasthan,Small Business,Electronics,Headphones,1,2490,0.15,2116.5,1785.74,330.76,Credit Card,Delivered
+ORD-10193,2025-01-23,Neha Singh,,Maharashtra,Consumer,Gaming,Controller,1,2700,0.0,2700.0,2201.1,498.9,Debit Card,Delivered
+ORD-10515,2025-05-07,Neha Sharma,Pune,Maharashtra,Corporate,Accessories,Keyboard,5,1940,0.05,9215.0,7571.1,1643.9,UPI,Delivered
+ORD-10004,2026-02-19,Aditya Deshmukh,Surat,Gujarat,Consumer,Accessories,Webcam,5,3340,0.0,16700.0,12437.09,4262.91,UPI,Delivered
+ORD-10205,2025-07-31,Neha Gupta,Jaipur,Rajasthan,Consumer,Accessories,Keyboard,2,1850,0.15,3145.0,2884.01,260.99,Net Banking,Delivered
+ORD-10540,2026-01-16,Aditya Pawar,Amravati,Maharashtra,Small Business,Accessories,Mouse,2,950,0.05,1805.0,1539.28,265.72,Cash,Delivered
+ORD-10663,2025-10-25,Aditya Sharma,Jaipur,Rajasthan,Corporate,Electronics,Laptop,2,45430,0.1,81774.0,68233.06,13540.94,Credit Card,Delivered
+ORD-10989,2025-12-26,Rahul Jadhav,Jaipur,Rajasthan,Consumer,Accessories,USB Hub,4,1110,0.15,3774.0,3841.26,-67.26,Debit Card,Delivered
+ORD-10110,2026-07-28,Swaraj Singh,Indore,Madhya Pradesh,Small Business,Accessories,Mouse,5,970,0.0,4850.0,3397.09,1452.91,Debit Card,Delivered
+ORD-10603,2026-03-18,Aarav Verma,Ahmedabad,Gujarat,Consumer,Electronics,Tablet,2,16570,0.15,28169.0,23239.61,4929.39,Credit Card,Shipped
+ORD-10078,2025-08-26,Vivaan Sharma,Aurangabad,Maharashtra,Corporate,Gaming,Gaming Mouse,1,2640,0.15,2244.0,2155.95,88.05,Cash,Delivered
+ORD-10085,2026-02-05,Aditya Sharma,Jaipur,Rajasthan,Consumer,Gaming,Gaming Headset,3,3430,0.0,10290.0,7983.36,2306.64,Credit Card,Delivered
+ORD-10527,2026-07-29,Swaraj Deshmukh,Hyderabad,Telangana,Consumer,Electronics,Smartphone,3,23430,0.0,70290.0,50306.83,19983.17,UPI,Shipped
+ORD-10083,2026-02-26,Rohan Joshi,Bhopal,Madhya Pradesh,Small Business,Home Office,Desk Lamp,1,1770,0.15,1504.5,1387.35,117.15,UPI,Delivered
+ORD-10255,2026-02-18,Kavya Verma,Indore,Madhya Pradesh,Small Business,Home Office,Printer,1,12470,0.0,12470.0,10453.75,2016.25,UPI,Delivered
+ORD-10765,2025-01-06,Aarav Verma,Kolkata,West Bengal,Consumer,Home Office,Office Chair,3,9080,0.0,27240.0,20521.56,6718.44,Credit Card,Delivered
+ORD-10429,2025-01-08,Vivaan Deshmukh,Bengaluru,Karnataka,Consumer,Gaming,Controller,1,2950,0.0,2950.0,2254.81,695.19,Credit Card,Delivered
+ORD-10916,2026-04-07,Arjun Verma,Aurangabad,Maharashtra,Small Business,Home Office,Study Table,2,6380,0.0,12760.0,10310.2,2449.8,Cash,Delivered
+ORD-10524,2026-08-04,Isha Patil,Nashik,Maharashtra,Consumer,Gaming,Controller,3,2710,0.0,8130.0,6277.45,1852.55,UPI,Delivered
+ORD-10468,2025-01-17,Ananya Pawar,Amravati,Maharashtra,Consumer,Accessories,Power Bank,2,1840,0.05,3496.0,2540.06,955.94,Net Banking,Delivered
+ORD-10645,2025-10-01,Arjun Deshmukh,Amravati,Maharashtra,Small Business,Electronics,Monitor,3,13320,0.2,31968.0,28312.89,3655.11,UPI,Delivered
+ORD-10006,2026-07-12,Neha Gupta,Ahmedabad,Gujarat,Corporate,Gaming,Controller,2,2620,0.0,5240.0,3566.04,1673.96,Debit Card,Delivered
+ORD-10406,2025-01-06,Aarav Deshmukh,Mumbai,Maharashtra,Corporate,Gaming,Gaming Keyboard,2,4280,0.1,7704.0,5938.99,1765.01,UPI,Delivered
+ORD-10469,2025-02-12,Rohan Pawar,Nashik,Maharashtra,Consumer,Electronics,Smartphone,1,22190,0.0,22190.0,17108.83,5081.17,Debit Card,Delivered
+ORD-10098,2025-03-17,Rahul Sharma,Nashik,Maharashtra,Small Business,Home Office,Desk Lamp,4,1740,0.0,6960.0,5234.11,1725.89,Credit Card,Delivered
+ORD-10927,2025-06-28,Amit Deshmukh,Surat,Gujarat,Consumer,Home Office,Study Table,5,6580,0.0,32900.0,27773.59,5126.41,UPI,Delivered
+ORD-10360,2026-03-09,Swaraj Pawar,Nagpur,Maharashtra,Consumer,Gaming,Gaming Mouse,4,2490,0.0,9960.0,6824.21,3135.79,Net Banking,Delivered
+ORD-10877,2025-11-06,Ananya Sharma,Surat,Gujarat,Consumer,Home Office,Printer,5,13470,0.0,67350.0,56116.37,11233.63,UPI,Delivered
+ORD-10267,2025-06-20,Pooja Patil,Kolkata,West Bengal,Small Business,Home Office,Office Chair,2,7830,0.05,14877.0,12437.68,2439.32,Cash,Delivered
+ORD-10423,2026-08-01,Arjun Sharma,Mumbai,Maharashtra,Corporate,Accessories,USB Hub,2,1140,0.0,2280.0,1831.84,448.16,Net Banking,Delivered
+ORD-10463,2026-02-12,Aarav Deshmukh,Indore,Madhya Pradesh,Consumer,Electronics,Laptop,5,45320,0.0,226600.0,167218.47,59381.53,UPI,Delivered
+ORD-10696,2025-04-01,Ananya Pawar,Jaipur,Rajasthan,Small Business,Electronics,Smartphone,4,21500,0.0,86000.0,72914.38,13085.62,Cash,Delivered
+ORD-10974,2025-11-22,Kavya Joshi,Bengaluru,Karnataka,Consumer,Electronics,Headphones,2,2440,0.0,4880.0,3658.73,1221.27,UPI,Delivered
+ORD-10494,2026-01-07,Vivaan Singh,Ahmedabad,Gujarat,Consumer,Gaming,Controller,5,2680,0.05,12730.0,10382.52,2347.48,UPI,Delivered
+ORD-10119,2025-02-22,Arjun Sharma,Aurangabad,Maharashtra,Consumer,Gaming,Gaming Headset,5,3630,0.0,18150.0,14829.63,3320.37,Credit Card,Delivered
+ORD-10972,2026-06-01,Arjun Jadhav,Amravati,Maharashtra,Consumer,Accessories,USB Hub,3,1150,0.0,3450.0,2553.66,896.34,UPI,Delivered
+ORD-10251,2025-12-23,Ananya Singh,Hyderabad,Telangana,Consumer,Electronics,Tablet,3,17530,0.1,47331.0,41776.57,5554.43,UPI,Delivered
+ORD-10343,2026-04-23,Sneha Singh,Bengaluru,Karnataka,Consumer,Electronics,Smartphone,2,20620,0.05,39178.0,32872.93,6305.07,UPI,Delivered
+ORD-10010,2026-01-02,Priya Deshmukh,Amravati,Maharashtra,Corporate,Gaming,Gaming Keyboard,3,4150,0.0,12450.0,10285.07,2164.93,Credit Card,Delivered
+ORD-10197,2025-07-08,Rahul Jadhav,Surat,Gujarat,Consumer,Electronics,Laptop,1,42200,0.05,40090.0,30954.48,9135.52,UPI,Delivered
+ORD-10742,2025-11-04,Aditya Singh,Bhopal,Madhya Pradesh,Consumer,Gaming,Gaming Headset,1,3490,0.1,3141.0,2954.9,186.1,UPI,Delivered
+ORD-10082,2026-01-30,Aarav Verma,Kolkata,West Bengal,Consumer,Home Office,Desk Lamp,5,1770,0.05,8407.5,7073.78,1333.72,UPI,Delivered
+ORD-10949,2025-11-06,Sneha Kulkarni,Bhopal,Madhya Pradesh,Small Business,Home Office,Study Table,4,6720,0.15,22848.0,18510.25,4337.75,UPI,Delivered
+ORD-10480,2026-03-22,Isha Sharma,Aurangabad,Maharashtra,Consumer,Electronics,Tablet,5,18750,0.0,93750.0,79569.91,14180.09,Credit Card,Delivered
+ORD-10626,2025-09-01,Pooja Jadhav,Delhi,Delhi,Small Business,Gaming,Gaming Mouse,3,2650,0.05,7552.5,6469.8,1082.7,UPI,Delivered
+ORD-10240,2026-01-22,Swaraj Sharma,Amravati,Maharashtra,Corporate,Gaming,Gaming Headset,1,3340,0.0,3340.0,2436.57,903.43,Credit Card,Delivered
+ORD-10293,2026-01-15,Aarav Verma,Bengaluru,Karnataka,Consumer,Gaming,Gaming Mouse,5,2600,0.0,13000.0,9067.63,3932.37,UPI,Delivered
+ORD-10212,2026-03-31,Swaraj Pawar,Surat,Gujarat,Small Business,Electronics,Tablet,4,18470,0.0,73880.0,54506.96,19373.04,Net Banking,Delivered
+ORD-10901,2025-01-13,Neha Pawar,Bhopal,Madhya Pradesh,Corporate,Accessories,Webcam,4,2950,0.1,10620.0,8383.07,2236.93,UPI,Delivered
+ORD-10362,2025-08-29,Arjun Singh,Hyderabad,Telangana,Consumer,Gaming,Gaming Laptop,1,75420,0.1,67878.0,61551.14,6326.86,Debit Card,Delivered
+ORD-10533,2025-11-18,Sneha Gupta,Aurangabad,Maharashtra,Consumer,Accessories,USB Hub,4,1110,0.1,3996.0,3808.41,187.59,Net Banking,Delivered
+ORD-10228,2026-03-15,Amit Sharma,Nagpur,Maharashtra,Small Business,Accessories,Webcam,3,3390,0.0,10170.0,7545.71,2624.29,Debit Card,Delivered
+ORD-10865,2026-01-30,Aditya Patil,Mumbai,Maharashtra,Small Business,Home Office,Desk Lamp,4,1800,0.0,7200.0,5495.54,1704.46,UPI,Delivered
+ORD-10363,2025-09-18,Neha Verma,Hyderabad,Telangana,Consumer,Electronics,Headphones,3,2520,0.0,7560.0,5147.13,2412.87,Debit Card,Delivered
+ORD-10853,2025-06-19,Isha Pawar,Ahmedabad,Gujarat,Small Business,Home Office,Desk Lamp,1,1720,0.0,1720.0,1338.38,381.62,UPI,Delivered
+ORD-10955,2026-03-18,Pooja Kulkarni,Jaipur,Rajasthan,Consumer,Gaming,Gaming Headset,3,3550,0.05,10117.5,8297.53,1819.97,Credit Card,Delivered
+ORD-10965,2026-05-24,Amit Joshi,Delhi,Delhi,Small Business,Home Office,Office Chair,4,8070,0.0,32280.0,23020.48,9259.52,UPI,Delivered
+ORD-10366,2025-03-01,Rohan Pawar,Delhi,Delhi,Consumer,Electronics,Headphones,4,2500,0.05,9500.0,8279.37,1220.63,UPI,Delivered
+ORD-10771,2026-03-25,Rohan Verma,Indore,Madhya Pradesh,Consumer,Accessories,USB Hub,2,1130,0.15,1921.0,1732.84,188.16,Credit Card,Delivered
+ORD-10860,2026-08-06,Rahul Jadhav,Indore,Madhya Pradesh,Consumer,Accessories,Mouse,1,930,0.0,930.0,802.54,127.46,UPI,Delivered
+ORD-10372,2025-05-11,Swaraj Verma,Hyderabad,Telangana,Consumer,Accessories,Keyboard,5,1870,0.0,9350.0,7451.63,1898.37,Credit Card,Delivered
+ORD-10008,2025-12-05,Rahul Verma,Indore,Madhya Pradesh,Corporate,Electronics,Laptop,5,42850,0.0,214250.0,152728.79,61521.21,Credit Card,Delivered
+ORD-10156,2026-05-15,Aarav Gupta,Amravati,Maharashtra,Consumer,Electronics,Headphones,1,2570,0.1,2313.0,2199.4,113.6,UPI,Delivered
+ORD-10546,2025-05-13,Rohan Gupta,Nashik,Maharashtra,Consumer,Home Office,Study Table,4,6680,0.1,24048.0,20156.11,3891.89,Credit Card,Delivered
+ORD-10808,2026-04-18,Amit Verma,Surat,Gujarat,Small Business,Electronics,Laptop,5,47590,0.0,237950.0,172281.03,65668.97,Cash,Delivered
+ORD-10486,2025-01-07,Swaraj Deshmukh,Aurangabad,Maharashtra,Small Business,Accessories,Power Bank,2,1800,0.0,3600.0,3111.22,488.78,UPI,Delivered
+ORD-10585,2026-01-30,Amit Deshmukh,Nagpur,Maharashtra,Consumer,Electronics,Headphones,2,2450,0.0,4900.0,3356.36,1543.64,UPI,Delivered
+ORD-10786,2025-08-23,Amit Kulkarni,Delhi,Delhi,Consumer,Accessories,Webcam,5,3270,0.0,16350.0,14283.43,2066.57,UPI,Delivered
+ORD-10571,2026-06-01,Vivaan Pawar,Delhi,Delhi,Corporate,Electronics,Monitor,5,14850,0.05,70537.5,59516.76,11020.74,UPI,Delivered
+ORD-10478,2026-07-17,Aarav Joshi,Indore,Madhya Pradesh,Consumer,Home Office,Study Table,4,6040,0.0,24160.0,19651.43,4508.57,Debit Card,Cancelled
+ORD-10583,2025-07-15,Aditya Verma,Bengaluru,Karnataka,Consumer,Accessories,Mouse,2,900,0.1,1620.0,1307.95,312.05,Debit Card,Delivered
+ORD-10943,2026-07-14,Kavya Gupta,Bengaluru,Karnataka,Corporate,Gaming,Gaming Keyboard,1,3930,0.0,3930.0,3015.13,914.87,UPI,Delivered
+ORD-10698,2025-07-03,Neha Pawar,Nagpur,Maharashtra,Consumer,Electronics,Tablet,2,17470,0.0,34940.0,24810.86,10129.14,Debit Card,Delivered
+ORD-10833,2025-01-02,Aarav Singh,Pune,Maharashtra,Small Business,Home Office,Office Chair,3,8190,0.0,24570.0,20210.16,4359.84,Credit Card,Delivered
+ORD-10535,2025-11-14,Rohan Verma,Kolkata,West Bengal,Consumer,Accessories,Keyboard,4,1770,0.0,7080.0,4836.63,2243.37,UPI,Delivered
+ORD-10588,2025-11-25,Arjun Joshi,Indore,Madhya Pradesh,Corporate,Gaming,Gaming Headset,4,3350,0.15,11390.0,10035.52,1354.48,Net Banking,Delivered
+ORD-10715,2026-03-22,Amit Singh,Nashik,Maharashtra,Consumer,Accessories,Mouse,3,890,0.1,2403.0,2181.86,221.14,Credit Card,Delivered
+ORD-10452,2025-01-06,Vivaan Verma,Pune,Maharashtra,Small Business,Electronics,Tablet,5,18200,0.15,77350.0,61992.55,15357.45,UPI,Delivered
+ORD-10457,2025-12-20,Ananya Pawar,Surat,Gujarat,Small Business,Electronics,Monitor,2,14770,0.0,29540.0,24263.9,5276.1,UPI,Delivered
+ORD-10229,2025-08-01,Swaraj Patil,Delhi,Delhi,Consumer,Electronics,Tablet,2,18960,0.15,32232.0,25877.8,6354.2,UPI,Delivered
+ORD-10488,2026-07-01,Aarav Joshi,Delhi,Delhi,Small Business,Gaming,Gaming Mouse,3,2480,0.0,7440.0,6366.77,1073.23,UPI,Delivered
+ORD-10750,2025-05-06,Isha Joshi,Bengaluru,Karnataka,Consumer,Accessories,Power Bank,3,1750,0.1,4725.0,4272.72,452.28,Credit Card,Delivered
+ORD-10213,2025-07-19,Amit Jadhav,Indore,Madhya Pradesh,Consumer,Accessories,Webcam,4,2990,0.0,11960.0,8270.83,3689.17,Debit Card,Delivered
+ORD-10080,2026-02-28,Isha Singh,Aurangabad,Maharashtra,Consumer,Electronics,Laptop,1,48550,0.1,43695.0,33892.58,9802.42,Credit Card,Delivered
+ORD-10149,2026-03-03,Aarav Pawar,Kolkata,West Bengal,Small Business,Electronics,Laptop,5,44340,0.1,199530.0,190821.97,8708.03,UPI,Shipped
+ORD-10303,2025-10-27,Aditya Pawar,Indore,Madhya Pradesh,Consumer,Accessories,Power Bank,1,1910,0.1,1719.0,1566.09,152.91,Credit Card,Delivered
+ORD-10666,2026-05-26,Rahul Singh,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,2,22000,0.15,37400.0,34590.12,2809.88,Credit Card,Delivered
+ORD-10329,2025-12-12,Aditya Jadhav,Mumbai,Maharashtra,Consumer,Home Office,Office Chair,2,8900,0.05,16910.0,13925.43,2984.57,UPI,Cancelled
+ORD-10670,2025-06-04,Priya Singh,Surat,Gujarat,Corporate,Gaming,Gaming Laptop,2,76460,0.1,137628.0,115433.37,22194.63,UPI,Delivered
+ORD-10345,2025-07-31,Pooja Deshmukh,Mumbai,Maharashtra,Consumer,Gaming,Gaming Keyboard,4,4350,0.0,17400.0,14062.56,3337.44,Debit Card,Delivered
+ORD-10712,2025-06-05,Priya Verma,Kolkata,West Bengal,Consumer,Home Office,Study Table,4,6030,0.05,22914.0,20946.57,1967.43,UPI,Delivered
+ORD-10508,2025-06-21,Neha Deshmukh,Delhi,Delhi,Consumer,Electronics,Laptop,5,44700,0.0,223500.0,165497.09,58002.91,Net Banking,Delivered
+ORD-10134,2025-10-29,Priya Joshi,Ahmedabad,Gujarat,Corporate,Accessories,Keyboard,5,1940,0.0,9700.0,7865.1,1834.9,Credit Card,Cancelled
+ORD-10555,2026-06-24,Kavya Gupta,Amravati,Maharashtra,Consumer,Gaming,Gaming Laptop,4,74880,0.1,269568.0,263017.06,6550.94,Cash,Delivered
+ORD-10312,2025-09-02,Priya Singh,Surat,Gujarat,Consumer,Electronics,Headphones,2,2650,0.15,4505.0,4575.41,-70.41,UPI,Delivered
+ORD-10759,2025-10-02,Pooja Deshmukh,Kolkata,West Bengal,Small Business,Electronics,Laptop,3,47070,0.05,134149.5,105170.26,28979.24,Debit Card,Delivered
+ORD-10500,2026-01-26,Isha Kulkarni,Ahmedabad,Gujarat,Corporate,Home Office,Printer,3,12220,0.1,32994.0,28595.05,4398.95,UPI,Delivered
+ORD-10001,2026-07-29,Vivaan Gupta,Bengaluru,Karnataka,Consumer,Accessories,Webcam,2,3090,0.0,6180.0,5000.75,1179.25,UPI,Shipped
+ORD-10317,2025-04-03,Pooja Gupta,Nagpur,Maharashtra,Consumer,Gaming,Controller,4,2820,0.0,11280.0,8031.87,3248.13,Debit Card,Shipped
+ORD-10714,2026-04-23,Swaraj Singh,Aurangabad,Maharashtra,Consumer,Accessories,USB Hub,4,1190,0.0,4760.0,4129.83,630.17,UPI,Delivered
+ORD-10552,2026-07-06,Aarav Sharma,Hyderabad,Telangana,Consumer,Accessories,Power Bank,5,1850,0.0,9250.0,7151.59,2098.41,Credit Card,Delivered
+ORD-10804,2025-10-04,Rohan Kulkarni,Aurangabad,Maharashtra,Small Business,Gaming,Gaming Laptop,1,73840,0.15,62764.0,51542.0,11222.0,UPI,Delivered
+ORD-10537,2025-12-02,Kavya Sharma,Amravati,Maharashtra,Corporate,Gaming,Gaming Mouse,3,2610,0.15,6655.5,6081.86,573.64,Debit Card,Shipped
+ORD-10746,2026-03-24,Ananya Gupta,Bengaluru,Karnataka,Small Business,Gaming,Gaming Headset,3,3660,0.1,9882.0,8761.44,1120.56,UPI,Delivered
+ORD-10846,2026-05-27,Neha Deshmukh,Nashik,Maharashtra,Small Business,Electronics,Monitor,1,14140,0.0,14140.0,10041.99,4098.01,UPI,Delivered
+ORD-10173,2026-08-12,Priya Joshi,Aurangabad,Maharashtra,Consumer,Home Office,Study Table,5,6280,0.15,26690.0,22081.35,4608.65,UPI,Cancelled
+ORD-10126,2026-05-24,Swaraj Jadhav,Pune,Maharashtra,Corporate,Accessories,USB Hub,4,1170,0.05,4446.0,3321.86,1124.14,Debit Card,Delivered
+ORD-10990,2026-07-19,Priya Sharma,Indore,Madhya Pradesh,Corporate,Accessories,USB Hub,2,1170,0.15,1989.0,1668.83,320.17,Credit Card,Delivered
+ORD-10424,2026-05-06,Vivaan Gupta,Pune,Maharashtra,Consumer,Electronics,Headphones,3,2490,0.0,7470.0,5451.34,2018.66,UPI,Delivered
+ORD-10809,2025-09-23,Isha Sharma,,Rajasthan,Consumer,Home Office,Printer,2,12050,0.15,20485.0,18145.56,2339.44,Credit Card,Delivered
+ORD-10912,2026-02-11,Pooja Deshmukh,Bengaluru,Karnataka,Corporate,Home Office,Printer,2,12080,0.15,20536.0,20621.92,-85.92,Debit Card,Delivered
+ORD-10091,2026-07-23,Pooja Singh,Aurangabad,Maharashtra,Consumer,Electronics,Tablet,4,17150,0.05,65170.0,50172.45,14997.55,Net Banking,Delivered
+ORD-10948,2025-04-04,Isha Kulkarni,Mumbai,Maharashtra,Small Business,Electronics,Laptop,4,47600,0.0,190400.0,165315.11,25084.89,UPI,Delivered
+ORD-10182,2025-09-18,Kavya Joshi,Kolkata,West Bengal,Consumer,Accessories,Mouse,5,830,0.15,3527.5,3259.6,267.9,Debit Card,Delivered
+ORD-10275,2025-10-23,Kavya Pawar,Nashik,Maharashtra,Consumer,Electronics,Smartphone,1,22380,0.15,19023.0,19170.33,-147.33,Net Banking,Delivered
+ORD-10904,2026-03-24,Kavya Kulkarni,Indore,Madhya Pradesh,Consumer,Accessories,Power Bank,5,1800,0.0,9000.0,6733.83,2266.17,UPI,Delivered
+ORD-10070,2025-08-28,Amit Jadhav,Nagpur ,Maharashtra,Consumer,Home Office,Study Table,1,6120,0.1,5508.0,5274.26,233.74,Net Banking,Delivered
+ORD-10292,2026-05-02,Ananya Patil,Surat,Gujarat,Consumer,Electronics,Laptop,3,47170,0.0,141510.0,117475.08,24034.92,Credit Card,Delivered
+ORD-10132,2025-03-22,Arjun Gupta,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,2,23210,0.0,46420.0,33017.45,13402.55,Credit Card,Delivered
+ORD-10301,2025-03-11,Vivaan Joshi,Ahmedabad,Gujarat,Small Business,Accessories,Keyboard,3,1760,0.1,4752.0,4285.95,466.05,Credit Card,Delivered
+ORD-10933,2026-03-28,Rohan Jadhav,Aurangabad,Maharashtra,Small Business,Electronics,Monitor,3,15030,0.15,38326.5,30680.51,7645.99,UPI,Delivered
+ORD-10327,2025-05-23,Vivaan Deshmukh,Kolkata,West Bengal,Consumer,Home Office,Office Chair,5,9000,0.0,45000.0,34809.13,10190.87,Credit Card,Delivered
+ORD-10145,2026-07-22,Vivaan Singh,Jaipur,Rajasthan,Consumer,Gaming,Gaming Headset,2,3280,0.1,5904.0,5757.14,146.86,Credit Card,Delivered
+ORD-10498,2025-06-25,Aditya Deshmukh,Jaipur,Rajasthan,Consumer,Home Office,Desk Lamp,1,1730,0.0,1730.0,1314.6,415.4,UPI,Cancelled
+ORD-10678,2025-09-24,Arjun Verma,Kolkata,West Bengal,Corporate,Accessories,Power Bank,5,1730,0.15,7352.5,6180.33,1172.17,Debit Card,Delivered
+ORD-10951,2026-07-06,Kavya Pawar,Kolkata,West Bengal,Corporate,Gaming,Gaming Laptop,3,68070,0.0,204210.0,155277.15,48932.85,Debit Card,Delivered
+ORD-10136,2026-04-02,Kavya Kulkarni,Pune,Maharashtra,Small Business,Accessories,Webcam,1,3350,0.05,3182.5,2688.64,493.86,UPI,Delivered
+ORD-10782,2025-08-18,Kavya Jadhav,Delhi,Delhi,Small Business,Accessories,USB Hub,5,1170,0.0,5850.0,4303.92,1546.08,UPI,Delivered
+ORD-10165,2026-02-22,Pooja Singh,Nashik,Maharashtra,Corporate,Gaming,Gaming Headset,2,3400,0.1,6120.0,5185.24,934.76,Cash,Delivered
+ORD-10029,2025-12-18,Rohan Gupta,Hyderabad,Telangana,Consumer,Accessories,USB Hub,5,1110,0.0,5550.0,4773.02,776.98,Credit Card,Delivered
+ORD-10961,2025-09-28,Priya Jadhav,Jaipur,Rajasthan,Corporate,Accessories,USB Hub,4,1190,0.05,4522.0,3661.5,860.5,Debit Card,Delivered
+ORD-10194,2025-06-16,Aditya Singh,PUNE,Gujarat,Consumer,Electronics,Monitor,1,13950,0.0,13950.0,11256.04,2693.96,Debit Card,Delivered
+ORD-10962,2025-12-20,Swaraj Patil,Indore,Madhya Pradesh,Consumer,Accessories,Mouse,1,890,0.05,845.5,650.84,194.66,UPI,Delivered
+ORD-10644,2026-05-15,Ananya Singh,Jaipur,Rajasthan,Consumer,Home Office,Desk Lamp,3,1710,0.0,5130.0,4245.74,884.26,UPI,Delivered
+ORD-10170,2025-04-07,Isha Deshmukh,Bengaluru,Karnataka,Consumer,Electronics,Monitor,5,14330,0.0,71650.0,59640.12,12009.88,Credit Card,Delivered
+ORD-10986,2025-07-23,Vivaan Verma,Jaipur,Rajasthan,Small Business,Accessories,Mouse,2,830,0.05,1577.0,1266.4,310.6,Debit Card,Delivered
+ORD-10141,2026-05-02,Priya Deshmukh,Amravati,Maharashtra,Corporate,Home Office,Study Table,1,6390,0.15,5431.5,5026.41,405.09,UPI,Delivered
+ORD-10174,2026-06-10,Rohan Deshmukh,Hyderabad,Telangana,Small Business,Gaming,Controller,3,3010,0.0,9030.0,6836.63,2193.37,Credit Card,Delivered
+ORD-10007,2025-11-01,Sneha Verma,Amravati,Maharashtra,Consumer,Gaming,Gaming Headset,2,3290,0.1,5922.0,5709.26,212.74,Debit Card,Delivered
+ORD-10897,2025-11-27,Amit Patil,Pune,Maharashtra,Small Business,Accessories,Power Bank,3,1760,0.05,5016.0,3919.87,1096.13,Credit Card,Delivered
+ORD-10482,2025-08-30,Pooja Jadhav,Aurangabad,Maharashtra,Consumer,Electronics,Headphones,1,2520,0.0,2520.0,2214.97,305.03,UPI,Delivered
+ORD-10074,2026-04-18,Sneha Kulkarni,Surat,Gujarat,Consumer,Home Office,Office Chair,4,8470,0.1,30492.0,28497.62,1994.38,UPI,Delivered
+ORD-10690,2025-05-29,Isha Sharma,Mumbai,Maharashtra,Consumer,Electronics,Headphones,1,2570,0.0,2570.0,1943.55,626.45,UPI,Delivered
+ORD-10584,2025-05-03,Sneha Jadhav,Delhi,Delhi,Small Business,Electronics,Headphones,3,2380,0.1,6426.0,6001.94,424.06,Credit Card,Delivered
+ORD-10239,2025-06-12,Neha Jadhav,Indore,Madhya Pradesh,Corporate,Accessories,Webcam,2,3450,0.0,6900.0,5446.69,1453.31,UPI,Delivered
+ORD-10146,2025-11-26,Arjun Sharma,Jaipur,Rajasthan,Consumer,Accessories,Power Bank,4,1890,0.0,7560.0,5503.49,2056.51,Credit Card,Delivered
+ORD-10800,2025-02-21,Pooja Deshmukh,Mumbai,Maharashtra,Consumer,Accessories,Webcam,1,3290,0.05,3125.5,2496.44,629.06,Debit Card,Delivered
+ORD-10235,2025-01-13,Priya Singh,Nashik,Maharashtra,Corporate,Electronics,Smartphone,5,20290,0.2,81160.0,74076.62,7083.38,Credit Card,Delivered
+ORD-10221,2025-08-26,Rohan Deshmukh,Amravati,Maharashtra,Small Business,Home Office,Study Table,3,6170,0.0,18510.0,15925.78,2584.22,Debit Card,Delivered
+ORD-10479,2025-03-12,Kavya Singh,Delhi,Delhi,Small Business,Accessories,Mouse,3,950,0.0,2850.0,2178.14,671.86,UPI,Delivered
+ORD-10719,2025-08-29,Rohan Deshmukh,Ahmedabad,Gujarat,Consumer,Home Office,Desk Lamp,2,1740,0.2,2784.0,2828.1,-44.1,Debit Card,Delivered
+ORD-10133,2025-09-23,Swaraj Deshmukh,Amravati,Maharashtra,Consumer,Accessories,Keyboard,3,1760,0.15,4488.0,3613.45,874.55,Cash,Delivered
+ORD-10779,2025-12-13,Aditya Joshi,Jaipur,Rajasthan,Consumer,Electronics,Smartphone,5,22060,0.05,104785.0,78303.06,26481.94,UPI,Delivered
+ORD-10985,2026-07-05,Neha Sharma,Bengaluru,Karnataka,Corporate,Gaming,Controller,3,2660,0.0,7980.0,6714.21,1265.79,Credit Card,Delivered
+ORD-10186,2025-03-09,Isha Sharma,Delhi,Delhi,Consumer,Gaming,Gaming Headset,4,3300,0.1,11880.0,10736.5,1143.5,Debit Card,Shipped
+ORD-10042,2026-01-06,Ananya Jadhav,Hyderabad,Telangana,Corporate,Electronics,Headphones,1,2340,0.0,2340.0,1649.44,690.56,UPI,Delivered
+ORD-10617,2025-09-01,Rahul Deshmukh,Bhopal,Madhya Pradesh,Consumer,Accessories,USB Hub,3,1260,0.0,3780.0,2909.57,870.43,Credit Card,Delivered
+ORD-10109,2025-10-08,Vivaan Deshmukh,Mumbai,Maharashtra,Consumer,Accessories,Power Bank,4,1730,0.0,6920.0,4881.64,2038.36,Credit Card,Delivered
+ORD-10595,2026-05-11,Isha Patil,Mumbai,Maharashtra,Corporate,Accessories,Power Bank,3,1840,0.0,5520.0,4344.7,1175.3,UPI,Delivered
+ORD-10057,2025-01-31,Pooja Verma,Nagpur,Maharashtra,Consumer,Electronics,Tablet,3,17740,0.15,45237.0,38637.24,6599.76,Credit Card,Delivered
+ORD-10409,2026-01-18,Rahul Kulkarni,Jaipur,Rajasthan,Consumer,Electronics,Smartphone,1,23240,0.1,20916.0,17478.31,3437.69,Credit Card,Delivered
+ORD-10446,2025-08-06,Neha Joshi,Pune,Maharashtra,Consumer,Electronics,Monitor,4,14480,0.2,46336.0,41718.69,4617.31,Net Banking,Delivered
+ORD-10568,2026-02-24,Pooja Jadhav,Nagpur,Maharashtra,Consumer,Electronics,Headphones,5,2520,0.15,10710.0,10902.01,-192.01,UPI,Delivered
+ORD-10869,2025-04-30,Kavya Verma,Nashik,Maharashtra,Consumer,Electronics,Monitor,4,14120,0.05,53656.0,41631.69,12024.31,UPI,Delivered
+ORD-10025,2026-02-07,Ananya Jadhav,Indore,Madhya Pradesh,Small Business,Gaming,Controller,4,2890,0.15,9826.0,9305.25,520.75,UPI,Delivered
+ORD-10421,2025-11-03,Rahul Singh,Delhi,Delhi,Corporate,Home Office,Office Chair,3,8090,0.0,24270.0,16705.03,7564.97,Cash,Delivered
+ORD-10450,2025-08-27,Rahul Sharma,Surat,Gujarat,Consumer,Accessories,USB Hub,4,1210,0.15,4114.0,3545.51,568.49,Net Banking,Delivered
+ORD-10536,2025-03-31,Sneha Singh,Bengaluru,Karnataka,Small Business,Home Office,Desk Lamp,3,1840,0.0,5520.0,4769.97,750.03,Credit Card,Delivered
+ORD-10779,2025-12-13,Aditya Joshi,Jaipur,Rajasthan,Consumer,Electronics,Smartphone,5,22060,0.05,104785.0,78303.06,26481.94,UPI,Delivered
+ORD-10803,2025-02-20,Aarav Singh,Amravati,Maharashtra,Corporate,Electronics,Monitor,5,14420,0.15,61285.0,57091.46,4193.54,Credit Card,Delivered
+ORD-10935,2025-05-07,Rahul Joshi,Mumbai,Maharashtra,Consumer,Gaming,Gaming Mouse,1,2440,0.0,2440.0,2061.9,378.1,Credit Card,Delivered
+ORD-10339,2026-03-15,Aarav Deshmukh,Hyderabad,Telangana,Consumer,Accessories,Mouse,5,970,0.0,4850.0,3676.2,1173.8,UPI,Delivered
+ORD-10052,2025-01-17,Isha Joshi,Nagpur,Maharashtra,Consumer,Electronics,Tablet,2,17800,0.1,32040.0,27000.12,5039.88,Net Banking,Delivered
+ORD-10716,2025-08-10,Arjun Verma,Kolkata,West Bengal,Small Business,Gaming,Gaming Laptop,3,67870,0.0,203610.0,142751.53,60858.47,Debit Card,Delivered
+ORD-10520,2025-02-28,Isha Joshi,Delhi,Delhi,Consumer,Electronics,Headphones,4,2440,0.1,8784.0,7092.96,1691.04,Debit Card,Shipped
+ORD-10929,2025-07-06,Pooja Kulkarni,Mumbai,Maharashtra,Small Business,Accessories,Webcam,2,3230,0.0,6460.0,5413.69,1046.31,UPI,Delivered
+ORD-10639,2026-05-29,Sneha Patil,Ahmedabad,Gujarat,Small Business,Gaming,Gaming Mouse,2,2470,0.15,4199.0,3657.04,541.96,Credit Card,Delivered
+ORD-10265,2025-05-04,Kavya Sharma,Amravati,Maharashtra,Corporate,Electronics,Headphones,5,2660,0.1,11970.0,10719.91,1250.09,UPI,Delivered
+ORD-10542,2025-05-16,Kavya Patil,Bengaluru,Karnataka,Small Business,Electronics,Monitor,3,12960,0.15,33048.0,31672.51,1375.49,Credit Card,Delivered
+ORD-10718,2026-04-04,Sneha Pawar,Mumbai,Maharashtra,Small Business,Electronics,Smartphone,2,22930,0.0,45860.0,39938.53,5921.47,UPI,Delivered
+ORD-10689,2026-07-27,Aditya Kulkarni,Surat,Gujarat,Small Business,Accessories,USB Hub,1,1190,0.1,1071.0,982.26,88.74,Debit Card,Delivered
+ORD-10590,2025-02-24,Swaraj Pawar,Kolkata,West Bengal,Small Business,Gaming,Controller,1,2630,0.05,2498.5,2097.34,401.16,UPI,Delivered
+ORD-10523,2026-05-17,Ananya Kulkarni,Bhopal,Madhya Pradesh,Corporate,Gaming,Gaming Mouse,1,2430,0.05,2308.5,1930.77,377.73,Credit Card,Delivered
+ORD-10451,2025-12-09,Isha Kulkarni,Mumbai,Maharashtra,Consumer,Gaming,Gaming Keyboard,2,4250,0.0,8500.0,6042.69,2457.31,UPI,Delivered
+ORD-10019,2025-02-22,Rohan Kulkarni,Ahmedabad,Gujarat,Consumer,Electronics,Headphones,1,2370,0.2,1896.0,1682.07,213.93,Net Banking,Delivered
+ORD-10723,2025-02-26,Priya Sharma,Pune,Maharashtra,Consumer,Home Office,Printer,3,13390,0.1,36153.0,28771.76,7381.24,UPI,Delivered
+ORD-10487,2026-07-25,Ananya Joshi,Aurangabad,Maharashtra,Consumer,Gaming,Gaming Laptop,2,73080,0.1,131544.0,108435.01,23108.99,Net Banking,Delivered
+ORD-10573,2026-04-30,Sneha Jadhav,Bengaluru,Karnataka,Corporate,Electronics,Monitor,3,14860,0.15,37893.0,36908.35,984.65,UPI,Delivered
+ORD-10437,2025-01-13,Rohan Gupta,Jaipur,Rajasthan,Consumer,Accessories,Power Bank,1,1680,0.05,1596.0,1449.25,146.75,Net Banking,Delivered
+ORD-10368,2026-03-05,Sneha Pawar,Aurangabad,Maharashtra,Small Business,Accessories,USB Hub,4,1230,0.0,4920.0,3476.48,1443.52,Cash,Shipped
+ORD-10084,2025-09-16,Ananya Joshi,Amravati,Maharashtra,Consumer,Electronics,Monitor,3,14590,0.1,39393.0,36050.05,3342.95,UPI,Delivered
+ORD-10062,2025-06-02,Aarav Sharma,Bhopal,Madhya Pradesh,Consumer,Electronics,Monitor,4,13660,0.1,49176.0,47441.04,1734.96,Cash,Delivered
+ORD-10441,2025-11-14,Priya Patil,Hyderabad,Telangana,Consumer,Electronics,Smartphone,4,21040,0.0,84160.0,62277.21,21882.79,UPI,Delivered
+ORD-10273,2025-02-11,Isha Gupta,Indore,Madhya Pradesh,Small Business,Gaming,Gaming Mouse,4,2570,0.0,10280.0,7342.87,2937.13,Net Banking,Delivered
+ORD-10286,2025-02-20,Ananya Joshi,Delhi,Delhi,Consumer,Accessories,Keyboard,3,1930,0.15,4921.5,4328.0,593.5,Debit Card,Delivered
+ORD-10361,2025-05-26,Aarav Jadhav,Bhopal,Madhya Pradesh,Small Business,Gaming,Gaming Laptop,2,68370,0.05,129903.0,110638.31,19264.69,Debit Card,Delivered
+ORD-10355,2025-08-27,Isha Sharma,Surat,Gujarat,Corporate,Electronics,Headphones,4,2630,0.0,10520.0,7431.71,3088.29,UPI,Delivered
+ORD-10653,2025-05-15,Rahul Deshmukh,Mumbai,Maharashtra,Consumer,Electronics,Smartphone,5,20900,0.1,94050.0,74163.3,19886.7,Debit Card,Delivered
+ORD-10279,2026-02-16,Pooja Deshmukh,Surat,Gujarat,Consumer,Electronics,Headphones,4,2630,0.0,10520.0,7897.78,2622.22,Debit Card,Delivered
+ORD-10013,2026-05-26,Ananya Jadhav,Surat,Gujarat,Consumer,Home Office,Study Table,4,6540,0.0,26160.0,19597.48,6562.52,UPI,Delivered
+ORD-10183,2025-01-26,Kavya Pawar,Bengaluru,Karnataka,Consumer,Accessories,Webcam,3,3050,0.2,7320.0,6386.36,933.64,UPI,Delivered
+ORD-10369,2026-02-27,Vivaan Pawar,Hyderabad,Telangana,Consumer,Accessories,Webcam,3,3300,0.05,9405.0,8590.56,814.44,Credit Card,Delivered
+ORD-10496,2026-07-16,Neha Singh,Bhopal,Madhya Pradesh,Consumer,Electronics,Headphones,2,2660,0.0,5320.0,4489.74,830.26,UPI,Delivered
+ORD-10622,2025-06-18,Aarav Patil,Surat,Gujarat,Consumer,Electronics,Smartphone,1,23740,0.05,22553.0,19732.71,2820.29,UPI,Delivered
+ORD-10224,2025-03-07,Neha Patil,Bengaluru,Karnataka,Consumer,Electronics,Tablet,1,16910,0.0,16910.0,14375.1,2534.9,UPI,Delivered
+ORD-10811,2025-01-20,Swaraj Sharma,Ahmedabad,Gujarat,Consumer,Home Office,Office Chair,5,8980,0.1,40410.0,30903.54,9506.46,Credit Card,Shipped
+ORD-10706,2026-05-27,Rahul Verma,Indore,Madhya Pradesh,Corporate,Electronics,Laptop,5,41530,0.0,207650.0,174622.27,33027.73,UPI,Delivered
+ORD-10507,2025-01-27,Priya Pawar,Bengaluru,Karnataka,Small Business,Accessories,Keyboard,5,1730,0.1,7785.0,6683.34,1101.66,Credit Card,Shipped
+ORD-10550,2025-07-17,Arjun Kulkarni,Delhi,Delhi,Small Business,Accessories,Keyboard,4,1920,0.1,6912.0,5384.02,1527.98,UPI,Delivered
+ORD-10589,2025-02-09,Pooja Jadhav,Surat,Gujarat,Small Business,Accessories,Keyboard,25,1690,0.05,40137.5,2881.01,37256.49,Debit Card,Delivered
+ORD-10335,2025-03-09,Arjun Deshmukh,Nashik,Maharashtra,Small Business,Home Office,Study Table,5,6920,0.1,31140.0,28208.42,2931.58,UPI,Delivered
+ORD-10177,2025-01-29,Rahul Patil,Jaipur,Rajasthan,Corporate,Electronics,Laptop,2,44720,0.1,80496.0,63466.34,17029.66,Cash,Delivered
+ORD-10741,2026-04-14,Isha Kulkarni,Surat,Gujarat,Consumer,Electronics,Headphones,3,2310,0.0,6930.0,5931.82,998.18,Credit Card,Delivered
+ORD-10634,2025-12-06,Swaraj Singh,Delhi,Delhi,Consumer,Gaming,Gaming Laptop,5,67760,0.0,338800.0,291034.97,47765.03,Credit Card,Delivered
+ORD-10592,2025-03-21,Rohan Verma,Nashik,Maharashtra,Consumer,Accessories,Mouse,4,840,0.15,2856.0,2712.26,143.74,Debit Card,Delivered
+ORD-10591,2025-10-04,Isha Sharma,Pune,Maharashtra,Corporate,Gaming,Gaming Headset,5,3380,0.0,16900.0,12046.53,4853.47,Cash,Cancelled
+ORD-10394,2025-10-16,Ananya Patil,Mumbai,Maharashtra,Corporate,Home Office,Office Chair,1,8780,0.0,8780.0,6395.66,2384.34,UPI,Delivered
+ORD-10164,2026-07-14,Isha Deshmukh,Indore,Madhya Pradesh,Consumer,Home Office,Office Chair,4,8750,0.0,35000.0,26486.87,8513.13,UPI,Delivered
+ORD-10249,2025-07-15,Arjun Pawar,Bhopal,Madhya Pradesh,Consumer,Accessories,Keyboard,5,1790,0.0,8950.0,7378.25,1571.75,Debit Card,Shipped
+ORD-10708,2026-05-04,Vivaan Jadhav,Pune,Maharashtra,Consumer,Electronics,Tablet,4,17400,0.1,62640.0,57565.28,5074.72,Net Banking,Delivered
+ORD-10894,2025-07-12,Aditya Jadhav,Bengaluru,Karnataka,Consumer,Electronics,Smartphone,4,21900,0.05,83220.0,75828.42,7391.58,UPI,Delivered
+ORD-10676,2025-07-07,Isha Joshi,Jaipur,Rajasthan,Consumer,Home Office,Office Chair,5,8030,0.1,36135.0,33133.3,3001.7,UPI,Delivered
+ORD-10376,2026-06-06,Arjun Patil,Bengaluru,Karnataka,Consumer,Accessories,Keyboard,4,1840,0.1,6624.0,6180.42,443.58,UPI,Shipped
+ORD-10413,2026-07-18,Vivaan Joshi,Delhi,Delhi,Consumer,Home Office,Printer,2,12350,0.0,24700.0,21546.06,3153.94,Cash,Delivered
+ORD-10075,2025-04-10,Rahul Joshi,Pune,Maharashtra,Consumer,Electronics,Headphones,4,2320,0.05,8816.0,6727.45,2088.55,UPI,Delivered
+ORD-10114,2026-03-09,Neha Sharma,Amravati,Maharashtra,Corporate,Accessories,Mouse,4,960,0.1,3456.0,2786.18,669.82,UPI,Delivered
+ORD-10579,2026-03-13,Isha Kulkarni,Kolkata,West Bengal,Small Business,Accessories,Keyboard,2,1790,0.1,3222.0,3003.0,219.0,UPI,Delivered
+ORD-10939,2026-08-03,Arjun Pawar,Delhi,Delhi,Consumer,Accessories,USB Hub,2,1170,0.1,2106.0,1984.53,121.47,Debit Card,Delivered
+ORD-10391,2026-01-11,Rahul Sharma,Mumbai,Maharashtra,Corporate,Accessories,Keyboard,5,1790,0.0,8950.0,7549.55,1400.45,UPI,Delivered
+ORD-10105,2025-07-05,Sneha Patil,Nagpur,Maharashtra,Consumer,Electronics,Headphones,1,2610,0.0,2610.0,1867.59,742.41,Net Banking,Delivered
+ORD-10115,2025-07-05,Rahul Deshmukh,Nashik,Maharashtra,Consumer,Home Office,Office Chair,1,8540,0.0,8540.0,7461.38,1078.62,Net Banking,Delivered
+ORD-10418,2025-12-03,Arjun Deshmukh,Bengaluru,Karnataka,Corporate,Electronics,Laptop,5,46180,0.1,207810.0,182441.5,25368.5,Credit Card,Delivered
+ORD-10594,2025-10-27,Isha Patil,Mumbai,Maharashtra,Consumer,Accessories,Power Bank,2,1740,0.0,3480.0,2586.97,893.03,Net Banking,Delivered
+ORD-10458,2025-02-09,Ananya Singh,Kolkata,West Bengal,Consumer,Home Office,Study Table,4,6080,0.05,23104.0,18456.35,4647.65,Net Banking,Shipped
+ORD-10410,2025-04-17,Neha Deshmukh,Mumbai,Maharashtra,Small Business,Electronics,Headphones,1,2300,0.05,2185.0,1620.69,564.31,UPI,Cancelled
+ORD-10093,2025-01-15,Rohan Singh,Indore,Madhya Pradesh,Corporate,Electronics,Headphones,1,2540,0.0,2540.0,1913.61,626.39,UPI,Delivered
+ORD-10569,2026-03-08,Pooja Pawar,Indore,Madhya Pradesh,Small Business,Electronics,Smartphone,3,22430,0.2,53832.0,53279.59,552.41,Debit Card,Delivered
+ORD-10090,2026-03-05,Aarav Verma,Ahmedabad,Gujarat,Small Business,Home Office,Study Table,4,6140,0.0,24560.0,17452.26,7107.74,Credit Card,Delivered
+ORD-10337,2025-10-16,Pooja Deshmukh,Indore,Madhya Pradesh,Corporate,Electronics,Monitor,1,14740,0.15,12529.0,11938.78,590.22,UPI,Delivered
+ORD-10999,2026-06-25,Vivaan Gupta,Pune,Maharashtra,Consumer,Electronics,Smartphone,2,21820,0.0,43640.0,31879.55,11760.45,UPI,Delivered
+ORD-10930,2025-06-19,Vivaan Jadhav,Aurangabad,Maharashtra,Consumer,Electronics,Smartphone,2,23100,0.0,46200.0,36504.87,9695.13,UPI,Delivered
+ORD-10942,2025-05-09,Pooja Singh,Delhi,Delhi,Consumer,Gaming,Gaming Mouse,2,2410,0.0,4820.0,3838.2,981.8,Credit Card,Delivered
+ORD-10612,2025-05-16,Neha Gupta,Aurangabad,Maharashtra,Consumer,Accessories,Keyboard,1,1900,0.0,1900.0,1455.19,444.81,UPI,Shipped
+ORD-10600,2026-06-21,,Nashik,Maharashtra,Small Business,Electronics,Laptop,3,47030,0.0,141090.0,105168.68,35921.32,Credit Card,Delivered
+ORD-10618,2025-11-06,Neha Gupta,Hyderabad,Telangana,Small Business,Electronics,Laptop,3,46650,0.0,139950.0,100909.19,39040.81,UPI,Delivered
+ORD-10095,2026-03-25,Priya Deshmukh,Pune,Maharashtra,Small Business,Electronics,Tablet,2,17850,0.0,35700.0,28420.59,7279.41,Credit Card,Delivered
+ORD-10012,2025-09-03,Swaraj Joshi,Mumbai,Maharashtra,Consumer,Electronics,Headphones,4,2480,0.05,9424.0,7742.14,1681.86,UPI,Delivered
+ORD-10397,2025-07-26,Neha Jadhav,Ahmedabad,Gujarat,Consumer,Accessories,Keyboard,4,1900,0.0,7600.0,5980.68,1619.32,Debit Card,Delivered
+ORD-10874,2025-05-29,Aditya Gupta,Bhopal,Madhya Pradesh,Consumer,Gaming,Gaming Keyboard,2,4350,0.05,8265.0,6998.21,1266.79,Credit Card,Delivered
+ORD-10044,2026-02-24,Rohan Joshi,Bhopal,Madhya Pradesh,Consumer,Electronics,Smartphone,1,21020,0.0,21020.0,17570.97,3449.03,Net Banking,Shipped
+ORD-10043,2025-01-29,Swaraj Deshmukh,Delhi,Delhi,Small Business,Gaming,Gaming Keyboard,5,4530,0.1,20385.0,15696.39,4688.61,UPI,Delivered
+ORD-10330,2025-12-19,Sneha Kulkarni,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,3,22330,0.05,63640.5,54697.77,8942.73,UPI,Delivered
+ORD-10168,2025-12-04,Pooja Pawar,Delhi,Delhi,Consumer,Home Office,Desk Lamp,4,1770,0.15,6018.0,5386.32,631.68,Cash,Delivered
+ORD-10501,2026-06-21,Arjun Sharma,Hyderabad,Telangana,Consumer,Home Office,Office Chair,3,8350,0.15,21292.5,21110.18,182.32,Cash,Delivered
+ORD-10885,2026-07-23,Rohan Joshi,Jaipur,Rajasthan,Consumer,Home Office,Desk Lamp,2,1670,0.05,3173.0,2847.7,325.3,Credit Card,Delivered
+ORD-10604,2025-07-29,Vivaan Singh,Pune,Maharashtra,Consumer,Gaming,Gaming Mouse,1,2660,0.1,2394.0,1810.75,583.25,UPI,Delivered
+ORD-10893,2025-10-26,Aarav Gupta,Delhi,Delhi,Small Business,Gaming,Gaming Mouse,1,2570,0.15,2184.5,2132.7,51.8,UPI,Delivered
+ORD-10101,2026-07-12,Priya Singh,Amravati,Maharashtra,Corporate,Electronics,Tablet,2,17200,0.2,27520.0,27334.53,185.47,Credit Card,Delivered
+ORD-10427,2025-01-12,Neha Pawar,Pune,Maharashtra,Consumer,Electronics,Tablet,2,18500,0.0,37000.0,26489.04,10510.96,UPI,Delivered
+ORD-10179,2025-11-20,Rohan Pawar,Jaipur,Rajasthan,Consumer,Gaming,Gaming Keyboard,3,4210,0.0,12630.0,10494.57,2135.43,UPI,Delivered
+ORD-10445,2025-11-25,Isha Patil,Jaipur,Rajasthan,Consumer,Electronics,Headphones,4,2320,0.2,7424.0,7261.81,162.19,Cash,Delivered
+ORD-10417,2025-03-12,Kavya Sharma,Bhopal,Madhya Pradesh,Corporate,Home Office,Office Chair,4,9130,0.05,34694.0,29349.6,5344.4,Credit Card,Delivered
+ORD-10654,2026-01-18,Sneha Patil,Ahmedabad,Gujarat,Small Business,Home Office,Desk Lamp,1,1790,0.0,1790.0,1292.51,497.49,UPI,Delivered
+ORD-10891,2025-03-17,Sneha Sharma,Bengaluru,Karnataka,Consumer,Electronics,Tablet,1,16990,0.0,16990.0,14773.95,2216.05,Credit Card,Delivered
+ORD-10665,2025-07-10,Rohan Patil,Hyderabad,Telangana,Corporate,Electronics,Smartphone,3,22320,0.2,53568.0,47766.98,5801.02,UPI,Delivered
+ORD-10178,2025-02-03,Amit Joshi,Surat,Gujarat,Corporate,Gaming,Gaming Keyboard,5,4170,0.0,20850.0,17288.24,3561.76,UPI,Shipped
+ORD-10396,2025-10-10,Amit Gupta,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Mouse,3,2310,0.05,6583.5,4764.65,1818.85,Credit Card,Delivered
+ORD-10683,2025-03-22,Isha Kulkarni,Delhi,Delhi,Corporate,Accessories,USB Hub,4,1290,0.0,5160.0,3861.3,1298.7,Credit Card,Delivered
+ORD-10802,2026-05-23,Rahul Joshi,Mumbai,Maharashtra,Corporate,Home Office,Printer,5,12620,0.05,59945.0,44126.95,15818.05,UPI,Delivered
+ORD-10971,2026-05-08,Rohan Jadhav,Bengaluru,Karnataka,Consumer,Home Office,Office Chair,3,8170,0.05,23284.5,17243.27,6041.23,Net Banking,Delivered
+ORD-10981,2025-08-10,Sneha Sharma,Pune,Maharashtra,Small Business,Electronics,Headphones,2,2330,0.05,4427.0,3714.23,712.77,UPI,Delivered
+ORD-10384,2025-08-08,Ananya Kulkarni,Hyderabad,Telangana,Consumer,Electronics,Tablet,2,17260,0.0,34520.0,23913.28,10606.72,UPI,Delivered
+ORD-10967,2025-02-04,Pooja Gupta,Bhopal,Madhya Pradesh,Consumer,Electronics,Smartphone,5,23750,0.0,118750.0,100967.37,17782.63,Net Banking,Delivered
+ORD-10619,2025-11-25,Neha Jadhav,Hyderabad,Telangana,Consumer,Accessories,Mouse,1,890,0.05,845.5,677.11,168.39,UPI,Delivered
+ORD-10258,2025-03-16,Ananya Sharma,Bengaluru,Karnataka,Corporate,Electronics,Monitor,3,13710,0.0,41130.0,30847.05,10282.95,Credit Card,Delivered
+ORD-10336,2026-07-11,Kavya Kulkarni,Surat,Gujarat,Corporate,Electronics,Headphones,4,2430,0.0,9720.0,7469.56,2250.44,Cash,Delivered
+ORD-10016,2025-02-27,Isha Joshi,Amravati,Maharashtra,Consumer,Gaming,Gaming Headset,1,3410,0.0,3410.0,2473.88,936.12,Debit Card,Delivered
+ORD-10636,2026-04-23,Ananya Pawar,Pune,Maharashtra,Small Business,Home Office,Printer,4,12560,0.0,50240.0,34636.07,15603.93,UPI,Delivered
+ORD-10325,2026-03-27,Arjun Singh,Nashik,Maharashtra,Consumer,Electronics,Tablet,3,18430,0.15,46996.5,46338.78,657.72,UPI,Delivered
+ORD-10766,2026-06-14,Neha Jadhav,Bhopal,Madhya Pradesh,Small Business,Electronics,Monitor,1,13790,0.1,12411.0,10066.33,2344.67,UPI,Shipped
+ORD-10223,2025-03-31,Neha Verma,Nashik,Maharashtra,Consumer,Gaming,Gaming Laptop,3,74980,0.0,224940.0,176076.48,48863.52,Net Banking,Delivered
+ORD-10180,2026-04-02,Rahul Sharma,mumbai,Karnataka,Consumer,Accessories,Webcam,3,3410,0.0,10230.0,8441.22,1788.78,Credit Card,Delivered
+ORD-10994,2026-03-14,Aditya Sharma,Jaipur,Rajasthan,Consumer,Accessories,Webcam,3,3430,0.05,9775.5,8801.9,973.6,Credit Card,Delivered
+ORD-10522,2026-08-02,Kavya Verma,Mumbai,Maharashtra,Corporate,Home Office,Office Chair,1,8310,0.0,8310.0,6530.44,1779.56,UPI,Delivered
+ORD-10023,2026-01-25,Vivaan Verma,Surat,Gujarat,Consumer,Accessories,Keyboard,5,1710,0.1,7695.0,6221.29,1473.71,Debit Card,Delivered
+ORD-10357,2026-07-23,Neha Joshi,Pune,Maharashtra,Consumer,Home Office,Desk Lamp,2,1890,0.05,3591.0,3163.41,427.59,Net Banking,Delivered
+ORD-10680,2025-04-25,Kavya Pawar,Surat,Gujarat,Consumer,Accessories,Mouse,4,870,0.1,3132.0,2435.99,696.01,UPI,Delivered
+ORD-10870,2025-07-29,Aditya Patil,,Maharashtra,Small Business,Accessories,Mouse,5,860,0.15,3655.0,3373.76,281.24,Debit Card,Delivered
+ORD-10341,2026-07-18,Sneha Deshmukh,Nashik,Maharashtra,Corporate,Home Office,Office Chair,3,8320,0.1,22464.0,20300.55,2163.45,Debit Card,Shipped
+ORD-10432,2025-01-02,Priya Gupta,Pune,Maharashtra,Corporate,Gaming,Controller,2,2820,0.0,5640.0,4222.41,1417.59,Credit Card,Delivered
+ORD-10803,2025-02-20,Aarav Singh,Amravati,Maharashtra,Corporate,Electronics,Monitor,5,14420,0.15,61285.0,57091.46,4193.54,Credit Card,Delivered
+ORD-10842,2026-06-26,Neha Kulkarni,Mumbai,Maharashtra,Corporate,electronics,Laptop,1,45250,0.0,45250.0,35371.07,9878.93,Debit Card,Delivered
+ORD-10204,2026-07-13,Arjun Patil,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Keyboard,5,4050,0.2,16200.0,15905.42,294.58,Cash,Delivered
+ORD-10637,2025-04-29,Aarav Deshmukh,Indore,Madhya Pradesh,Small Business,Accessories,Webcam,2,3420,0.05,6498.0,5191.49,1306.51,Net Banking,Shipped
+ORD-10094,2025-09-22,Sneha Jadhav,Jaipur,Rajasthan,Consumer,Home Office,Study Table,5,6260,0.05,29735.0,25541.63,4193.37,Credit Card,Cancelled
+ORD-10807,2026-01-22,Rahul Deshmukh,Bhopal,Madhya Pradesh,Small Business,Electronics,Smartphone,2,21710,0.1,39078.0,33779.27,5298.73,Net Banking,Delivered
+ORD-10069,2025-08-09,Aditya Verma,Amravati,Maharashtra,Consumer,Accessories,USB Hub,2,1220,0.1,2196.0,1978.84,217.16,UPI,Delivered
+ORD-10629,2025-12-06,Swaraj Verma,Nagpur,Maharashtra,Consumer,Home Office,Study Table,5,6870,0.05,32632.5,25160.8,7471.7,Debit Card,Delivered
+ORD-10285,2026-02-18,Rohan Sharma,Bengaluru,Karnataka,Small Business,Electronics,Tablet,4,17040,0.15,57936.0,53038.91,4897.09,Credit Card,Delivered
+ORD-10886,2026-02-14,Amit Singh,Aurangabad,Maharashtra,Corporate,Accessories,Keyboard,1,1820,0.1,1638.0,1593.71,44.29,UPI,Delivered
+ORD-10435,2026-06-22,Aarav Deshmukh,Delhi,Delhi,Consumer,Home Office,Printer,3,12100,0.0,36300.0,30175.83,6124.17,Credit Card,Delivered
+ORD-10154,2026-03-04,Pooja Kulkarni,Surat,Gujarat,Small Business,Home Office,Office Chair,4,7910,0.15,26894.0,27066.51,-172.51,UPI,Delivered
+ORD-10076,2025-08-13,Vivaan Singh,Jaipur,Rajasthan,Corporate,Electronics,Headphones,2,2690,0.0,5380.0,4682.55,697.45,UPI,Delivered
+ORD-10738,2025-03-12,Priya Sharma,Nagpur,Maharashtra,Small Business,Home Office,Study Table,3,6620,0.2,15888.0,16046.71,-158.71,Net Banking,Delivered
+ORD-10447,2025-10-22,Ananya Verma,Ahmedabad,Gujarat,Consumer,Accessories,Keyboard,5,1670,0.05,7932.5,6103.43,1829.07,UPI,Cancelled
+ORD-10189,2026-02-22,Isha Sharma,Aurangabad,Maharashtra,Consumer,Accessories,USB Hub,5,1280,0.1,5760.0,4865.85,894.15,Credit Card,Delivered
+ORD-10272,2025-07-09,Aarav Gupta,Surat,Gujarat,Corporate,Home Office,Office Chair,2,8570,0.1,15426.0,14432.77,993.23,Credit Card,Delivered
+ORD-10237,2026-08-01,Aarav Singh,Nashik,Maharashtra,Consumer,Home Office,Office Chair,5,8380,0.0,41900.0,33376.92,8523.08,Net Banking,Delivered
+ORD-10488,2026-07-01,Aarav Joshi,Delhi,Delhi,Small Business,Gaming,Gaming Mouse,3,2480,0.0,7440.0,6366.77,1073.23,UPI,Delivered
+ORD-10118,2025-03-24,Swaraj Pawar,mumbai,Maharashtra,Consumer,Electronics,Smartphone,5,22900,0.05,108775.0,97141.77,11633.23,UPI,Delivered
+ORD-10827,2026-03-29,Sneha Pawar,Pune,Maharashtra,Consumer,Accessories,Power Bank,5,1710,0.0,8550.0,5886.39,2663.61,UPI,Delivered
+ORD-10513,2026-05-14,Sneha Deshmukh,Aurangabad,Maharashtra,Consumer,Home Office,Office Chair,1,8360,0.15,7106.0,6364.41,741.59,Debit Card,Delivered
+ORD-10558,2026-02-19,Kavya Jadhav,Surat,Gujarat,Consumer,Electronics,Smartphone,1,20790,0.15,17671.5,17325.76,345.74,Debit Card,Delivered
+ORD-10598,2025-05-14,Aditya Kulkarni,Bengaluru,Karnataka,Corporate,Gaming,Controller,5,2720,0.15,11560.0,10236.24,1323.76,UPI,Cancelled
+ORD-10127,2025-05-28,Ananya Singh,Indore,Madhya Pradesh,Small Business,Electronics,Laptop,1,42040,0.0,42040.0,33617.08,8422.92,Credit Card,Delivered
+ORD-10117,2025-05-18,Swaraj Joshi,Nagpur ,Telangana,Consumer,Electronics,Monitor,4,13150,0.0,52600.0,45098.45,7501.55,Debit Card,Shipped
+ORD-10474,2025-11-17,Ananya Patil,Aurangabad,Maharashtra,Small Business,Home Office,Study Table,4,6460,0.1,23256.0,20686.95,2569.05,UPI,Delivered
+ORD-10966,2025-08-16,Swaraj Singh,Bengaluru,Karnataka,Consumer,Home Office,Study Table,3,6760,0.0,20280.0,17432.21,2847.79,UPI,Delivered
+ORD-10058,2026-06-21,Isha Sharma,Kolkata,West Bengal,Corporate,Accessories,Webcam,4,3040,0.15,10336.0,10157.48,178.52,Credit Card,Delivered
+ORD-10681,2026-04-30,Rohan Jadhav,Kolkata,West Bengal,Consumer,Electronics,Tablet,1,16660,0.0,16660.0,12118.72,4541.28,Net Banking,Delivered
+ORD-10921,2026-06-10,Pooja Sharma,Nashik,Maharashtra,Consumer,Accessories,Webcam,3,3180,0.2,7632.0,6647.18,984.82,UPI,Delivered
+ORD-10370,2026-06-21,Arjun Kulkarni,Surat,Gujarat,Consumer,Accessories,Mouse,3,950,0.0,2850.0,2207.63,642.37,Debit Card,Delivered
+ORD-10269,2026-08-07,Pooja Verma,Surat,Gujarat,Consumer,Electronics,Tablet,5,19050,0.05,90487.5,75837.1,14650.4,Debit Card,Delivered
+ORD-10047,2025-08-22,Swaraj Joshi,Kolkata,West Bengal,Consumer,Home Office,Office Chair,3,7940,0.0,23820.0,17973.09,5846.91,Credit Card,Cancelled
+ORD-10350,2025-11-02,Vivaan Deshmukh,Delhi,Delhi,Corporate,Accessories,Mouse,3,880,0.0,2640.0,2002.04,637.96,UPI,Delivered
+ORD-10196,2026-06-06,Sneha Gupta,Bengaluru,Karnataka,Consumer,Gaming,Gaming Headset,2,3630,0.2,5808.0,5012.59,795.41,Credit Card,Delivered
+ORD-10171,2026-02-16,Vivaan Deshmukh,Nagpur,Maharashtra,Corporate,Electronics,Tablet,3,17460,0.1,47142.0,41964.54,5177.46,Credit Card,Delivered
+ORD-10843,2026-02-24,Amit Joshi,Indore,Madhya Pradesh,Consumer,Gaming,Controller,3,2920,0.0,8760.0,7418.19,1341.81,Credit Card,Delivered
+ORD-10744,2026-06-08,Ananya Gupta,Nashik,Maharashtra,Corporate,Home Office,Office Chair,2,8610,0.0,17220.0,12297.7,4922.3,UPI,Delivered
+ORD-10264,2025-05-01,Priya Joshi,Aurangabad,Maharashtra,Corporate,Electronics,Headphones,4,2480,0.2,7936.0,8306.43,-370.43,UPI,Delivered
+ORD-10444,2025-04-13,Amit Patil,Bhopal,Madhya Pradesh,Consumer,Accessories,USB Hub,3,1240,0.0,3720.0,3171.64,548.36,UPI,Delivered
+ORD-10810,2025-07-29,Amit Kulkarni,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,4,22930,0.1,82548.0,66121.03,16426.97,UPI,Delivered
+ORD-10305,2025-07-23,Rahul Patil,Delhi,Delhi,Consumer,Electronics,Headphones,1,2400,0.05,2280.0,1804.42,475.58,Cash,Delivered
+ORD-10342,2025-01-23,Sneha Deshmukh,Aurangabad,Maharashtra,Consumer,Gaming,Gaming Keyboard,5,4390,0.1,19755.0,18295.32,1459.68,Debit Card,Delivered
+ORD-10605,2025-12-20,Kavya Joshi,Kolkata,West Bengal,Consumer,Home Office,Printer,1,12050,0.1,10845.0,9103.0,1742.0,UPI,Shipped
+ORD-10977,2025-06-29,Rahul Verma,Hyderabad,Telangana,Consumer,Home Office,Desk Lamp,1,1660,0.15,1411.0,1411.61,-0.61,UPI,Delivered
+ORD-10150,2026-02-03,Rohan Deshmukh,Nagpur,Maharashtra,Consumer,Gaming,Gaming Keyboard,3,4240,0.0,12720.0,9786.91,2933.09,UPI,Delivered
+ORD-10125,2026-01-30,Amit Deshmukh,Indore,Madhya Pradesh,Corporate,Electronics,Monitor,5,14320,0.0,71600.0,56993.37,14606.63,Credit Card,Delivered
+ORD-10794,2026-05-02,Aditya Gupta,Amravati,Maharashtra,Consumer,Gaming,Gaming Laptop,2,76750,0.1,138150.0,127571.92,10578.08,UPI,Delivered
+ORD-10831,2025-12-14,Aarav Joshi,Nashik,Maharashtra,Consumer,Home Office,Desk Lamp,4,1890,0.2,6048.0,5847.34,200.66,Credit Card,Delivered
+ORD-10051,2026-01-20,Aarav Gupta,Bhopal,Madhya Pradesh,Consumer,Home Office,Printer,2,12070,0.05,22933.0,21152.37,1780.63,Credit Card,Delivered
+ORD-10354,2026-02-09,Neha Jadhav,Ahmedabad,Gujarat,Consumer,Electronics,Monitor,3,14040,0.05,40014.0,36525.94,3488.06,Debit Card,Shipped
+ORD-10936,2025-05-25,Neha Singh,Delhi,Delhi,Corporate,Accessories,Mouse,5,910,0.0,4550.0,3772.41,777.59,Credit Card,Delivered
+ORD-10143,2025-01-09,Isha Pawar,Bhopal,Madhya Pradesh,Consumer,Accessories,Webcam,1,3360,0.05,3192.0,2934.71,257.29,Debit Card,Delivered
+ORD-10471,2026-04-19,Amit Patil,Amravati,Maharashtra,Consumer,Gaming,Gaming Keyboard,2,4040,0.0,8080.0,7108.86,971.14,Credit Card,Delivered
+ORD-10400,2026-05-15,Aditya Sharma,Kolkata,West Bengal,Consumer,Home Office,Desk Lamp,3,1840,0.0,5520.0,3831.47,1688.53,Debit Card,Delivered
+ORD-10632,2026-03-09,Aditya Joshi,Bengaluru,Karnataka,Consumer,Electronics,Tablet,2,19080,0.0,38160.0,32932.72,5227.28,UPI,Delivered
+ORD-10321,2026-07-18,Aarav Gupta,Delhi,Delhi,Consumer,Electronics,Monitor,4,13800,0.0,55200.0,39984.47,15215.53,UPI,Delivered
+ORD-10020,2026-04-04,Aarav Gupta,Mumbai,Maharashtra,Corporate,Electronics,Tablet,3,18860,0.0,56580.0,43772.91,12807.09,UPI,Delivered
+ORD-10818,2025-12-28,Rohan Sharma,Surat,Gujarat,Small Business,Home Office,Study Table,5,6310,0.0,31550.0,24968.2,6581.8,UPI,Delivered
+ORD-10801,2025-11-24,,Indore,Madhya Pradesh,Small Business,Home Office,Printer,5,13010,0.05,61797.5,52527.16,9270.34,Debit Card,Delivered
+ORD-10817,2026-01-02,Sneha Sharma,Bengaluru,Karnataka,Consumer,Electronics,Laptop,5,44350,0.05,210662.5,174892.89,35769.61,Credit Card,Delivered
+ORD-10408,2025-11-05,Isha Deshmukh,Kolkata,West Bengal,Consumer,Home Office,Printer,1,11890,0.05,11295.5,9208.84,2086.66,UPI,Delivered
+ORD-10538,2026-06-26,Amit Jadhav,Amravati,Maharashtra,Consumer,Accessories,Webcam,4,3340,0.1,12024.0,9494.72,2529.28,Debit Card,Delivered
+ORD-10627,2026-06-28,Rahul Patil,Nashik,Maharashtra,Consumer,Electronics,Laptop,3,45910,0.15,117070.5,107585.21,9485.29,Credit Card,Delivered
+ORD-10039,2025-05-27,Kavya Sharma,Nashik,Maharashtra,Consumer,Home Office,Office Chair,5,8670,0.15,36847.5,34817.53,2029.97,Cash,Delivered
+ORD-10176,2025-10-01,Isha Sharma,Surat,Gujarat,Consumer,Accessories,Webcam,1,3240,0.0,3240.0,2490.94,749.06,UPI,Cancelled
+ORD-10246,2026-03-01,Ananya Gupta,Indore,Madhya Pradesh,Corporate,Home Office,Study Table,3,6820,0.0,20460.0,17696.1,2763.9,UPI,Delivered
+ORD-10837,2025-08-21,Sneha Kulkarni,Surat,Gujarat,Small Business,Electronics,Laptop,2,41960,0.1,75528.0,71088.4,4439.6,Debit Card,Delivered
+ORD-10674,2025-04-23,Neha Singh,Bhopal,Madhya Pradesh,Consumer,Gaming,Gaming Keyboard,2,4280,0.0,8560.0,5861.69,2698.31,UPI,Delivered
+ORD-10762,2025-10-08,Rahul Joshi,Kolkata,West Bengal,Consumer,Gaming,Gaming Laptop,4,71830,0.05,272954.0,248189.22,24764.78,UPI,Delivered
+ORD-10867,2025-08-12,Sneha Kulkarni,Nagpur ,Maharashtra,Corporate,Electronics,Laptop,1,46760,0.0,46760.0,33847.65,12912.35,Credit Card,Delivered
+ORD-10155,2025-10-03,Rahul Joshi,Indore,Madhya Pradesh,Consumer,Gaming,Gaming Headset,3,3370,0.1,9099.0,8034.11,1064.89,UPI,Delivered
+ORD-10288,2026-01-07,Ananya Jadhav,Kolkata,West Bengal,Corporate,Electronics,Smartphone,2,23580,0.15,40086.0,37821.77,2264.23,Credit Card,Delivered
+ORD-10821,2025-05-22,Arjun Deshmukh,Bhopal,Madhya Pradesh,Corporate,Gaming,Controller,5,2720,0.2,10880.0,11510.38,-630.38,Debit Card,Delivered
+ORD-10570,2025-11-18,Arjun Verma,Aurangabad,Maharashtra,Corporate,Electronics,Monitor,3,13630,0.05,38845.5,32594.68,6250.82,Debit Card,Delivered
+ORD-10751,2026-06-19,Isha Verma,Jaipur,Rajasthan,Consumer,Home Office,Desk Lamp,1,1880,0.1,1692.0,1321.64,370.36,Net Banking,Delivered
+ORD-10018,2025-08-03,Rahul Gupta,Surat,Gujarat,Consumer,Electronics,Tablet,3,17270,0.05,49219.5,36945.85,12273.65,Debit Card,Delivered
+ORD-10128,2026-05-19,Neha Deshmukh,Nashik,Maharashtra,Consumer,Accessories,Webcam,4,3140,0.05,11932.0,10017.28,1914.72,UPI,Delivered
+ORD-10323,2025-10-02,Amit Deshmukh,Nashik,Maharashtra,Consumer,Home Office,Printer,3,11930,0.0,35790.0,26458.77,9331.23,Debit Card,Delivered
+ORD-10256,2026-04-19,Rohan Kulkarni,Surat,Gujarat,Consumer,electronics,Laptop,2,47890,0.0,95780.0,66413.35,29366.65,Credit Card,Cancelled
+ORD-10775,2025-08-21,Neha Patil,Bengaluru,Karnataka,Consumer,Accessories,Webcam,1,3420,0.1,3078.0,2546.52,531.48,Credit Card,Delivered
+ORD-10975,2026-02-07,Arjun Joshi,Surat,Gujarat,Consumer,Gaming,Gaming Mouse,4,2370,0.0,9480.0,7469.06,2010.94,UPI,Delivered
+ORD-10191,2025-05-22,Ananya Sharma,Amravati,Maharashtra,Consumer,Gaming,Controller,4,2620,0.0,10480.0,7693.14,2786.86,Debit Card,Shipped
+ORD-10116,2025-11-09,Amit Singh,Amravati,Maharashtra,Consumer,Gaming,Gaming Headset,2,3290,0.0,6580.0,5695.76,884.24,UPI,Delivered
+ORD-10623,2026-07-09,Arjun Pawar,Indore,Madhya Pradesh,Consumer,Electronics,Laptop,4,42850,0.2,137120.0,137579.42,-459.42,UPI,Shipped
+ORD-10607,2025-02-13,Pooja Pawar,Indore,Madhya Pradesh,Consumer,Accessories,USB Hub,1,1240,0.05,1178.0,922.7,255.3,UPI,Shipped
+ORD-10181,2025-12-18,Swaraj Verma,Delhi,Delhi,Consumer,Gaming,Gaming Laptop,4,66280,0.05,251864.0,196105.81,55758.19,,Delivered
+ORD-10302,2025-12-23,Rahul Jadhav,Nagpur,Maharashtra,Corporate,Accessories,Mouse,1,960,0.0,960.0,701.56,258.44,Credit Card,Delivered
+ORD-10095,2026-03-25,Priya Deshmukh,Pune,Maharashtra,Small Business,Electronics,Tablet,2,17850,0.0,35700.0,28420.59,7279.41,Credit Card,Delivered
+ORD-10900,2026-05-21,Ananya Gupta,Hyderabad,Telangana,Consumer,Gaming,Gaming Headset,1,3740,0.0,3740.0,2919.6,820.4,UPI,Delivered
+ORD-10731,2025-12-13,Vivaan Verma,Delhi,Delhi,Corporate,Home Office,Office Chair,5,8780,0.1,39510.0,35375.65,4134.35,Debit Card,Delivered
+ORD-10844,2025-07-13,Vivaan Joshi,Indore,Madhya Pradesh,Small Business,Gaming,Controller,4,2700,0.1,9720.0,8277.98,1442.02,UPI,Delivered
+ORD-10668,2026-04-11,Ananya Deshmukh,Pune,Maharashtra,Corporate,Electronics,Monitor,1,14550,0.0,14550.0,10384.62,4165.38,UPI,Delivered
+ORD-10518,2026-03-31,Swaraj Kulkarni,Aurangabad,Maharashtra,Small Business,Electronics,Laptop,3,45880,0.15,116994.0,99280.68,17713.32,Credit Card,Delivered
+ORD-10995,2025-10-29,Priya Pawar,Pune,Maharashtra,Corporate,Accessories,Mouse,5,960,0.1,4320.0,4158.02,161.98,UPI,Shipped
+ORD-10046,2026-07-20,Aditya Singh,Indore,Madhya Pradesh,Consumer,Accessories,Keyboard,4,1820,0.0,7280.0,6227.98,1052.02,Cash,Delivered
+ORD-10918,2025-07-12,Arjun Singh,Nagpur,Maharashtra,Corporate,Home Office,Study Table,3,6200,0.15,15810.0,14237.94,1572.06,Credit Card,Delivered
+ORD-10158,2025-09-12,Vivaan Pawar,Delhi,Delhi,Small Business,Electronics,Monitor,4,13970,0.1,50292.0,48621.54,1670.46,UPI,Delivered
+ORD-10752,2026-01-10,Amit Joshi,Hyderabad,Telangana,Consumer,Electronics,Laptop,5,48330,0.15,205402.5,177389.62,28012.88,UPI,Delivered
+ORD-10172,2026-02-07,Kavya Kulkarni,mumbai,Maharashtra,Small Business,Electronics,Headphones,3,2510,0.0,7530.0,5269.95,2260.05,UPI,Delivered
+ORD-10017,2025-06-11,Vivaan Pawar,Hyderabad,Telangana,Consumer,Electronics,Laptop,3,44270,0.05,126169.5,114744.0,11425.5,Debit Card,Delivered
+ORD-10512,2025-12-26,Neha Patil,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,3,21680,0.2,52032.0,52683.87,-651.87,Credit Card,Shipped
+ORD-10049,2026-07-27,Ananya Singh,Indore,Madhya Pradesh,Small Business,Electronics,Tablet,4,19010,0.15,64634.0,62479.98,2154.02,UPI,Delivered
+ORD-10982,2025-03-14,Arjun Gupta,Jaipur,Rajasthan,Corporate,Accessories,USB Hub,5,1180,0.0,5900.0,4469.0,1431.0,Debit Card,Delivered
+ORD-10849,2026-08-12,Pooja Jadhav,Mumbai,Maharashtra,Consumer,Electronics,Tablet,5,19380,0.15,82365.0,71317.19,11047.81,UPI,Delivered
+ORD-10516,2025-03-07,Rohan Deshmukh,Amravati,Maharashtra,Corporate,Home Office,Office Chair,4,8560,0.05,32528.0,26700.13,5827.87,Credit Card,Delivered
+ORD-10693,2025-04-27,Kavya Singh,Kolkata,West Bengal,Corporate,Electronics,Headphones,1,2380,0.15,2023.0,2017.55,5.45,UPI,Delivered
+ORD-10481,2025-01-10,Amit Singh,Ahmedabad,Gujarat,Small Business,Home Office,Desk Lamp,4,1710,0.0,6840.0,4729.18,2110.82,UPI,Delivered
+ORD-10284,2025-08-23,Sneha Jadhav,Bhopal,Madhya Pradesh,Small Business,Gaming,Controller,1,2940,0.05,2793.0,2432.11,360.89,UPI,Cancelled
+ORD-10850,2026-03-25,Arjun Deshmukh,Indore,Madhya Pradesh,Consumer,Home Office,Desk Lamp,1,1660,0.0,1660.0,1295.88,364.12,UPI,Delivered
+ORD-10661,2026-01-02,Priya Jadhav,Bengaluru,Karnataka,Corporate,Accessories,USB Hub,2,1290,0.0,2580.0,2163.27,416.73,UPI,Shipped
+ORD-10226,2026-04-10,Swaraj Jadhav,Nashik,Maharashtra,Corporate,Home Office,Printer,4,12270,0.0,49080.0,41610.0,7470.0,Debit Card,Delivered
+ORD-10027,2025-04-24,Pooja Singh,Delhi,Delhi,Consumer,Home Office,Office Chair,2,7850,0.0,15700.0,12376.73,3323.27,UPI,Delivered
+ORD-10790,2025-03-14,Kavya Kulkarni,Amravati,Maharashtra,Small Business,Electronics,Monitor,1,13900,0.0,13900.0,11774.87,2125.13,Debit Card,Delivered
+ORD-10438,2025-10-31,Swaraj Singh,Delhi,Delhi,Corporate,Gaming,Gaming Mouse,3,2680,0.0,8040.0,6001.33,2038.67,Net Banking,Delivered
+ORD-10960,2025-03-29,Ananya Sharma,Ahmedabad,Gujarat,Consumer,Electronics,Smartphone,1,21900,0.05,20805.0,19200.35,1604.65,UPI,Shipped
+ORD-10365,2025-05-28,Sneha Sharma,Aurangabad,Maharashtra,Corporate,Accessories,Mouse,2,910,0.0,1820.0,1358.44,461.56,Credit Card,Delivered
+ORD-10230,2025-09-10,Ananya Patil,Surat,Gujarat,Consumer,Accessories,Keyboard,5,1870,0.0,9350.0,6485.82,2864.18,UPI,Delivered
+ORD-10038,2025-12-14,Priya Pawar,Kolkata,West Bengal,Consumer,Electronics,Monitor,4,13960,0.15,47464.0,43893.2,3570.8,Credit Card,Delivered
+ORD-10976,2026-07-07,Priya Sharma,Amravati,Maharashtra,Consumer,Home Office,Study Table,3,6140,0.1,16578.0,15185.53,1392.47,UPI,Delivered
+ORD-10375,2026-05-02,Amit Jadhav,Pune,Maharashtra,Corporate,Accessories,Power Bank,5,1780,0.05,8455.0,6197.2,2257.8,Debit Card,Delivered
+ORD-10470,2026-04-29,Rohan Sharma,Aurangabad,Maharashtra,Consumer,Accessories,USB Hub,1,1260,0.05,1197.0,1019.69,177.31,UPI,Delivered
+ORD-10978,2025-05-31,Priya Patil,Amravati,Maharashtra,Consumer,Accessories,Keyboard,5,1880,0.0,9400.0,7147.18,2252.82,UPI,Delivered
+ORD-10859,2026-01-28,Rohan Gupta,Nagpur,Maharashtra,Consumer,Electronics,Headphones,3,2360,0.0,7080.0,6150.81,929.19,Credit Card,Delivered
+ORD-10713,2026-03-26,Isha Patil,Nagpur,Maharashtra,Consumer,Accessories,USB Hub,3,1190,0.0,3570.0,2931.6,638.4,UPI,Delivered
+ORD-10733,2025-01-28,Swaraj Jadhav,Nashik,Maharashtra,Small Business,Electronics,Smartphone,1,23690,0.05,22505.5,19868.98,2636.52,UPI,Delivered
+ORD-10195,2025-09-03,Aarav Deshmukh,Indore,Madhya Pradesh,Corporate,Accessories,Mouse,1,920,0.05,874.0,787.55,86.45,Credit Card,Delivered
+ORD-10910,2025-08-05,Aarav Pawar,Pune,Maharashtra,Corporate,Electronics,Smartphone,3,20570,0.1,55539.0,42215.95,13323.05,UPI,Shipped
+ORD-10873,2026-02-01,Rohan Deshmukh,Ahmedabad,Gujarat,Consumer,Home Office,Office Chair,5,9130,0.1,41085.0,32908.93,8176.07,Debit Card,Delivered
+ORD-10504,2026-04-17,Amit Pawar,Indore,Madhya Pradesh,Corporate,Accessories,Keyboard,1,1780,0.1,1602.0,1293.35,308.65,UPI,Delivered
+ORD-10980,2026-06-02,Aarav Singh,Amravati,Maharashtra,Corporate,Home Office,Printer,4,13130,0.05,49894.0,45687.54,4206.46,UPI,Delivered
+ORD-10883,2025-10-26,Kavya Patil,Mumbai,Maharashtra,Corporate,Home Office,Printer,4,11830,0.2,37856.0,33302.42,4553.58,UPI,Delivered
+ORD-10580,2025-09-25,Arjun Singh,Nashik,Maharashtra,Consumer,Home Office,Desk Lamp,1,1900,0.0,1900.0,1620.7,279.3,UPI,Delivered
+ORD-10979,2025-04-24,Kavya Joshi,Delhi,Delhi,Consumer,Home Office,Desk Lamp,2,1940,0.1,3492.0,3021.16,470.84,UPI,Delivered
+ORD-10163,2026-01-24,Priya Joshi,Indore,Madhya Pradesh,Consumer,Home Office,Printer,5,12120,0.1,54540.0,52783.33,1756.67,Credit Card,Delivered
+ORD-10709,2026-08-04,Kavya Deshmukh,Delhi,Delhi,Small Business,Electronics,Monitor,5,13090,0.1,58905.0,45245.37,13659.63,UPI,Delivered
+ORD-10153,2025-07-25,Swaraj Deshmukh,Bengaluru,Karnataka,Consumer,Home Office,Office Chair,4,7950,0.0,31800.0,21702.89,10097.11,Credit Card,Delivered
+ORD-10688,2025-09-25,Amit Verma,Pune,Maharashtra,Small Business,Home Office,Printer,1,12780,0.0,12780.0,9440.92,3339.08,Credit Card,Delivered
+ORD-10707,2026-03-03,Kavya Kulkarni,Ahmedabad,Gujarat,Small Business,Electronics,Headphones,3,2420,0.1,6534.0,5135.7,1398.3,Credit Card,Delivered
+ORD-10763,2026-05-10,Sneha Joshi,Aurangabad,Maharashtra,Consumer,Electronics,Smartphone,3,23760,0.0,71280.0,53157.8,18122.2,UPI,Delivered
+ORD-10112,2026-06-04,Neha Pawar,Bengaluru,Karnataka,Corporate,Gaming,Controller,4,2810,0.1,10116.0,7736.88,2379.12,UPI,Delivered
+ORD-10227,2025-09-15,Rahul Kulkarni,Bengaluru,Karnataka,Consumer,Home Office,Study Table,1,6540,0.05,6213.0,5009.11,1203.89,Net Banking,Delivered
+ORD-10695,2025-04-16,Isha Jadhav,Surat,Gujarat,Consumer,Electronics,Smartphone,5,22570,0.15,95922.5,85977.91,9944.59,Credit Card,Delivered
+ORD-10104,2026-07-18,Ananya Sharma,,Delhi,Consumer,Electronics,Tablet,5,18810,0.05,89347.5,65048.06,24299.44,Debit Card,Cancelled
+ORD-10422,2025-07-13,Priya Jadhav,Nagpur,Maharashtra,Consumer,Electronics,Smartphone,4,20920,0.0,83680.0,65809.68,17870.32,Debit Card,Delivered
+ORD-10420,2026-02-24,Ananya Joshi,Amravati,Maharashtra,Consumer,Accessories,Webcam,4,3390,0.0,13560.0,11327.48,2232.52,UPI,Delivered
+ORD-10758,2026-06-14,Neha Deshmukh,Jaipur,Rajasthan,Consumer,Accessories,Power Bank,5,1780,0.05,8455.0,6092.06,2362.94,Credit Card,Cancelled
+ORD-10587,2026-08-05,Pooja Patil,Aurangabad,Maharashtra,Corporate,Electronics,Headphones,1,2650,0.15,2252.5,2197.24,55.26,Debit Card,Delivered
+ORD-10788,2026-06-18,Pooja Singh,Amravati,Maharashtra,Consumer,Home Office,Office Chair,1,8300,0.0,8300.0,6573.31,1726.69,UPI,Delivered
+ORD-10673,2025-11-30,Pooja Pawar,Nagpur,Maharashtra,Corporate,Home Office,Office Chair,2,8330,0.0,16660.0,12681.96,3978.04,UPI,Delivered
+ORD-10120,2026-07-23,Amit Pawar,Indore,Madhya Pradesh,Corporate,Accessories,Power Bank,5,1870,0.05,8882.5,6556.09,2326.41,Cash,Delivered
+ORD-10054,2025-11-27,Aarav Kulkarni,PUNE,Madhya Pradesh,Consumer,Accessories,Webcam,3,3250,0.0,9750.0,6757.97,2992.03,Debit Card,Delivered
+ORD-10152,2026-06-15,Sneha Pawar,Ahmedabad,Gujarat,Consumer,Home Office,Printer,4,13460,0.05,51148.0,42632.5,8515.5,Credit Card,Delivered
+ORD-10404,2026-08-01,Aarav Deshmukh,Pune,Maharashtra,Consumer,Electronics,Laptop,2,42910,0.0,85820.0,75000.09,10819.91,UPI,Shipped
+ORD-10954,2025-03-28,Arjun Joshi,Jaipur,Rajasthan,Consumer,Electronics,Monitor,1,13730,0.15,11670.5,9363.48,2307.02,UPI,Shipped
+ORD-10208,2025-07-14,Vivaan Verma,Nashik,Maharashtra,Consumer,Gaming,Gaming Keyboard,2,4220,0.0,8440.0,6513.93,1926.07,UPI,Delivered
+ORD-10659,2026-03-16,Pooja Patil,Kolkata,West Bengal,Small Business,Electronics,Tablet,2,16720,0.1,30096.0,23281.33,6814.67,Debit Card,Shipped
+ORD-10852,2025-09-13,Pooja Sharma,Bhopal,Madhya Pradesh,Corporate,Accessories,Mouse,1,870,0.0,870.0,686.35,183.65,Credit Card,Delivered
+ORD-10988,2025-09-17,Aditya Jadhav,Hyderabad,Telangana,Consumer,Electronics,Smartphone,3,21440,0.1,57888.0,44485.43,13402.57,Net Banking,Delivered
+ORD-10009,2025-10-05,Aarav Singh,Indore,Madhya Pradesh,Consumer,Accessories,Mouse,3,920,0.05,2622.0,2118.99,503.01,UPI,Delivered
+ORD-10909,2026-07-17,Pooja Verma,Nashik,Maharashtra,Consumer,Electronics,Monitor,1,14390,0.05,13670.5,11116.25,2554.25,UPI,Delivered
+ORD-10037,2025-09-06,Amit Verma,Nagpur,Maharashtra,Consumer,Gaming,Gaming Mouse,3,2680,0.05,7638.0,6853.36,784.64,Debit Card,Delivered
+ORD-10453,2025-09-11,Aditya Patil,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Laptop,1,66520,0.05,63194.0,54391.25,8802.75,Cash,Shipped
+ORD-10652,2025-12-23,Aditya Joshi,Bengaluru,Karnataka,Corporate,Electronics,Laptop,2,44520,0.0,89040.0,69738.53,19301.47,Cash,Delivered
+ORD-10254,2026-02-12,Priya Singh,Bhopal,Madhya Pradesh,Corporate,Home Office,Office Chair,3,8460,0.05,24111.0,20448.29,3662.71,Debit Card,Delivered
+ORD-10304,2025-09-25,Swaraj Sharma,Indore,Madhya Pradesh,Consumer,Electronics,Monitor,2,14660,0.0,29320.0,24523.55,4796.45,UPI,Delivered
+ORD-10754,2025-01-31,Sneha Joshi,Indore,Madhya Pradesh,Consumer,Electronics,Headphones,4,2670,0.15,9078.0,8801.57,276.43,Credit Card,Delivered
+ORD-10572,2025-02-25,Swaraj Deshmukh,Amravati,Maharashtra,Corporate,Accessories,Power Bank,1,1870,0.05,1776.5,1440.78,335.72,Net Banking,Delivered
+ORD-10624,2025-12-05,Swaraj Deshmukh,Delhi,Delhi,Consumer,Home Office,Office Chair,3,8370,0.0,25110.0,19671.77,5438.23,UPI,Delivered
+ORD-10717,2025-08-25,Pooja Verma,Nashik,Maharashtra,Consumer,Electronics,Headphones,4,2530,0.2,8096.0,7958.98,137.02,UPI,Delivered
+ORD-10905,2025-04-06,Pooja Deshmukh,Jaipur,Rajasthan,Consumer,Electronics,Smartphone,3,20760,0.1,56052.0,50835.54,5216.46,Cash,Shipped
+ORD-10263,2025-08-15,Pooja Joshi,Mumbai,Maharashtra,Corporate,Electronics,Laptop,3,48160,0.05,137256.0,107623.49,29632.51,UPI,Delivered
+ORD-10611,2026-04-11,Rohan Singh,Mumbai,Maharashtra,Consumer,Gaming,Gaming Headset,2,3560,0.0,7120.0,5430.2,1689.8,UPI,Delivered
+ORD-10298,2025-12-25,Sneha Singh,Ahmedabad,Gujarat,Corporate,Electronics,Headphones,3,2600,0.0,7800.0,5314.73,2485.27,UPI,Delivered
+ORD-10415,2025-03-17,Swaraj Pawar,Bengaluru,Karnataka,Consumer,Gaming,Gaming Laptop,1,66470,0.0,66470.0,50350.58,16119.42,Credit Card,Delivered
+ORD-10151,2025-03-07,Amit Kulkarni,Kolkata,West Bengal,Small Business,Electronics,Monitor,1,12970,0.1,11673.0,11201.09,471.91,UPI,Shipped
+ORD-10984,2026-02-18,Arjun Deshmukh,Pune,Maharashtra,Corporate,Electronics,Laptop,3,45100,0.05,128535.0,113377.83,15157.17,UPI,Delivered
+ORD-10641,2026-02-20,Sneha Sharma,Aurangabad,Maharashtra,Corporate,Electronics,Laptop,1,42560,0.2,34048.0,30290.12,3757.88,,Delivered
+ORD-10938,2025-06-30,Vivaan Jadhav,Delhi,Delhi,Consumer,Home Office,Office Chair,1,8210,0.15,6978.5,6938.55,39.95,Credit Card,Delivered
+ORD-10551,2025-02-16,Ananya Pawar,Aurangabad,Maharashtra,Corporate,Accessories,Keyboard,2,1860,0.0,3720.0,2915.15,804.85,UPI,Delivered
+ORD-10799,2025-02-27,Ananya Singh,Nashik,Maharashtra,Corporate,Electronics,Headphones,2,2440,0.1,4392.0,3505.82,886.18,Net Banking,Delivered
+ORD-10489,2025-07-16,Aditya Kulkarni,Nashik,Maharashtra,Consumer,Accessories,Power Bank,4,1710,0.05,6498.0,5292.87,1205.13,Credit Card,Delivered
+ORD-10711,2025-09-18,Pooja Singh,Amravati,Maharashtra,Corporate,Electronics,Headphones,3,2440,0.05,6954.0,5337.2,1616.8,UPI,Delivered
+ORD-10148,2025-02-08,Isha Verma,Bengaluru,Karnataka,Corporate,Electronics,Laptop,4,43040,0.1,154944.0,126684.83,28259.17,Credit Card,Delivered
+ORD-10147,2025-04-03,Aarav Deshmukh,Hyderabad,Telangana,Corporate,Accessories,Keyboard,5,1890,0.1,8505.0,6906.01,1598.99,UPI,Delivered
+ORD-10854,2026-06-28,Kavya Deshmukh,Indore,Madhya Pradesh,Consumer,Gaming,Gaming Headset,2,3770,0.15,6409.0,5245.24,1163.76,Debit Card,Delivered
+ORD-10940,2025-02-06,Amit Jadhav,Indore,Madhya Pradesh,Consumer,Gaming,Gaming Keyboard,5,4470,0.0,22350.0,16481.57,5868.43,UPI,Delivered
+ORD-10747,2025-10-05,Amit Kulkarni,Delhi,Delhi,Consumer,Accessories,Mouse,5,860,0.0,4300.0,3131.7,1168.3,UPI,Cancelled
+ORD-10660,2026-01-08,Swaraj Joshi,Indore,Madhya Pradesh,Consumer,Home Office,Printer,5,12170,0.05,57807.5,51857.75,5949.75,Cash,Delivered
+ORD-10349,2025-03-12,Rohan Patil,Amravati,Maharashtra,Small Business,Accessories,USB Hub,2,1120,0.1,2016.0,1944.55,71.45,UPI,Delivered
+ORD-10464,2025-09-16,Rahul Gupta,Surat,Gujarat,Corporate,Accessories,Power Bank,4,1910,0.0,7640.0,5874.24,1765.76,UPI,Delivered
+ORD-10326,2025-05-02,,Delhi,Delhi,Consumer,Home Office,Office Chair,2,7870,0.2,12592.0,10797.71,1794.29,UPI,Delivered
+ORD-10187,2026-01-29,Pooja Joshi,Bhopal,Madhya Pradesh,Consumer,Electronics,Headphones,5,2640,0.05,12540.0,9554.88,2985.12,UPI,Delivered
+ORD-10124,2025-06-22,Amit Joshi,Nashik,Maharashtra,Consumer,Home Office,Desk Lamp,3,1700,0.1,4590.0,3469.92,1120.08,UPI,Delivered
+ORD-10862,2026-08-10,,Indore,Madhya Pradesh,Consumer,Electronics,Monitor,3,15060,0.15,38403.0,37105.15,1297.85,Net Banking,Delivered
+ORD-10609,2025-08-14,Aarav Gupta,Mumbai,Maharashtra,Consumer,Home Office,Desk Lamp,5,1860,0.2,7440.0,7794.46,-354.46,Credit Card,Shipped
+ORD-10144,2025-09-13,Arjun Sharma,Jaipur,Rajasthan,Consumer,Gaming,Gaming Keyboard,3,4330,0.0,12990.0,8909.49,4080.51,UPI,Cancelled
+ORD-10969,2025-02-12,Rahul Singh,Nashik,Maharashtra,Consumer,Electronics,Headphones,3,2310,0.1,6237.0,4954.53,1282.47,Debit Card,Delivered
+ORD-10198,2026-04-17,Sneha Kulkarni,Aurangabad,Maharashtra,Consumer,Home Office,Desk Lamp,2,1670,0.1,3006.0,2491.8,514.2,Debit Card,Shipped
+ORD-10610,2025-07-11,Aarav Sharma,Bhopal,Madhya Pradesh,Consumer,Accessories,Power Bank,1,1860,0.2,1488.0,1462.46,25.54,UPI,Delivered
+ORD-10280,2026-01-30,Rohan Jadhav,Aurangabad,Maharashtra,Consumer,Gaming,Gaming Mouse,3,2530,0.1,6831.0,5369.39,1461.61,UPI,Delivered
+ORD-10294,2026-02-07,Sneha Sharma,Pune,Maharashtra,Corporate,Home Office,Study Table,4,6600,0.1,23760.0,18967.4,4792.6,Credit Card,Delivered
+ORD-10401,2025-11-14,Rohan Gupta,Amravati,Maharashtra,Consumer,Electronics,Laptop,3,46710,0.0,140130.0,107621.83,32508.17,UPI,Delivered
+ORD-10123,2026-03-29,Swaraj Verma,Hyderabad,Telangana,Small Business,Gaming,Gaming Laptop,4,70010,0.0,280040.0,207543.48,72496.52,UPI,Delivered
+ORD-10184,2025-10-02,Vivaan Gupta,Kolkata,West Bengal,Consumer,Electronics,Headphones,4,2560,0.1,9216.0,8695.65,520.35,Debit Card,Delivered
+ORD-10203,2025-06-07,Neha Patil,Delhi,Delhi,Consumer,Home Office,Printer,4,12590,0.2,40288.0,35006.29,5281.71,UPI,Delivered
+ORD-10439,2026-01-13,Arjun Sharma,Hyderabad,Telangana,Consumer,Electronics,Headphones,5,2450,0.0,12250.0,9076.0,3174.0,UPI,Delivered
+ORD-10247,2026-02-12,Arjun Jadhav,Ahmedabad,Gujarat,Consumer,Home Office,Office Chair,5,8240,0.15,35020.0,35867.2,-847.2,UPI,Delivered
+ORD-10416,2025-05-24,Arjun Verma,Hyderabad,Telangana,Small Business,Electronics,Smartphone,2,22340,0.05,42446.0,30622.49,11823.51,Debit Card,Shipped
+ORD-10784,2025-03-24,Aditya Gupta,Nashik,Maharashtra,Consumer,Accessories,Mouse,4,900,0.0,3600.0,2791.17,808.83,UPI,Delivered
+ORD-10868,2025-01-29,Ananya Pawar,Indore,Madhya Pradesh,Consumer,Home Office,Desk Lamp,5,1780,0.0,8900.0,6965.56,1934.44,UPI,Delivered
+ORD-10915,2026-04-24,Aditya Joshi,Bengaluru,Karnataka,Consumer,Accessories,Mouse,3,860,0.05,2451.0,1973.39,477.61,Debit Card,Delivered
+ORD-10931,2025-04-09,Kavya Singh,Jaipur,Rajasthan,Consumer,Home Office,Desk Lamp,4,1760,0.15,5984.0,4965.37,1018.63,Debit Card,Shipped
+ORD-10896,2025-06-01,Ananya Sharma,Amravati,Maharashtra,Small Business,Home Office,Study Table,2,6760,0.0,13520.0,9373.76,4146.24,Debit Card,Delivered
+ORD-10130,2026-06-21,Vivaan Verma,Mumbai,Maharashtra,Consumer,Accessories,Power Bank,4,1690,0.0,6760.0,5580.97,1179.03,Debit Card,Delivered
+ORD-10638,2026-03-09,Ananya Sharma,Hyderabad,Telangana,Consumer,Electronics,Laptop,5,43750,0.1,196875.0,152234.86,44640.14,UPI,Shipped
+ORD-10403,2026-04-19,Arjun Patil,Pune,Maharashtra,Consumer,Electronics,Headphones,1,2500,0.1,2250.0,2069.73,180.27,Credit Card,Delivered
+ORD-10895,2025-12-14,Ananya Kulkarni,Ahmedabad,Gujarat,Small Business,Home Office,Study Table,5,6800,0.2,27200.0,28469.34,-1269.34,UPI,Delivered
+ORD-10778,2026-06-01,Amit Sharma,Jaipur,Rajasthan,Consumer,Accessories,Webcam,2,3070,0.05,5833.0,4649.04,1183.96,UPI,Delivered
+ORD-10736,2025-08-07,Arjun Gupta,Jaipur,Rajasthan,Consumer,Gaming,Gaming Mouse,5,2660,0.0,13300.0,10206.3,3093.7,Debit Card,Delivered
+ORD-10922,2025-04-02,Arjun Jadhav,Ahmedabad,Gujarat,Corporate,Electronics,Monitor,3,13590,0.0,40770.0,35608.4,5161.6,Net Banking,Delivered
+ORD-10220,2025-05-14,Neha Joshi,Nagpur,Maharashtra,Corporate,Gaming,Gaming Headset,4,3390,0.1,12204.0,10958.2,1245.8,Credit Card,Shipped
+ORD-10642,2025-07-23,Vivaan Deshmukh,Nashik,Maharashtra,Consumer,Electronics,Laptop,4,41920,0.0,167680.0,137963.78,29716.22,UPI,Delivered
+ORD-10924,2025-06-07,Isha Joshi,Indore,Madhya Pradesh,Consumer,Home Office,Office Chair,5,9100,0.1,40950.0,31321.95,9628.05,UPI,Delivered
+ORD-10760,2025-01-16,Isha Pawar,Nashik,Maharashtra,Consumer,Home Office,Desk Lamp,3,1830,0.0,5490.0,4629.01,860.99,UPI,Shipped
+ORD-10815,2025-12-16,,Surat,Gujarat,Corporate,Accessories,Webcam,2,3310,0.2,5296.0,4825.47,470.53,UPI,Delivered
+ORD-10928,2025-09-01,Sneha Jadhav,Kolkata,West Bengal,Consumer,Gaming,Gaming Keyboard,2,4040,0.1,7272.0,6961.78,310.22,UPI,Shipped
+ORD-10625,2025-07-02,Aarav Kulkarni,Delhi,Delhi,Consumer,Gaming,Controller,4,2930,0.05,11134.0,8162.82,2971.18,UPI,Shipped
+ORD-10847,2025-03-24,Isha Sharma,Bengaluru,Karnataka,Corporate,Gaming,Gaming Headset,2,3430,0.15,5831.0,5574.64,256.36,UPI,Delivered
+ORD-10768,2025-08-29,Rohan Jadhav,Pune,Maharashtra,Consumer,Electronics,Smartphone,5,21460,0.0,107300.0,82202.39,25097.61,UPI,Delivered
+ORD-10387,2025-07-22,Rahul Verma,Ahmedabad,Gujarat,Corporate,Accessories,Mouse,4,910,0.0,3640.0,2822.6,817.4,UPI,Delivered
+ORD-10983,2026-04-22,Rohan Gupta,Mumbai,Maharashtra,Corporate,Home Office,Desk Lamp,2,1900,0.0,3800.0,3218.19,581.81,UPI,Delivered
+ORD-10510,2025-03-18,Vivaan Singh,Amravati,Maharashtra,Consumer,Gaming,Gaming Laptop,4,75190,0.1,270684.0,241480.17,29203.83,UPI,Cancelled
+ORD-10268,2025-12-12,Vivaan Patil,Aurangabad,Maharashtra,Corporate,Accessories,USB Hub,5,1150,0.0,5750.0,4789.01,960.99,UPI,Delivered
+ORD-10828,2025-07-23,Pooja Verma,Nagpur,Maharashtra,Consumer,Home Office,Desk Lamp,3,1940,0.0,5820.0,4254.19,1565.81,UPI,Delivered
+ORD-10442,2025-02-10,Aarav Singh,Surat,Gujarat,Corporate,Gaming,Gaming Mouse,2,2540,0.1,4572.0,3880.44,691.56,UPI,Shipped
+ORD-10497,2025-02-11,Neha Jadhav,Jaipur,Rajasthan,Consumer,Electronics,Monitor,2,14660,0.0,29320.0,25669.3,3650.7,UPI,Delivered
+ORD-10113,2025-11-19,Arjun Verma,Bengaluru,Karnataka,Corporate,Electronics,Monitor,5,13750,0.05,65312.5,60384.34,4928.16,UPI,Delivered
+ORD-10692,2025-04-08,Sneha Singh,Pune,Maharashtra,Consumer,Accessories,Mouse,5,950,0.15,4037.5,3405.01,632.49,UPI,Delivered
+ORD-10233,2025-10-27,Aditya Jadhav,Amravati,Maharashtra,Consumer,Electronics,Monitor,1,13340,0.05,12673.0,9268.74,3404.26,Debit Card,Delivered
+ORD-10878,2025-08-23,Neha Jadhav,Kolkata,West Bengal,Consumer,Accessories,USB Hub,5,1180,0.0,5900.0,5081.07,818.93,UPI,Delivered
+ORD-10608,2025-10-03,Neha Patil,Indore,Madhya Pradesh,Consumer,Electronics,Monitor,5,13740,0.1,61830.0,50915.61,10914.39,UPI,Delivered
+ORD-10672,2025-06-10,Ananya Singh,Hyderabad,Telangana,Consumer,Gaming,Gaming Keyboard,4,4290,0.0,17160.0,14847.79,2312.21,Debit Card,Delivered
+ORD-10374,2025-10-20,Aditya Patil,Pune,Maharashtra,Consumer,Accessories,Webcam,1,3330,0.15,2830.5,2645.43,185.07,UPI,Delivered
+ORD-10992,2026-02-12,Isha Jadhav,Bhopal,Madhya Pradesh,Small Business,Accessories,USB Hub,5,1180,0.1,5310.0,5081.19,228.81,Debit Card,Delivered
+ORD-10851,2026-07-16,Ananya Sharma,Surat,Gujarat,Small Business,Accessories,Keyboard,2,1680,0.05,3192.0,2698.49,493.51,Net Banking,Delivered
+ORD-10234,2026-01-17,Rohan Deshmukh,Bengaluru,Karnataka,Consumer,Home Office,Desk Lamp,2,1830,0.0,3660.0,2544.13,1115.87,UPI,Delivered
+ORD-10793,2025-02-15,Arjun Singh,Nashik,Maharashtra,Consumer,Electronics,Monitor,2,13270,0.1,23886.0,19630.02,4255.98,UPI,Shipped
+ORD-10677,2026-07-15,Pooja Gupta,Nagpur,Maharashtra,Consumer,Home Office,Desk Lamp,2,1910,0.0,3820.0,3185.71,634.29,Credit Card,Delivered
+ORD-10318,2025-03-03,Priya Verma,Hyderabad,Telangana,Consumer,Home Office,Desk Lamp,1,1670,0.0,1670.0,1247.7,422.3,Debit Card,Shipped
+ORD-10649,2026-03-24,Rohan Gupta,Hyderabad,Telangana,Corporate,Electronics,Tablet,4,17280,0.1,62208.0,56455.51,5752.49,Debit Card,Delivered
+ORD-10411,2025-12-14,Aarav Sharma,Bengaluru,Karnataka,Corporate,Home Office,Office Chair,5,8420,0.0,42100.0,29309.63,12790.37,UPI,Delivered
+ORD-10907,2025-11-03,Amit Deshmukh,Bengaluru,Karnataka,Consumer,Accessories,Keyboard,2,1670,0.0,3340.0,2705.57,634.43,Credit Card,Cancelled
+ORD-10710,2026-04-01,Arjun Jadhav,Delhi,Delhi,Consumer,Electronics,Smartphone,4,23390,0.05,88882.0,79372.72,9509.28,UPI,Delivered
+ORD-10359,2026-04-18,Isha Verma,Delhi,Delhi,Consumer,Electronics,Headphones,3,2370,0.0,7110.0,5122.46,1987.54,UPI,Delivered
+ORD-10259,2025-02-17,Pooja Pawar,Jaipur,Rajasthan,Corporate,Electronics,Laptop,4,46920,0.05,178296.0,156974.05,21321.95,Debit Card,Delivered
+ORD-10745,2025-05-16,Pooja Singh,Indore,Madhya Pradesh,Consumer,Accessories,USB Hub,1,1150,0.05,1092.5,1006.37,86.13,Net Banking,Delivered
+ORD-10628,2026-03-07,Arjun Sharma,Amravati,Maharashtra,Consumer,Gaming,Gaming Keyboard,3,4080,0.1,11016.0,9027.53,1988.47,Cash,Delivered
+ORD-10633,2025-01-27,Neha Deshmukh,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Mouse,1,2650,0.0,2650.0,2254.76,395.24,UPI,Delivered
+ORD-10283,2025-06-03,Aditya Sharma,Amravati,Maharashtra,Consumer,Accessories,Keyboard,4,1800,0.1,6480.0,5416.42,1063.58,Debit Card,Delivered
+ORD-10377,2026-07-30,Pooja Jadhav,Delhi,Delhi,Consumer,Home Office,Study Table,2,6900,0.1,12420.0,9436.29,2983.71,UPI,Delivered
+ORD-10385,2025-02-14,Ananya Pawar,Aurangabad,Maharashtra,Consumer,Home Office,Desk Lamp,3,1890,0.15,4819.5,4210.45,609.05,Debit Card,Delivered
+ORD-10225,2025-04-11,Isha Pawar,Aurangabad,Maharashtra,Consumer,Electronics,Monitor,5,14800,0.1,66600.0,61080.44,5519.56,UPI,Delivered
+ORD-10964,2026-02-08,Kavya Pawar,Indore,Madhya Pradesh,Small Business,Home Office,Printer,4,12950,0.0,51800.0,45118.82,6681.18,UPI,Delivered
+ORD-10823,2025-04-06,Rahul Jadhav,Mumbai,Maharashtra,Small Business,Electronics,Smartphone,3,22660,0.1,61182.0,54153.12,7028.88,UPI,Delivered
+ORD-10473,2026-01-26,Rahul Jadhav,Ahmedabad,Gujarat,Consumer,Electronics,Smartphone,5,20710,0.0,103550.0,87419.86,16130.14,Credit Card,Shipped
+ORD-10348,2025-04-28,Pooja Gupta,Nashik,Maharashtra,Small Business,Electronics,Tablet,4,19430,0.05,73834.0,58363.5,15470.5,UPI,Delivered
+ORD-10506,2026-06-19,Rohan Sharma,Ahmedabad,Gujarat,Consumer,Electronics,Laptop,2,44580,0.0,89160.0,65817.9,23342.1,Debit Card,Delivered
+ORD-10640,2025-01-03,Swaraj Patil,Indore,Madhya Pradesh,Small Business,Electronics,Laptop,5,42900,0.05,203775.0,169235.42,34539.58,Debit Card,Delivered
+ORD-10998,2026-03-10,,Bengaluru,Karnataka,Consumer,Gaming,Gaming Laptop,1,66700,0.0,66700.0,50776.35,15923.65,UPI,Delivered
+ORD-10798,2025-04-28,Pooja Pawar,Delhi,Delhi,Consumer,Electronics,Headphones,5,2400,0.05,11400.0,8818.91,2581.09,Credit Card,Delivered
+ORD-10937,2025-01-15,Amit Kulkarni,Mumbai,Maharashtra,Consumer,Gaming,Gaming Laptop,3,68490,0.2,164376.0,146011.64,18364.36,UPI,Shipped
+ORD-10914,2025-09-11,Rohan Gupta,Nagpur,Maharashtra,Consumer,Gaming,Gaming Laptop,3,72620,0.05,206967.0,168812.11,38154.89,UPI,Delivered
+ORD-10620,2026-06-23,Swaraj Pawar,Kolkata,West Bengal,Corporate,Accessories,Webcam,2,3070,0.15,5219.0,4815.9,403.1,UPI,Delivered
+ORD-10864,2025-03-22,Rohan Jadhav,Amravati,Maharashtra,Consumer,Home Office,Desk Lamp,3,1920,0.0,5760.0,4839.33,920.67,UPI,Delivered
+ORD-10812,2025-06-03,Swaraj Kulkarni,Amravati,Maharashtra,Corporate,Gaming,Gaming Headset,1,3270,0.15,2779.5,2470.94,308.56,UPI,Delivered
+ORD-10646,2026-06-16,Aarav Verma,Surat,Gujarat,Consumer,Electronics,Laptop,5,46490,0.15,197582.5,173376.15,24206.35,Credit Card,Delivered
+ORD-10855,2025-02-17,Sneha Sharma,Nagpur,Maharashtra,Consumer,Accessories,Keyboard,3,1680,0.0,5040.0,3719.82,1320.18,UPI,Delivered
+ORD-10557,2026-02-17,Neha Pawar,Kolkata,West Bengal,Corporate,electronics,Monitor,1,13160,0.0,13160.0,11280.55,1879.45,Credit Card,Cancelled
+ORD-10968,2026-08-04,Ananya Deshmukh,Amravati,Maharashtra,Consumer,Accessories,Webcam,2,3130,0.0,6260.0,5228.54,1031.46,UPI,Delivered
+ORD-10578,2026-08-03,Aarav Sharma,Aurangabad,Maharashtra,Small Business,Home Office,Desk Lamp,2,1860,0.0,3720.0,2632.57,1087.43,UPI,Delivered
+ORD-10796,2025-01-19,Amit Deshmukh,Surat,Gujarat,Corporate,Accessories,Keyboard,3,1830,0.05,5215.5,3913.48,1302.02,UPI,Delivered
+ORD-10086,2025-02-08,Vivaan Patil,Bhopal,Madhya Pradesh,Small Business,Electronics,Monitor,3,14180,0.0,42540.0,35032.85,7507.15,Debit Card,Delivered
+ORD-10243,2026-02-22,Priya Gupta,Pune,Maharashtra,Consumer,Home Office,Office Chair,2,8680,0.0,17360.0,14254.16,3105.84,Credit Card,Shipped
+ORD-10699,2026-07-19,Aditya Verma,Delhi,Delhi,Consumer,Home Office,Office Chair,4,8170,0.15,27778.0,25993.81,1784.19,Debit Card,Delivered
+ORD-10160,2025-12-29,Kavya Patil,Bengaluru,Karnataka,Consumer,Accessories,Power Bank,4,1720,0.05,6536.0,4685.98,1850.02,UPI,Delivered
+ORD-10525,2026-06-26,Neha Kulkarni,Bengaluru,Karnataka,Consumer,Electronics,Tablet,1,18500,0.0,18500.0,13609.02,4890.98,Debit Card,Delivered
+ORD-10036,2026-06-26,Rohan Jadhav,Indore,Madhya Pradesh,Consumer,Home Office,Printer,2,12680,0.2,20288.0,20063.85,224.15,UPI,Delivered
+ORD-10541,2026-07-21,Arjun Singh,Ahmedabad,Gujarat,Consumer,Home Office,Office Chair,3,8650,0.0,25950.0,21784.61,4165.39,UPI,Delivered
+ORD-10171,2026-02-16,Vivaan Deshmukh,Nagpur,Maharashtra,Corporate,Electronics,Tablet,3,17460,0.1,47142.0,41964.54,5177.46,Credit Card,Delivered
+ORD-10655,2025-04-28,Aarav Kulkarni,Mumbai,Maharashtra,Corporate,Electronics,Headphones,2,2610,0.05,4959.0,4336.37,622.63,Debit Card,Delivered
+ORD-10899,2026-04-26,Isha Singh,Amravati,Maharashtra,Small Business,Electronics,Monitor,2,13270,0.05,25213.0,20577.12,4635.88,UPI,Delivered
+ORD-10866,2026-01-16,Amit Jadhav,Mumbai,Maharashtra,Small Business,Electronics,Smartphone,5,23480,,117400.0,101013.83,16386.17,UPI,Delivered
+ORD-10856,2026-02-11,Vivaan Joshi,Ahmedabad,Gujarat,Small Business,Accessories,Webcam,1,3430,0.1,3087.0,2769.72,317.28,UPI,Delivered
+ORD-10953,2025-01-08,Arjun Joshi,Nashik,Maharashtra,Consumer,Gaming,Controller,2,2730,0.05,5187.0,3922.46,1264.54,UPI,Delivered
+ORD-10734,2026-01-07,Kavya Pawar,Ahmedabad,Gujarat,Consumer,Home Office,Printer,5,12720,0.1,57240.0,47604.28,9635.72,Cash,Delivered
+ORD-10096,2025-01-01,Kavya Pawar,Delhi,Delhi,Consumer,Accessories,Keyboard,4,1760,0.1,6336.0,5907.19,428.81,UPI,Cancelled
+ORD-10564,2026-01-19,Aarav Patil,Surat,Gujarat,Small Business,Accessories,Keyboard,1,1830,0.0,1830.0,1394.76,435.24,UPI,Delivered
+ORD-10241,2026-04-16,Pooja Gupta,Pune,Maharashtra,Consumer,Electronics,Smartphone,2,23070,0.1,41526.0,39982.25,1543.75,Credit Card,Delivered
+ORD-10743,2026-04-03,Sneha Patil,Bengaluru,Karnataka,Corporate,Electronics,Monitor,5,14040,0.1,63180.0,54016.55,9163.45,UPI,Delivered
+ORD-10575,2025-04-08,Ananya Singh,Jaipur,Rajasthan,Consumer,Home Office,Study Table,1,6440,0.05,6118.0,5595.67,522.33,UPI,Delivered
+ORD-10691,2026-07-28,Vivaan Patil,Mumbai,Maharashtra,Corporate,Accessories,Mouse,1,890,0.0,890.0,709.62,180.38,UPI,Delivered
+ORD-10461,2026-06-04,Aditya Pawar,Pune,Maharashtra,Consumer,Accessories,USB Hub,2,1250,0.0,2500.0,1701.35,798.65,UPI,Delivered
+ORD-10554,2026-02-05,Amit Pawar,Ahmedabad,Gujarat,Corporate,Gaming,Controller,5,2810,0.0,14050.0,10247.1,3802.9,Credit Card,Delivered
+ORD-10887,2025-07-02,Vivaan Pawar,Indore,Madhya Pradesh,Consumer,Accessories ,Monitor,2,14040,0.0,28080.0,20273.0,7807.0,UPI,Delivered
+ORD-10207,2025-05-31,Ananya Sharma,Nagpur,Maharashtra,Small Business,Electronics,Headphones,4,2660,0.1,9576.0,7526.73,2049.27,UPI,Cancelled
+ORD-10393,2025-06-20,Rohan Kulkarni,Amravati,Maharashtra,Small Business,Electronics,Headphones,2,2390,0.0,4780.0,4125.14,654.86,Debit Card,Delivered
+ORD-10795,2025-03-28,Pooja Patil,Delhi,Delhi,Corporate,Home Office,Desk Lamp,2,1660,0.1,2988.0,2353.29,634.71,UPI,Shipped
+ORD-10398,2025-05-15,Rohan Singh,Bengaluru,Karnataka,Consumer,Electronics,Laptop,1,42390,0.05,40270.5,30392.95,9877.55,UPI,Delivered
+ORD-10767,2025-02-22,Pooja Patil,Mumbai,Maharashtra,Small Business,Accessories,Webcam,4,3330,0.05,12654.0,10773.29,1880.71,Credit Card,Cancelled
+ORD-10884,2026-07-15,Rahul Patil,Nagpur,Maharashtra,Consumer,Home Office,Desk Lamp,4,1890,0.1,6804.0,6335.24,468.76,Credit Card,Delivered
+ORD-10218,2025-01-10,Rahul Gupta,Nashik,Maharashtra,Consumer,Home Office,Printer,2,13150,0.05,24985.0,20320.92,4664.08,Net Banking,Delivered
+ORD-10005,2025-11-06,,Ahmedabad,Gujarat,Consumer,Home Office,Desk Lamp,5,1800,0.15,7650.0,6697.16,952.84,Credit Card,Delivered
+ORD-10769,2025-09-04,Priya Gupta,Bhopal,Madhya Pradesh,Consumer,Home Office,Printer,3,13390,0.05,38161.5,34442.61,3718.89,UPI,Delivered
+ORD-10643,2026-03-27,Swaraj Gupta,Mumbai,Maharashtra,Small Business,Electronics,Monitor,5,15060,0.05,71535.0,53010.02,18524.98,UPI,Delivered
+ORD-10906,2025-09-26,Aditya Patil,Amravati,Maharashtra,Small Business,Electronics,Monitor,3,13490,0.0,40470.0,31098.4,9371.6,UPI,Delivered
+ORD-10613,2025-06-02,Aarav Pawar,Kolkata,West Bengal,Corporate,Electronics,Tablet,4,18230,0.1,65628.0,62880.04,2747.96,UPI,Delivered
+ORD-10739,2026-07-24,Neha Joshi,Hyderabad,Telangana,Consumer,Home Office,Printer,3,11710,0.0,35130.0,26284.93,8845.07,Debit Card,Delivered
+ORD-10547,2025-06-24,Aarav Patil,Bengaluru,Karnataka,Consumer,Accessories,Webcam,4,3130,0.05,11894.0,10538.83,1355.17,Debit Card,Delivered
+ORD-10726,2025-01-26,Swaraj Pawar,Delhi,Delhi,Consumer,Electronics,Tablet,3,17200,0.0,51600.0,45314.98,6285.02,UPI,Delivered
+ORD-10684,2025-06-17,Vivaan Singh,Bengaluru,Karnataka,Consumer,Electronics,Monitor,5,13180,0.1,59310.0,57856.73,1453.27,UPI,Delivered
+ORD-10099,2025-11-26,Isha Kulkarni,Nashik,Maharashtra,Corporate,Electronics,Smartphone,4,23310,0.0,93240.0,78065.67,15174.33,UPI,Delivered
+ORD-10805,2026-03-02,Arjun Gupta,Nagpur,Maharashtra,Consumer,Home Office,Printer,4,12110,0.05,46018.0,36639.61,9378.39,Net Banking,Delivered
+ORD-10728,2026-03-04,Aarav Patil,Aurangabad,Maharashtra,Consumer,Electronics,Laptop,2,42200,0.0,84400.0,70407.13,13992.87,UPI,Delivered
+ORD-10574,2026-01-16,Aditya Patil,Mumbai,Maharashtra,Corporate,Electronics,Headphones,3,2440,0.0,7320.0,5995.26,1324.74,UPI,Delivered
+ORD-10407,2025-10-23,Priya Verma,Pune,Maharashtra,Corporate,Home Office,Office Chair,4,8000,0.0,32000.0,23279.89,8720.11,Credit Card,Delivered
+ORD-10503,2025-01-21,Swaraj Jadhav,Bengaluru,Karnataka,Consumer,Gaming,Controller,3,2920,0.0,8760.0,5971.9,2788.1,Credit Card,Delivered
+ORD-10048,2025-02-09,Aditya Jadhav,Indore,Madhya Pradesh,Corporate,Gaming,Controller,1,2600,0.15,2210.0,2036.36,173.64,Credit Card,Delivered
+ORD-10033,2026-03-31,Aditya Sharma,Bengaluru,Karnataka,Corporate,Home Office,Office Chair,5,8760,0.0,43800.0,31942.48,11857.52,Debit Card,Delivered
+ORD-10780,2025-06-01,Swaraj Singh,Amravati,Maharashtra,Consumer,Electronics,Laptop,4,48300,0.15,164220.0,140282.32,23937.68,Debit Card,Delivered
+ORD-10840,2025-06-11,Vivaan Pawar,Delhi,Delhi,Consumer,Electronics,Smartphone,4,23330,0.1,83988.0,75865.43,8122.57,Credit Card,Delivered
+ORD-10201,2026-06-17,Aarav Pawar,Surat,Gujarat,Corporate,Home Office,Office Chair,4,8970,0.0,35880.0,30846.47,5033.53,Credit Card,Delivered
+ORD-10135,2026-04-14,Amit Kulkarni,Jaipur,Rajasthan,Corporate,Electronics,Laptop,1,42490,0.0,42490.0,31025.91,11464.09,Credit Card,Delivered
+ORD-10028,2026-03-30,Rahul Jadhav,Nashik,Maharashtra,Corporate,Electronics,Headphones,5,2580,0.1,11610.0,10894.27,715.73,UPI,Delivered
+ORD-10889,2025-10-26,Priya Singh,Jaipur,Rajasthan,Consumer,Electronics,Smartphone,3,22770,0.1,61479.0,47820.3,13658.7,Cash,Delivered
+ORD-10231,2026-05-27,Kavya Pawar,Amravati,Maharashtra,Consumer,Electronics,Monitor,1,14320,0.1,12888.0,11548.46,1339.54,Debit Card,Delivered
+ORD-10490,2025-03-28,Rahul Deshmukh,Nagpur,Maharashtra,Consumer,Home Office,Printer,3,11760,0.05,33516.0,25381.72,8134.28,Net Banking,Delivered
+ORD-10773,2025-11-13,Ananya Patil,Ahmedabad,Gujarat,Consumer,Accessories,Keyboard,4,1770,0.15,6018.0,6228.84,-210.84,Credit Card,Delivered
+ORD-10379,2026-03-15,Amit Jadhav,Hyderabad,Telangana,Corporate,Home Office,Desk Lamp,4,1720,0.2,5504.0,5566.75,-62.75,Debit Card,Delivered
+ORD-10289,2026-08-14,Pooja Sharma,Jaipur,Rajasthan,Consumer,Home Office,Printer,2,13020,0.05,24738.0,21374.07,3363.93,Debit Card,Delivered
+ORD-10419,2026-04-10,Arjun Kulkarni,Pune,Maharashtra,Consumer,Gaming,Gaming Keyboard,2,4490,0.05,8531.0,6999.47,1531.53,Debit Card,Delivered
+ORD-10675,2025-06-08,Rahul Kulkarni,Mumbai,Maharashtra,Corporate,Accessories ,USB Hub,1,1170,0.05,1111.5,812.5,299.0,Debit Card,Delivered
+ORD-10392,2026-01-29,Neha Joshi,Ahmedabad,Gujarat,Consumer,Electronics,Monitor,5,14360,0.1,64620.0,53298.17,11321.83,UPI,Delivered
+ORD-10593,2025-01-31,Pooja Deshmukh,Pune,Maharashtra,Small Business,Accessories,Mouse,1,900,0.05,855.0,668.87,186.13,Net Banking,Delivered
+ORD-10499,2025-04-30,Isha Sharma,Delhi,Delhi,Consumer,Electronics,Smartphone,5,20750,0.1,93375.0,85645.15,7729.85,UPI,Delivered
+ORD-10139,2025-10-09,Swaraj Verma,Bhopal,Madhya Pradesh,Small Business,Electronics,Laptop,2,46810,0.05,88939.0,74006.86,14932.14,Credit Card,Delivered
+ORD-10063,2025-01-22,Amit Patil,Indore,Madhya Pradesh,Small Business,Electronics,Smartphone,2,22670,0.1,40806.0,32646.16,8159.84,UPI,Shipped
+ORD-10472,2025-05-17,Arjun Gupta,Pune,Maharashtra,Corporate,Accessories,Keyboard,3,1920,0.0,5760.0,4065.51,1694.49,UPI,Delivered
+ORD-10648,2025-05-12,Vivaan Jadhav,Bengaluru,Karnataka,Corporate,Electronics,Headphones,1,2530,0.0,2530.0,2176.26,353.74,UPI,Delivered
+ORD-10129,2025-09-14,Aditya Jadhav,Mumbai,Maharashtra,Small Business,Accessories,Power Bank,1,1920,0.1,1728.0,1327.16,400.84,Debit Card,Delivered
+ORD-10987,2026-06-01,Rohan Jadhav,Nashik,Maharashtra,Consumer,Gaming,Gaming Keyboard,3,4150,0.2,9960.0,8605.64,1354.36,UPI,Delivered
+ORD-10521,2025-11-18,Priya Sharma,Mumbai,Maharashtra,Consumer,Accessories,USB Hub,2,1110,0.0,2220.0,1709.97,510.03,Cash,Delivered
+ORD-10839,2025-11-29,Pooja Deshmukh,Kolkata,West Bengal,Consumer,Electronics,Monitor,2,14140,,28280.0,24448.76,3831.24,UPI,Cancelled
+ORD-10973,2025-03-09,Priya Kulkarni,Hyderabad,Telangana,Consumer,Home Office,Office Chair,2,8680,0.0,17360.0,14920.86,2439.14,UPI,Delivered
+ORD-10065,2026-05-31,Sneha Pawar,Aurangabad,Maharashtra,Corporate,Accessories,Webcam,1,3030,0.0,3030.0,2499.64,530.36,Credit Card,Delivered
+ORD-10813,2025-12-10,Amit Sharma,Aurangabad,Maharashtra,Consumer,Electronics,Laptop,5,47240,0.0,236200.0,194506.14,41693.86,Credit Card,Delivered
+ORD-10015,2026-04-20,Aditya Gupta,Nashik,Maharashtra,Small Business,Home Office,Office Chair,2,8870,0.0,17740.0,12307.73,5432.27,Cash,Delivered
+ORD-10157,2025-09-24,Aditya Kulkarni,Jaipur,Rajasthan,Corporate,Accessories,Keyboard,3,1910,0.0,5730.0,4592.12,1137.88,Debit Card,Delivered
+ORD-10041,2026-03-24,Kavya Gupta,Hyderabad,Telangana,Consumer,Home Office,Office Chair,4,8820,0.0,35280.0,24769.91,10510.09,UPI,Delivered
+ORD-10493,2025-02-12,Amit Pawar,Pune,Maharashtra,Consumer,Electronics,Tablet,3,19180,0.0,57540.0,46384.55,11155.45,Credit Card,Delivered
+ORD-10380,2026-05-17,Priya Pawar,Pune,Maharashtra,Consumer,Electronics,Laptop,5,46240,0.1,208080.0,183806.8,24273.2,UPI,Delivered
+ORD-10188,2025-12-12,Vivaan Sharma,PUNE,West Bengal,Corporate,Gaming,Gaming Mouse,2,2630,0.05,4997.0,4247.02,749.98,Debit Card,Delivered
+ORD-10764,2025-04-02,Rahul Verma,Nagpur,Maharashtra,Small Business,Gaming,Gaming Laptop,1,71660,0.15,60911.0,59661.24,1249.76,UPI,Delivered
+ORD-10217,2025-02-27,Aarav Verma,Nagpur,Maharashtra,Consumer,Accessories,USB Hub,1,1170,0.0,1170.0,1001.4,168.6,Debit Card,Delivered
+ORD-10792,2025-05-25,Aarav Jadhav,Surat,Gujarat,Consumer,Home Office,Study Table,5,6830,0.15,29027.5,29631.01,-603.51,UPI,Delivered
+ORD-10053,2025-07-14,Priya Gupta,Pune,Maharashtra,Consumer,Gaming,Gaming Laptop,4,67020,0.05,254676.0,200839.27,53836.73,Cash,Cancelled
+ORD-10879,2026-01-20,Vivaan Singh,Hyderabad,Telangana,Consumer,Electronics,Tablet,1,16620,0.0,16620.0,13021.44,3598.56,Credit Card,Shipped
+ORD-10338,2026-07-16,Swaraj Deshmukh,Surat,Gujarat,Corporate,Electronics,Tablet,1,18160,0.0,18160.0,12683.3,5476.7,Credit Card,Delivered
+ORD-10749,2025-07-13,Aarav Kulkarni,Ahmedabad,Gujarat,Corporate,Electronics,Tablet,2,17450,0.0,34900.0,30613.29,4286.71,UPI,Shipped
+ORD-10720,2026-05-17,Isha Jadhav,Aurangabad,Maharashtra,Small Business,Accessories,Mouse,5,930,0.2,3720.0,3188.82,531.18,UPI,Delivered
+ORD-10725,2026-05-22,Swaraj Patil,Jaipur,Rajasthan,Corporate,Home Office,Printer,3,12100,0.05,34485.0,26775.98,7709.02,UPI,Delivered
+ORD-10296,2026-06-27,Isha Gupta,Nagpur,Maharashtra,Small Business,Electronics,Tablet,4,17310,0.0,69240.0,58640.35,10599.65,Credit Card,Delivered
+ORD-10702,2025-11-25,Swaraj Kulkarni,Pune,Maharashtra,Consumer,Gaming,Gaming Laptop,4,75710,0.1,272556.0,242073.52,30482.48,UPI,Delivered
+ORD-10252,2026-05-17,Aarav Sharma,Ahmedabad,Gujarat,Consumer,Accessories,Mouse,1,860,0.0,860.0,678.83,181.17,Net Banking,Delivered
+ORD-10727,2025-05-18,Swaraj Gupta,Kolkata,West Bengal,Corporate,Gaming,Gaming Laptop,2,70100,0.0,140200.0,105929.42,34270.58,Debit Card,Delivered
+ORD-10462,2026-05-04,Vivaan Verma,Indore,Madhya Pradesh,Small Business,Home Office,Desk Lamp,2,1900,0.0,3800.0,3225.3,574.7,Debit Card,Delivered
+ORD-10456,2026-01-21,Arjun Patil,Kolkata,West Bengal,Consumer,Electronics,Monitor,5,14030,0.1,63135.0,52443.88,10691.12,Debit Card,Delivered
+ORD-10813,2025-12-10,Amit Sharma,Aurangabad,Maharashtra,Consumer,Electronics,Laptop,5,47240,0.0,236200.0,194506.14,41693.86,Credit Card,Delivered
+ORD-10816,2025-06-17,Priya Joshi,Surat,Gujarat,Consumer,Home Office,Desk Lamp,5,1760,0.15,7480.0,6923.71,556.29,UPI,Delivered
+ORD-10863,2026-08-02,Rohan Patil,Bhopal,Madhya Pradesh,Consumer,Electronics,Laptop,5,44190,0.05,209902.5,185729.08,24173.42,UPI,Delivered
+ORD-10270,2025-04-16,Aditya Joshi,Nashik,Maharashtra,Small Business,Accessories,Webcam,2,3120,0.05,5928.0,4507.32,1420.68,Credit Card,Delivered
+ORD-10202,2025-01-01,Sneha Pawar,Nashik,Maharashtra,Corporate,Gaming,Controller,1,3000,0.05,2850.0,2324.04,525.96,Credit Card,Cancelled
+ORD-10162,2025-09-29,Isha Patil,Amravati,Maharashtra,Consumer,Electronics,Laptop,5,46260,0.0,231300.0,178128.62,53171.38,Debit Card,Shipped
+ORD-10556,2025-06-26,Swaraj Kulkarni,,Gujarat,Consumer,Home Office,Desk Lamp,4,1930,0.1,6948.0,6056.66,891.34,UPI,Delivered
+ORD-10730,2025-05-29,Ananya Kulkarni,Indore,Madhya Pradesh,Consumer,Electronics,Headphones,3,2440,0.0,7320.0,5829.14,1490.86,UPI,Delivered
+ORD-10402,2025-09-02,Pooja Deshmukh,Surat,Gujarat,Corporate,Electronics,Tablet,4,18310,0.05,69578.0,62670.24,6907.76,UPI,Delivered
+ORD-10703,2026-04-15,Pooja Jadhav,Indore,Madhya Pradesh,Small Business,Electronics,Smartphone,1,20980,0.0,20980.0,18061.18,2918.82,UPI,Shipped
+ORD-10477,2025-05-15,Aarav Verma,Kolkata,West Bengal,Consumer,Home Office,Printer,4,12550,0.0,50200.0,43900.59,6299.41,UPI,Delivered
+ORD-10822,2025-11-30,Isha Pawar,Aurangabad,Maharashtra,Consumer,Electronics,Monitor,4,13220,0.05,50236.0,40328.44,9907.56,Cash,Delivered
+ORD-10772,2025-09-23,,Ahmedabad,Gujarat,Consumer,Electronics,Headphones,2,2620,0.15,4454.0,3705.66,748.34,UPI,Delivered
+ORD-10106,2026-02-13,Rahul Deshmukh,Delhi,Delhi,Consumer,Electronics,Headphones,4,2560,0.1,9216.0,8446.6,769.4,Credit Card,Delivered
+ORD-10566,2026-03-18,Vivaan Pawar,Hyderabad,Telangana,Consumer,Electronics,Tablet,2,19220,0.0,38440.0,32859.35,5580.65,Cash,Delivered
+ORD-10390,2026-02-09,Pooja Singh,Jaipur,Rajasthan,Consumer,Accessories,Power Bank,2,1700,0.05,3230.0,2334.62,895.38,Net Banking,Delivered
+ORD-10002,2025-09-02,Neha Pawar,Amravati,Maharashtra,Consumer,Electronics,Monitor,3,13080,0.1,35316.0,27119.97,8196.03,UPI,Delivered
+ORD-10946,2025-11-14,Arjun Verma,Kolkata,West Bengal,Consumer,Accessories,Mouse,5,890,0.05,4227.5,3728.86,498.64,Credit Card,Delivered
+ORD-10993,2026-06-23,Aditya Joshi,Surat,Gujarat,Consumer,Home Office,Study Table,4,6600,0.1,23760.0,21938.83,1821.17,Credit Card,Delivered
+ORD-10562,2025-04-23,Ananya Kulkarni,Indore,Madhya Pradesh,Corporate,Accessories,Webcam,3,3430,0.1,9261.0,7449.31,1811.69,Credit Card,Delivered
+ORD-10081,2026-05-31,Ananya Patil,Nashik,Maharashtra,Consumer,Home Office,Desk Lamp,2,1880,0.1,3384.0,2884.36,499.64,Credit Card,Delivered
+ORD-10206,2025-04-29,Kavya Sharma,Kolkata,West Bengal,Consumer,Electronics,Smartphone,5,23630,0.05,112242.5,102286.24,9956.26,UPI,Delivered
+ORD-10035,2026-04-05,Neha Sharma,Nagpur,Maharashtra,Consumer,Home Office,Office Chair,1,8720,0.1,7848.0,7410.6,437.4,UPI,Cancelled
+ORD-10776,2026-05-14,Rahul Verma,Kolkata,West Bengal,Small Business,Home Office,Study Table,5,6820,0.0,34100.0,27717.34,6382.66,Debit Card,Delivered
+ORD-10509,2025-09-27,Aarav Verma,Pune,Maharashtra,Consumer,Electronics,Tablet,2,19400,0.1,34920.0,28598.74,6321.26,Net Banking,Delivered
+ORD-10428,2025-02-18,Priya Jadhav,Hyderabad,Telangana,Consumer,Accessories,USB Hub,2,1140,0.05,2166.0,1900.95,265.05,Debit Card,Delivered
+ORD-10455,2025-12-31,Aditya Pawar,Amravati,Maharashtra,Consumer,Accessories,Keyboard,3,1830,0.0,5490.0,4581.02,908.98,UPI,Delivered
+ORD-10367,2025-02-09,Aarav Joshi,Jaipur,Rajasthan,Corporate,Accessories,Webcam,1,3370,0.1,3033.0,2875.57,157.43,UPI,Delivered
+ORD-10092,2026-05-31,Sneha Verma,Amravati,Maharashtra,Corporate,Home Office,Desk Lamp,5,1860,0.1,8370.0,8167.74,202.26,UPI,Shipped
+ORD-10340,2026-02-19,Isha Jadhav,Aurangabad,Maharashtra,Consumer,Accessories,Power Bank,2,1670,0.15,2839.0,2581.03,257.97,UPI,Delivered
+ORD-10898,2026-07-15,Rohan Patil,Bhopal,Madhya Pradesh,Small Business,Home Office,Printer,1,12670,0.15,10769.5,9844.77,924.73,Cash,Shipped
+ORD-10565,2025-02-04,Swaraj Singh,Hyderabad,Telangana,Consumer,Electronics,Smartphone,1,23630,0.05,22448.5,20715.89,1732.61,Debit Card,Delivered
+ORD-10346,2026-05-20,Rohan Kulkarni,Surat,Gujarat,Consumer,Gaming,Controller,5,2720,0.0,13600.0,11332.95,2267.05,Debit Card,Delivered
+ORD-10777,2025-05-31,Aarav Verma,Indore,Madhya Pradesh,Consumer,Electronics,Laptop,4,43660,0.1,157176.0,126441.67,30734.33,UPI,Delivered
+ORD-10242,2025-11-08,Amit Patil,Bengaluru,Karnataka,Small Business,Gaming,Gaming Keyboard,2,4150,0.0,8300.0,6971.53,1328.47,Cash,Delivered
+ORD-10014,2025-09-04,Isha Gupta,Ahmedabad,Gujarat,Small Business,Gaming,Gaming Headset,2,3550,0.05,6745.0,5696.27,1048.73,Net Banking,Delivered
+ORD-10316,2026-02-26,Aarav Sharma,Delhi,Delhi,Consumer,Electronics,Tablet,2,16630,0.05,31597.0,27003.83,4593.17,Net Banking,Delivered
+ORD-10601,2025-05-01,Vivaan Sharma,Aurangabad,Maharashtra,Corporate,Gaming,Gaming Mouse,2,2510,0.0,5020.0,3808.01,1211.99,Net Banking,Delivered
+ORD-10388,2025-01-24,Rohan Sharma,Kolkata,West Bengal,Consumer,Home Office,Office Chair,1,8230,0.0,8230.0,6603.77,1626.23,Net Banking,Delivered
+ORD-10274,2025-07-23,Rohan Jadhav,Bengaluru,Karnataka,Corporate,Gaming,Controller,5,2840,0.1,12780.0,11480.92,1299.08,UPI,Delivered
+ORD-10167,2025-06-19,Priya Joshi,Bengaluru,Karnataka,Consumer,Home Office,Office Chair,4,8220,0.05,31236.0,26154.07,5081.93,Credit Card,Delivered
+ORD-10841,2025-08-14,Amit Verma,Hyderabad,Telangana,Corporate,Home Office,Desk Lamp,1,1880,0.05,1786.0,1326.92,459.08,UPI,Delivered
+ORD-10272,2025-07-09,Aarav Gupta,Surat,Gujarat,Corporate,Home Office,Office Chair,2,8570,0.1,15426.0,14432.77,993.23,Credit Card,Delivered
+ORD-10647,2026-07-29,Sneha Patil,Nashik,Maharashtra,Corporate,Home Office,Office Chair,5,8790,0.1,39555.0,31944.61,7610.39,UPI,Delivered
+ORD-10819,2025-12-19,Amit Joshi,Nagpur,Maharashtra,Consumer,Home Office,Office Chair,3,8050,0.0,24150.0,17801.58,6348.42,Debit Card,Delivered
+ORD-10485,2025-04-27,Pooja Singh,Amravati,Maharashtra,Consumer,Accessories,USB Hub,1,1110,0.0,1110.0,762.13,347.87,Debit Card,Delivered
+ORD-10991,2026-01-29,Priya Deshmukh,Delhi,Delhi,Consumer,Accessories,Webcam,3,3030,0.15,7726.5,6186.05,1540.45,Debit Card,Delivered
+ORD-10505,2026-08-06,Ananya Pawar,Jaipur,Rajasthan,Consumer,Electronics,Laptop,2,45700,0.1,82260.0,62685.23,19574.77,Debit Card,Delivered
+ORD-10832,2026-03-12,Ananya Gupta,Aurangabad,Maharashtra,Consumer,Home Office,Printer,4,11700,0.0,46800.0,36457.72,10342.28,UPI,Delivered
+ORD-10244,2025-03-19,Pooja Kulkarni,Jaipur,Rajasthan,Consumer,Accessories,Webcam,2,2960,0.0,5920.0,4620.72,1299.28,UPI,Delivered
+ORD-10567,2026-07-08,Vivaan Pawar,Kolkata,West Bengal,Consumer,Home Office,Study Table,1,6140,0.0,6140.0,4435.29,1704.71,Net Banking,Delivered
+ORD-10876,2025-11-17,Amit Singh,Nagpur,Maharashtra,Small Business,Electronics,Laptop,1,42820,0.05,40679.0,37041.57,3637.43,Net Banking,Shipped
+ORD-10563,2025-05-10,Aditya Kulkarni,Nashik,Maharashtra,Consumer,Accessories,USB Hub,5,1240,0.05,5890.0,4662.14,1227.86,UPI,Delivered
+ORD-10963,2025-05-02,Aarav Patil,Nagpur,Maharashtra,Consumer,Home Office,Printer,1,11530,0.0,11530.0,8170.3,3359.7,UPI,Delivered
+ORD-10687,2025-09-09,Aditya Joshi,Aurangabad,Maharashtra,Small Business,Home Office,Office Chair,5,8260,0.0,41300.0,28296.63,13003.37,Cash,Delivered
+ORD-10958,2025-01-01,Sneha Sharma,Bhopal,Madhya Pradesh,Corporate,Electronics,Monitor,2,13560,0.1,24408.0,18743.06,5664.94,Credit Card,Delivered
+ORD-10190,2026-06-19,Rohan Patil,Jaipur,Rajasthan,Consumer,Accessories,Keyboard,1,1800,0.0,1800.0,1323.42,476.58,Debit Card,Delivered
+ORD-10783,2026-06-24,Rahul Patil,Indore,Madhya Pradesh,Consumer,Accessories,Power Bank,2,1870,0.0,3740.0,3043.0,697.0,Credit Card,Delivered
+ORD-10700,2026-03-23,Aditya Patil,Nagpur,Maharashtra,Corporate,Electronics,Laptop,4,44940,0.15,152796.0,137081.78,15714.22,Credit Card,Delivered
+ORD-10476,2025-02-19,Priya Joshi,Surat,Gujarat,Small Business,Accessories,Webcam,3,2990,,8970.0,7162.9,1807.1,Credit Card,Delivered
+ORD-10682,2025-03-13,Rohan Sharma,Ahmedabad,Gujarat,Consumer,Electronics,Headphones,5,2320,0.0,11600.0,8299.59,3300.41,UPI,Delivered
+ORD-10511,2025-07-23,Sneha Jadhav,Nagpur,Maharashtra,Small Business,Accessories,Webcam,2,3050,0.0,6100.0,4491.17,1608.83,UPI,Delivered
+ORD-10059,2025-09-10,Amit Patil,Amravati,Maharashtra,Corporate,Gaming,Gaming Mouse,3,2370,0.05,6754.5,4836.55,1917.95,UPI,Delivered
+ORD-10475,2026-02-26,Isha Verma,Delhi,Delhi,Consumer,Gaming,Gaming Mouse,3,2340,0.1,6318.0,6008.17,309.83,UPI,Delivered
+ORD-10561,2025-12-16,Sneha Patil,Aurangabad,Maharashtra,Small Business,Electronics,Laptop,5,44320,0.0,221600.0,166079.83,55520.17,Credit Card,Delivered
+ORD-10857,2026-05-05,Kavya Jadhav,Amravati,Maharashtra,Corporate,Home Office,Desk Lamp,4,1680,0.1,6048.0,5287.33,760.67,Cash,Delivered
+ORD-10748,2026-07-01,Neha Verma,Nagpur,Maharashtra,Consumer,Accessories,USB Hub,2,1110,0.1,1998.0,1762.98,235.02,Credit Card,Delivered
+ORD-10253,2026-02-16,Aditya Pawar,Amravati,Maharashtra,Corporate,Electronics,Headphones,2,2500,0.0,5000.0,4164.8,835.2,Net Banking,Delivered
+ORD-10022,2026-05-10,Amit Gupta,Ahmedabad,Gujarat,Consumer,Gaming,Gaming Mouse,4,2620,0.2,8384.0,8886.6,-502.6,,Delivered
+ORD-10314,2025-05-13,Priya Deshmukh,Indore,Madhya Pradesh,Consumer,Gaming,Gaming Mouse,2,2400,0.05,4560.0,3527.41,1032.59,Cash,Delivered
+ORD-10460,2026-07-25,Sneha Sharma,Delhi,Delhi,Consumer,Electronics,Laptop,1,46780,0.0,46780.0,40684.76,6095.24,Debit Card,Delivered
+ORD-10161,2025-09-05,Neha Singh,Ahmedabad,Gujarat,Small Business,Accessories,Power Bank,1,1720,0.0,1720.0,1184.87,535.13,UPI,Delivered
+ORD-10277,2026-05-22,Aditya Sharma,Bhopal,Madhya Pradesh,Consumer,Electronics,Headphones,4,2630,0.15,8942.0,9127.08,-185.08,UPI,Delivered
+ORD-10956,2026-05-10,Vivaan Kulkarni,Nashik,Maharashtra,Corporate,Accessories,Mouse,2,960,0.0,1920.0,1430.48,489.52,Cash,Delivered
+ORD-10192,2026-07-09,Aarav Singh,Indore,Madhya Pradesh,Corporate,Accessories,USB Hub,3,1120,0.1,3024.0,2616.64,407.36,UPI,Delivered
+ORD-10386,2026-05-09,Aarav Kulkarni,Bengaluru,Karnataka,Consumer,Home Office,Study Table,3,6640,0.0,19920.0,16970.56,2949.44,UPI,Delivered
+ORD-10806,2026-03-17,Rohan Patil,Pune,Maharashtra,Corporate,Electronics,Smartphone,3,23170,0.05,66034.5,57270.1,8764.4,Credit Card,Cancelled
+ORD-10414,2025-09-15,Arjun Deshmukh,Jaipur,Rajasthan,Small Business,Home Office,Office Chair,3,8410,0.1,22707.0,18989.39,3717.61,Credit Card,Delivered
+ORD-10492,2025-06-25,Aarav Verma,Nagpur,Maharashtra,Consumer,Gaming,Gaming Laptop,5,68350,0.0,341750.0,264310.67,77439.33,UPI,Shipped
+ORD-10344,2026-08-07,Aditya Kulkarni,Jaipur,Rajasthan,Consumer,Accessories,Webcam,2,3100,0.15,5270.0,4864.78,405.22,UPI,Delivered
+ORD-10770,2025-03-06,Aditya Jadhav,Hyderabad,Telangana,Consumer,Accessories,Power Bank,1,1860,0.0,1860.0,1338.07,521.93,Credit Card,Delivered
+ORD-10309,2026-01-19,Arjun Deshmukh,Jaipur,Rajasthan,Corporate,Electronics,Tablet,3,16690,0.1,45063.0,40539.03,4523.97,Net Banking,Delivered
+ORD-10662,2026-05-30,Vivaan Deshmukh,Mumbai,Maharashtra,Consumer,Gaming,Gaming Headset,5,3500,0.2,14000.0,14593.75,-593.75,Debit Card,Delivered
+ORD-10131,2025-05-29,Rahul Gupta,Aurangabad,Maharashtra,Consumer,Electronics,Monitor,4,13770,0.15,46818.0,42654.62,4163.38,UPI,Delivered
+ORD-10664,2025-07-29,Rahul Pawar,Delhi,Delhi,Consumer,Electronics,Headphones,3,2630,0.0,7890.0,6085.02,1804.98,Debit Card,Delivered
+ORD-10872,2025-02-23,Amit Deshmukh,Mumbai,Maharashtra,Corporate,Electronics,Smartphone,5,21930,0.0,109650.0,90656.33,18993.67,Debit Card,Delivered
+ORD-10100,2025-07-31,Rohan Verma,Mumbai,Maharashtra,Corporate,Electronics,Smartphone,5,21580,,107900.0,92104.66,15795.34,UPI,Delivered
+ORD-10373,2025-11-10,Neha Patil,Pune,Maharashtra,Small Business,Home Office,Printer,5,11750,0.0,58750.0,47494.52,11255.48,Credit Card,Shipped
+ORD-10088,2026-02-24,Rahul Kulkarni,Aurangabad,Maharashtra,Corporate,Accessories,Power Bank,2,1690,0.0,3380.0,2729.68,650.32,Debit Card,Delivered
+ORD-10459,2025-02-03,Kavya Kulkarni,Amravati,Maharashtra,Consumer,Accessories,USB Hub,4,1170,0.15,3978.0,3332.75,645.25,UPI,Delivered
+ORD-10331,2026-03-24,Rahul Kulkarni,Indore,Madhya Pradesh,Consumer,Accessories,Mouse,1,920,0.1,828.0,665.84,162.16,Credit Card,Delivered
+ORD-10215,2025-06-28,Ananya Gupta,Amravati,Maharashtra,Corporate,Electronics,Laptop,2,46290,0.0,92580.0,70941.84,21638.16,Credit Card,Delivered
+ORD-10467,2026-04-26,Swaraj Kulkarni,Indore,Madhya Pradesh,Corporate,Electronics,Headphones,5,2540,0.15,10795.0,9033.16,1761.84,UPI,Delivered
+ORD-10122,2026-06-24,Priya Jadhav,Delhi,Delhi,Small Business,Accessories,Mouse,1,880,0.05,836.0,690.65,145.35,Debit Card,Delivered
+ORD-10615,2026-01-11,Arjun Patil,Ahmedabad,Gujarat,Corporate,Electronics,Tablet,5,16660,0.15,70805.0,57865.27,12939.73,Debit Card,Shipped
+ORD-10021,2025-02-08,Aarav Gupta,Pune,Maharashtra,Small Business,Accessories,USB Hub,1,1180,0.05,1121.0,839.04,281.96,Net Banking,Delivered
+ORD-10701,2026-04-14,Rohan Deshmukh,Ahmedabad,Gujarat,Consumer,Electronics,Tablet,5,17740,0.05,84265.0,72948.16,11316.84,UPI,Delivered
+ORD-10072,2025-01-04,Pooja Pawar,Jaipur,Rajasthan,Consumer,Electronics,Headphones,5,2430,0.1,10935.0,8580.02,2354.98,UPI,Delivered
+ORD-10107,2026-05-25,Ananya Joshi,Surat,Gujarat,Consumer,Accessories,Power Bank,5,1880,0.0,9400.0,7174.37,2225.63,UPI,Delivered
+ORD-10271,2026-04-22,Swaraj Pawar,Nashik,Maharashtra,Small Business,Gaming,Gaming Keyboard,3,4420,0.0,13260.0,11307.18,1952.82,Credit Card,Delivered
+ORD-10861,2025-12-06,Arjun Verma,Delhi,Delhi,Consumer,Home Office,Desk Lamp,2,1800,0.0,3600.0,3044.04,555.96,UPI,Delivered
+ORD-10436,2025-02-21,Ananya Deshmukh,Indore,Madhya Pradesh,Small Business,Accessories,Power Bank,5,1780,0.1,8010.0,6418.69,1591.31,Debit Card,Delivered
+ORD-10103,2025-05-28,Sneha Kulkarni,Nashik,Maharashtra,Consumer,Electronics,Monitor,4,13580,0.05,51604.0,41712.45,9891.55,UPI,Delivered
